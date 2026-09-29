@@ -1,0 +1,118 @@
+{
+ "codigo": "utm",
+ "nombre": "UTM, UTA e IPC",
+ "unidad_medida": "Pesos (UTM, UTA), puntos y porcentaje (IPC)",
+ "anio": 2023,
+ "fuente": "https://www.sii.cl/valores_y_fechas/utm/utm2023.htm",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "serie": [
+  {
+   "mes": 12,
+   "utm": 64216.0,
+   "uta": 770592.0,
+   "ipc": 134.1,
+   "ipc_variacion_mensual": -0.5,
+   "ipc_variacion_acumulada": 3.9,
+   "ipc_variacion_12_meses": 3.9
+  },
+  {
+   "mes": 11,
+   "utm": 63960.0,
+   "uta": 767520.0,
+   "ipc": 134.82,
+   "ipc_variacion_mensual": 0.7,
+   "ipc_variacion_acumulada": 4.5,
+   "ipc_variacion_12_meses": 4.8
+  },
+  {
+   "mes": 10,
+   "utm": 63515.0,
+   "uta": 762180.0,
+   "ipc": 133.82,
+   "ipc_variacion_mensual": 0.4,
+   "ipc_variacion_acumulada": 3.7,
+   "ipc_variacion_12_meses": 5.0
+  },
+  {
+   "mes": 9,
+   "utm": 63452.0,
+   "uta": 761424.0,
+   "ipc": 133.24,
+   "ipc_variacion_mensual": 0.7,
+   "ipc_variacion_acumulada": 3.3,
+   "ipc_variacion_12_meses": 5.1
+  },
+  {
+   "mes": 8,
+   "utm": 63199.0,
+   "uta": 758388.0,
+   "ipc": 132.35,
+   "ipc_variacion_mensual": 0.1,
+   "ipc_variacion_acumulada": 2.6,
+   "ipc_variacion_12_meses": 5.3
+  },
+  {
+   "mes": 7,
+   "utm": 63326.0,
+   "uta": 759912.0,
+   "ipc": 132.2,
+   "ipc_variacion_mensual": 0.4,
+   "ipc_variacion_acumulada": 2.5,
+   "ipc_variacion_12_meses": 6.5
+  },
+  {
+   "mes": 6,
+   "utm": 63263.0,
+   "uta": 759156.0,
+   "ipc": 131.74,
+   "ipc_variacion_mensual": -0.2,
+   "ipc_variacion_acumulada": 2.1,
+   "ipc_variacion_12_meses": 7.6
+  },
+  {
+   "mes": 5,
+   "utm": 63074.0,
+   "uta": 756888.0,
+   "ipc": 131.94,
+   "ipc_variacion_mensual": 0.1,
+   "ipc_variacion_acumulada": 2.3,
+   "ipc_variacion_12_meses": 8.7
+  },
+  {
+   "mes": 4,
+   "utm": 62388.0,
+   "uta": 748656.0,
+   "ipc": 131.79,
+   "ipc_variacion_mensual": 0.3,
+   "ipc_variacion_acumulada": 2.1,
+   "ipc_variacion_12_meses": 9.9
+  },
+  {
+   "mes": 3,
+   "utm": 62450.0,
+   "uta": 749400.0,
+   "ipc": 131.38,
+   "ipc_variacion_mensual": 1.1,
+   "ipc_variacion_acumulada": 1.8,
+   "ipc_variacion_12_meses": 11.1
+  },
+  {
+   "mes": 2,
+   "utm": 61954.0,
+   "uta": 743448.0,
+   "ipc": 129.97,
+   "ipc_variacion_mensual": -0.1,
+   "ipc_variacion_acumulada": 0.7,
+   "ipc_variacion_12_meses": 11.9
+  },
+  {
+   "mes": 1,
+   "utm": 61769.0,
+   "uta": 741228.0,
+   "ipc": 130.05,
+   "ipc_variacion_mensual": 0.8,
+   "ipc_variacion_acumulada": 0.8,
+   "ipc_variacion_12_meses": 12.3
+  }
+ ]
+}

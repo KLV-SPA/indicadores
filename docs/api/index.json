@@ -1,0 +1,199 @@
+{
+ "nombre": "Indicadores KLV",
+ "descripcion": "Valores y fechas del SII como JSON, actualizados a diario.",
+ "fuente": "https://www.sii.cl/valores_y_fechas/index_valores_y_fechas.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "endpoints": {
+  "hoy": "hoy.json",
+  "uf": "uf.json",
+  "dolar": "dolar.json"
+ },
+ "series": {
+  "uf": {
+   "nombre": "Unidad de fomento (UF)",
+   "anios": {
+    "2013": "uf/2013.json",
+    "2014": "uf/2014.json",
+    "2015": "uf/2015.json",
+    "2016": "uf/2016.json",
+    "2017": "uf/2017.json",
+    "2018": "uf/2018.json",
+    "2019": "uf/2019.json",
+    "2020": "uf/2020.json",
+    "2021": "uf/2021.json",
+    "2022": "uf/2022.json",
+    "2023": "uf/2023.json",
+    "2024": "uf/2024.json",
+    "2025": "uf/2025.json",
+    "2026": "uf/2026.json"
+   }
+  },
+  "dolar": {
+   "nombre": "Dólar observado",
+   "anios": {
+    "2013": "dolar/2013.json",
+    "2014": "dolar/2014.json",
+    "2015": "dolar/2015.json",
+    "2016": "dolar/2016.json",
+    "2017": "dolar/2017.json",
+    "2018": "dolar/2018.json",
+    "2019": "dolar/2019.json",
+    "2020": "dolar/2020.json",
+    "2021": "dolar/2021.json",
+    "2022": "dolar/2022.json",
+    "2023": "dolar/2023.json",
+    "2024": "dolar/2024.json",
+    "2025": "dolar/2025.json",
+    "2026": "dolar/2026.json"
+   }
+  },
+  "utm": {
+   "nombre": "UTM, UTA e IPC",
+   "anios": {
+    "2013": "utm/2013.json",
+    "2014": "utm/2014.json",
+    "2015": "utm/2015.json",
+    "2016": "utm/2016.json",
+    "2017": "utm/2017.json",
+    "2018": "utm/2018.json",
+    "2019": "utm/2019.json",
+    "2020": "utm/2020.json",
+    "2021": "utm/2021.json",
+    "2022": "utm/2022.json",
+    "2023": "utm/2023.json",
+    "2024": "utm/2024.json",
+    "2025": "utm/2025.json",
+    "2026": "utm/2026.json"
+   }
+  }
+ },
+ "tablas": [
+  {
+   "slug": "impuesto-segunda-categoria",
+   "nombre": "Impuesto Único de Segunda Categoría (Art. 43 N° 1 LIR)",
+   "url": "tablas/impuesto-segunda-categoria.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/impuesto_2da_categoria/impuesto2026.htm",
+   "tablas": 10
+  },
+  {
+   "slug": "impuesto-segunda-categoria-art52",
+   "nombre": "Impuesto Único de Segunda Categoría (Art. 52 bis letra a) LIR)",
+   "url": "tablas/impuesto-segunda-categoria-art52.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/impuesto_2da_categoria/impuesto2026_art52.htm",
+   "tablas": 10
+  },
+  {
+   "slug": "reajuste-declaracion-renta",
+   "nombre": "Reajuste declaración renta",
+   "url": "tablas/reajuste-declaracion-renta.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/reajuste_declaracion_renta.html",
+   "tablas": 1
+  },
+  {
+   "slug": "correccion-monetaria",
+   "nombre": "Corrección monetaria mensual",
+   "url": "tablas/correccion-monetaria.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/correccion_monetaria/correccion2026.htm",
+   "tablas": 1
+  },
+  {
+   "slug": "renta-personas-naturales",
+   "nombre": "Datos informativos Operación Renta: personas naturales",
+   "url": "tablas/renta-personas-naturales.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/renta/2026/personas_naturales.html",
+   "tablas": 16
+  },
+  {
+   "slug": "renta-grandes-contribuyentes",
+   "nombre": "Datos informativos Operación Renta: empresas",
+   "url": "tablas/renta-grandes-contribuyentes.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/renta/2026/grandes_contribuyentes.html",
+   "tablas": 13
+  },
+  {
+   "slug": "renta-pequenos-contribuyentes",
+   "nombre": "Datos informativos Operación Renta: pequeños contribuyentes",
+   "url": "tablas/renta-pequenos-contribuyentes.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/renta/2026/pequenos_contribuyentes.html",
+   "tablas": 4
+  },
+  {
+   "slug": "iva-reajuste-pequenos-productores",
+   "nombre": "Porcentaje de reajuste de devoluciones de IVA a pequeños productores agrícolas",
+   "url": "tablas/iva-reajuste-pequenos-productores.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/iva/porcentaje_de_reajuste.html",
+   "tablas": 1
+  },
+  {
+   "slug": "petroleo-fepp",
+   "nombre": "Fondo de Estabilización de Precios del Petróleo",
+   "url": "tablas/petroleo-fepp.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/petroleo/petro2026.htm",
+   "tablas": 39
+  },
+  {
+   "slug": "mepco",
+   "nombre": "Impuesto al petróleo (componentes base y variable)",
+   "url": "tablas/mepco.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/mepco/mepco2026.htm",
+   "tablas": 39
+  },
+  {
+   "slug": "limite-ingreso-iepd",
+   "nombre": "Tabla de límite de ingreso para recuperación IEPD",
+   "url": "tablas/limite-ingreso-iepd.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/tabla_limite_ingreso.html",
+   "tablas": 1
+  },
+  {
+   "slug": "vida-util",
+   "nombre": "Tabla de vida útil de los bienes físicos del activo inmovilizado",
+   "url": "tablas/vida-util.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/tabla_vida_util_activo_inmovilizado.html",
+   "tablas": 2
+  },
+  {
+   "slug": "vida-util-existente",
+   "nombre": "Tabla de vida útil (bienes existentes)",
+   "url": "tablas/vida-util-existente.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/tabla_vida_util_activo_inmovilizado_existente.html",
+   "tablas": 0
+  },
+  {
+   "slug": "precios-odepa",
+   "nombre": "Precios Odepa",
+   "url": "tablas/precios-odepa.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/odepa/precios_odepa2026.htm",
+   "tablas": 9
+  },
+  {
+   "slug": "precios-cigarrillos",
+   "nombre": "Base de precios de venta final de cigarrillos",
+   "url": "tablas/precios-cigarrillos.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/cigarrillos/precios_cigarrillos.htm",
+   "tablas": 1
+  },
+  {
+   "slug": "precios-otros-tabaco",
+   "nombre": "Base de precios de venta final de otros productos de tabaco",
+   "url": "tablas/precios-otros-tabaco.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco.html",
+   "tablas": 2
+  },
+  {
+   "slug": "precio-libra-cobre",
+   "nombre": "Precio promedio libra de cobre (Art. 7 Ley 21.591)",
+   "url": "tablas/precio-libra-cobre.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/precio_libra_cobre.html",
+   "tablas": 1
+  },
+  {
+   "slug": "tasa-interes-penal-diario",
+   "nombre": "Tasa de interés penal diario",
+   "url": "tablas/tasa-interes-penal-diario.json",
+   "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/tasa_interes_penal_diario.html",
+   "tablas": 1
+  }
+ ],
+ "errores": []
+}

@@ -1,0 +1,60 @@
+name: Actualizar indicadores
+
+on:
+  schedule:
+    # 12:15 UTC = 09:15 en Chile con horario de verano, 08:15 en invierno.
+    - cron: "15 12 * * *"
+  workflow_dispatch:
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: indicadores
+  cancel-in-progress: false
+
+jobs:
+  actualizar:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install -r scraper/requirements.txt
+
+      # Si el SII falla o cambia el formato se publica igual lo que se pudo
+      # leer, y el job termina en rojo al final para que llegue el aviso.
+      - id: scrape
+        run: python scraper/scrape.py || echo "fallo=1" >> "$GITHUB_OUTPUT"
+
+      - name: Guardar datos
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add docs
+          if ! git diff --cached --quiet; then
+            git commit -m "Datos SII $(TZ=America/Santiago date +%F)"
+            git push
+          fi
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+      - id: deploy
+        uses: actions/deploy-pages@v4
+
+      - if: steps.scrape.outputs.fallo == '1'
+        run: |
+          echo "::error::El scraper reportó errores; revisa docs/api/index.json → errores"
+          exit 1

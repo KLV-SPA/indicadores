@@ -1,0 +1,162 @@
+{
+ "slug": "renta-pequenos-contribuyentes",
+ "nombre": "Datos informativos Operación Renta: pequeños contribuyentes",
+ "fuente": "https://www.sii.cl/valores_y_fechas/renta/2026/pequenos_contribuyentes.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Impuesto Único de Primera Categoría que afecta a los propietarios de talleres artesanales y microempresas familiares",
+   "filas": [
+    [
+     "CONCEPTO",
+     "CONCEPTO",
+     "MONTO",
+     "MONTO"
+    ],
+    [
+     "1",
+     "Personas naturales que exploten un taller artesanal de su propiedad y las microempresas familiares deben pagar como Impuesto Único de Primera Categoría la cantidad que resulte mayor entre los PPM obligatorios actualizados y 2 UTM de diciembre de 2025 (art. 26 de la LIR) .",
+     "",
+     "$139.084"
+    ],
+    [
+     "2",
+     "Límite máximo capital propio efectivo al 01.01.2025 para acogerse al régimen tributario especial que les afecta (art. 26 de la LIR) .",
+     "10 UTA enero de 2025",
+     "$8.091.480"
+    ]
+   ]
+  },
+  {
+   "titulo": "Impuesto Único de Primera Categoría que afecta a los pescadores artesanales",
+   "filas": [
+    [
+     "CONCEPTO",
+     "CONCEPTO",
+     "MONTO",
+     "MONTO"
+    ],
+    [
+     "Los pescadores artesanales calificados de armadores artesanales deben pagar como Impuesto Único de Primera Categoría, las siguientes cantidades (art. 26 bis de la LIR) :",
+     "Los pescadores artesanales calificados de armadores artesanales deben pagar como Impuesto Único de Primera Categoría, las siguientes cantidades (art. 26 bis de la LIR) :",
+     "",
+     ""
+    ],
+    [
+     "1",
+     "Los que exploten una o dos naves que en conjunto no superen las 4 toneladas de registro grueso.",
+     "½ UTM dic. de 2025",
+     "$34.771"
+    ],
+    [
+     "2",
+     "Los que exploten una o dos naves que en conjunto tengan sobre 4 y hasta 8 toneladas de registro grueso",
+     "1 UTM de dic. de 2025",
+     "$69.542"
+    ],
+    [
+     "3",
+     "Los que exploten una o dos naves que en conjunto tengan sobre 8 y hasta 15 toneladas de registro grueso",
+     "2 UTM de dic. de 2025",
+     "$139.084"
+    ]
+   ]
+  },
+  {
+   "titulo": "Rentas presuntas a declarar en el Impuesto Global Complementario o Adicional por los pequeños contribuyentes, de acuerdo con lo dispuesto en el art. 27 de la LIR",
+   "filas": [
+    [
+     "CONCEPTO",
+     "CONCEPTO",
+     "MONTO",
+     "MONTO"
+    ],
+    [
+     "1",
+     "Los pequeños contribuyentes del art. 22 de la LIR, deben declarar en su Impuesto Global Complementario o Adicional, las siguientes rentas presuntas (art. 27 de la LIR) :",
+     "",
+     ""
+    ],
+    [
+     "1.1",
+     "En calidad de rentas afectas a los Impuestos Global Complementario o Adicional, cuando obtengan, además, otras rentas clasificadas en los N°s 3, 4 y 5 del art. 20 de la LIR.",
+     "2 UTA dic. de 2025",
+     "$1.669.008"
+    ],
+    [
+     "1.2",
+     "En calidad de rentas exentas en el Impuesto Global Complementario, cuando obtengan, además, otras rentas que no se clasifiquen en los N°s 3, 4 y 5 del art. 20 de la LIR.",
+     "2 UTA dic. de 2025",
+     "$1.669.008"
+    ],
+    [
+     "1.3",
+     "Los pequeños mineros artesanales declaran por los mismos conceptos antes indicados, el 10% de las ventas netas anuales de minerales debidamente actualizadas.",
+     "10% s/vtas. netas de minerales actualizadas",
+     ""
+    ]
+   ]
+  },
+  {
+   "titulo": "Porcentajes que los compradores de productos mineros deben considerar para efectuar las retenciones de impuestos a los pequeños mineros artesanales, de acuerdo con lo dispuesto en el artículo 74 N° 6 de la LIR, vigentes para el período 01.03.2026 y hasta el 28.02.2027",
+   "filas": [
+    [
+     "Mineral",
+     "Precio internacional del mineral",
+     "Porcentaje o tasa de retención"
+    ],
+    [
+     "Ventas de cobre",
+     "PENDIENTE",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de cobre",
+     "PENDIENTE",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de cobre",
+     "PENDIENTE",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de oro",
+     "No excede de 1.118,44 dólares la onza troy de oro",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de oro",
+     "Excede de 1.118,44 y no sobrepasa de 1.789,40 dólares la onza troy de oro",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de oro",
+     "Excede de 1.789,40 dólares la onza troy de oro",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de plata",
+     "No excede de 1.027,31 dólares el kilógramo de plata",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de plata",
+     "Excede de 1.027,31 y no sobrepasa de 1.643,72 dólares el kilógramo de plata",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de plata",
+     "Excede de 1.643,72 dólares el kilógramo de plata",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de otros productos mineros, sin contenido de cobre, oro o plata.",
+     "",
+     "2% sobre valor neto de venta"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

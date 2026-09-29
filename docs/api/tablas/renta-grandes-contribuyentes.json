@@ -1,0 +1,732 @@
+{
+ "slug": "renta-grandes-contribuyentes",
+ "nombre": "Datos informativos Operación Renta: empresas",
+ "fuente": "https://www.sii.cl/valores_y_fechas/renta/2026/grandes_contribuyentes.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Corrección Monetaria Anual",
+   "filas": [
+    [
+     "Tipos de monedas",
+     "Cotizaciones al:",
+     "Cotizaciones al:",
+     "Cotizaciones al:",
+     "Variación porcentual",
+     "Variación porcentual"
+    ],
+    [
+     "Tipos de monedas",
+     "31.12.2024 ($)",
+     "30.06.2025 ($)",
+     "31.12.2025 ($)",
+     "Segundo semestre",
+     "Anual"
+    ],
+    [
+     "Dólar EE.UU.",
+     "996,46",
+     "933,42",
+     "907,13",
+     "-2,82",
+     "-8,96"
+    ],
+    [
+     "Corona Checa",
+     "41,16",
+     "44,46",
+     "44,05",
+     "-0,92",
+     "7,02"
+    ],
+    [
+     "Corona Danesa",
+     "138,84",
+     "147,33",
+     "142,85",
+     "-3,04",
+     "2,89"
+    ],
+    [
+     "Corona Noruega",
+     "87,83",
+     "92,57",
+     "90,45",
+     "-2,29",
+     "2,98"
+    ],
+    [
+     "Corona Sueca",
+     "90,37",
+     "98,60",
+     "98,69",
+     "0,09",
+     "9,21"
+    ],
+    [
+     "Dírham de los Emiratos Árabes Unidos",
+     "271,37",
+     "254,20",
+     "247,04",
+     "-2,82",
+     "-8,97"
+    ],
+    [
+     "Dólar Australiano",
+     "619,92",
+     "613,85",
+     "607,87",
+     "-0,97",
+     "-1,94"
+    ],
+    [
+     "Dólar Canadiense",
+     "693,82",
+     "684,93",
+     "662,91",
+     "-3,21",
+     "-4,46"
+    ],
+    [
+     "Dólar de Singapur",
+     "732,53",
+     "733,94",
+     "706,49",
+     "-3,74",
+     "-3,55"
+    ],
+    [
+     "Dólar Neozelandés",
+     "561,92",
+     "568,64",
+     "526,33",
+     "-7,44",
+     "-6,33"
+    ],
+    [
+     "EURO",
+     "1035,28",
+     "1099,05",
+     "1066,58",
+     "-2,95",
+     "3,02"
+    ],
+    [
+     "Franco Suizo",
+     "1100,57",
+     "1176,63",
+     "1146,81",
+     "-2,53",
+     "4,20"
+    ],
+    [
+     "Libra Esterlina",
+     "1249,01",
+     "1280,41",
+     "1221,89",
+     "-4,57",
+     "-2,17"
+    ],
+    [
+     "Nuevo Shekel Israelí",
+     "272,87",
+     "277,29",
+     "284,78",
+     "2,70",
+     "4,36"
+    ],
+    [
+     "Ringgit Malayo",
+     "223,20",
+     "221,93",
+     "224,20",
+     "1,02",
+     "0,45"
+    ],
+    [
+     "Riyal Catarí",
+     "273,42",
+     "256,12",
+     "248,86",
+     "-2,83",
+     "-8,98"
+    ],
+    [
+     "Riyal Saudí",
+     "265,72",
+     "248,91",
+     "241,90",
+     "-2,82",
+     "-8,96"
+    ],
+    [
+     "Won Coreano",
+     "0,68",
+     "0,69",
+     "0,63",
+     "-8,70",
+     "-7,35"
+    ],
+    [
+     "Yen Japonés",
+     "6,34",
+     "6,47",
+     "5,80",
+     "-10,36",
+     "-8,52"
+    ],
+    [
+     "Yuan",
+     "136,24",
+     "130,40",
+     "129,76",
+     "-0,49",
+     "-4,76"
+    ],
+    [
+     "Zloty Polaco",
+     "242,14",
+     "258,90",
+     "252,61",
+     "-2,43",
+     "4,32"
+    ],
+    [
+     "DEG",
+     "1299,50",
+     "1282,52",
+     "1243,50",
+     "-3,04",
+     "-4,31"
+    ],
+    [
+     "Nota: el valor de las monedas extranjeras al 30.06.2025 y al 31.12.2025, corresponde al que se observó en el mercado bancario los días 28.06.2025 y 30.12.2025, respectivamente (últimos días hábiles bancarios de los meses de junio y diciembre), y que publicó el Banco Central de Chile en el Diario Oficial de fechas días 01.07.2025 y 02.01.2026, respectivamente.",
+     "Nota: el valor de las monedas extranjeras al 30.06.2025 y al 31.12.2025, corresponde al que se observó en el mercado bancario los días 28.06.2025 y 30.12.2025, respectivamente (últimos días hábiles bancarios de los meses de junio y diciembre), y que publicó el Banco Central de Chile en el Diario Oficial de fechas días 01.07.2025 y 02.01.2026, respectivamente.",
+     "Nota: el valor de las monedas extranjeras al 30.06.2025 y al 31.12.2025, corresponde al que se observó en el mercado bancario los días 28.06.2025 y 30.12.2025, respectivamente (últimos días hábiles bancarios de los meses de junio y diciembre), y que publicó el Banco Central de Chile en el Diario Oficial de fechas días 01.07.2025 y 02.01.2026, respectivamente.",
+     "Nota: el valor de las monedas extranjeras al 30.06.2025 y al 31.12.2025, corresponde al que se observó en el mercado bancario los días 28.06.2025 y 30.12.2025, respectivamente (últimos días hábiles bancarios de los meses de junio y diciembre), y que publicó el Banco Central de Chile en el Diario Oficial de fechas días 01.07.2025 y 02.01.2026, respectivamente.",
+     "Nota: el valor de las monedas extranjeras al 30.06.2025 y al 31.12.2025, corresponde al que se observó en el mercado bancario los días 28.06.2025 y 30.12.2025, respectivamente (últimos días hábiles bancarios de los meses de junio y diciembre), y que publicó el Banco Central de Chile en el Diario Oficial de fechas días 01.07.2025 y 02.01.2026, respectivamente.",
+     "Nota: el valor de las monedas extranjeras al 30.06.2025 y al 31.12.2025, corresponde al que se observó en el mercado bancario los días 28.06.2025 y 30.12.2025, respectivamente (últimos días hábiles bancarios de los meses de junio y diciembre), y que publicó el Banco Central de Chile en el Diario Oficial de fechas días 01.07.2025 y 02.01.2026, respectivamente."
+    ]
+   ]
+  },
+  {
+   "titulo": "Corrección Monetaria Anual",
+   "filas": [
+    [
+     "Oro amonedado de $ 100",
+     "$1.750.000,00"
+    ],
+    [
+     "Oro amonedado de $ 50",
+     "$513.000,00"
+    ],
+    [
+     "Oro amonedado de $ 20",
+     "$225.000,00"
+    ],
+    [
+     "Nota: el valor de las monedas de oro al 31.12.2025, corresponde a los precios de cierre oficial registrados en la Bolsa de Comercio de Santiago, el día 30.12.2025 (último día hábil bursátil del año).",
+     "Nota: el valor de las monedas de oro al 31.12.2025, corresponde a los precios de cierre oficial registrados en la Bolsa de Comercio de Santiago, el día 30.12.2025 (último día hábil bursátil del año)."
+    ]
+   ]
+  },
+  {
+   "titulo": "Corrección Monetaria Anual",
+   "filas": [
+    [
+     "Mes en que ocurrió el hecho objeto de actualización",
+     "Mes en que ocurrió el hecho objeto de actualización",
+     "Porcentaje de reajuste",
+     "Factor de actualización directo"
+    ],
+    [
+     "Enero",
+     "2025",
+     "3,6%",
+     "1,036"
+    ],
+    [
+     "Febrero",
+     "2025",
+     "2,6 %",
+     "1,026"
+    ],
+    [
+     "Marzo",
+     "2025",
+     "2,2 %",
+     "1,022"
+    ],
+    [
+     "Abril",
+     "2025",
+     "1,6 %",
+     "1,016"
+    ],
+    [
+     "Mayo",
+     "2025",
+     "1,4 %",
+     "1,014"
+    ],
+    [
+     "Junio",
+     "2025",
+     "1,2 %",
+     "1,012"
+    ],
+    [
+     "Julio",
+     "2025",
+     "1,7 %",
+     "1,017"
+    ],
+    [
+     "Agosto",
+     "2025",
+     "0,8 %",
+     "1,008"
+    ],
+    [
+     "Septiembre",
+     "2025",
+     "0,7 %",
+     "1,007"
+    ],
+    [
+     "Octubre",
+     "2025",
+     "0,3 %",
+     "1,003"
+    ],
+    [
+     "Noviembre",
+     "2025",
+     "0,3 %",
+     "1,003"
+    ],
+    [
+     "Diciembre",
+     "2025",
+     "0,0 %",
+     "1,000"
+    ],
+    [
+     "Nota: se hace presente que, de acuerdo con las disposiciones que rigen el sistema de corrección monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose a cero (0) , normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año, como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.",
+     "Nota: se hace presente que, de acuerdo con las disposiciones que rigen el sistema de corrección monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose a cero (0) , normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año, como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.",
+     "Nota: se hace presente que, de acuerdo con las disposiciones que rigen el sistema de corrección monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose a cero (0) , normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año, como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal.",
+     "Nota: se hace presente que, de acuerdo con las disposiciones que rigen el sistema de corrección monetaria de la LIR, cuando el porcentaje de reajuste da como resultado un valor negativo, dicho valor no debe considerarse, igualándose a cero (0) , normativa que rige tanto para los efectos de la aplicación de las normas sobre corrección monetaria para ejercicios o períodos finalizados al 31 de diciembre de cada año, como para los términos de giro y demás situaciones de reajustabilidad que establece dicho texto legal."
+    ]
+   ]
+  },
+  {
+   "titulo": "Factores permanentes de incremento.",
+   "filas": [
+    [
+     "Factores permanentes de incremento, según Circulares N° 2 de 2015, N° 73 de 2020, N° 11 de 2021, N° 34 de 2023 y N° 53 de 2025",
+     "Factores permanentes de incremento, según Circulares N° 2 de 2015, N° 73 de 2020, N° 11 de 2021, N° 34 de 2023 y N° 53 de 2025",
+     "Factores permanentes de incremento, según Circulares N° 2 de 2015, N° 73 de 2020, N° 11 de 2021, N° 34 de 2023 y N° 53 de 2025"
+    ],
+    [
+     "Tasa Impto. Primera Categoría",
+     "Fórmula determinación de factores",
+     "Factores de incremento"
+    ],
+    [
+     "10%",
+     "10 : 90",
+     "0,111111"
+    ],
+    [
+     "12,5%",
+     "12,5:87,5",
+     "0,142857"
+    ],
+    [
+     "15%",
+     "15 : 85",
+     "0,17647"
+    ],
+    [
+     "16%",
+     "16 : 84",
+     "0,190476"
+    ],
+    [
+     "16,5%",
+     "16,5 : 83,5",
+     "0,197604"
+    ],
+    [
+     "17%",
+     "17 : 83",
+     "0,204819"
+    ],
+    [
+     "18,5%",
+     "18,5 : 81,5",
+     "0,226993"
+    ],
+    [
+     "20%",
+     "20 : 80",
+     "0,250000"
+    ],
+    [
+     "21%",
+     "21 : 79",
+     "0,265822"
+    ],
+    [
+     "22,5%",
+     "22,5 : 77,5",
+     "0,290322"
+    ],
+    [
+     "24%",
+     "24 : 76",
+     "0,315789"
+    ],
+    [
+     "25%",
+     "25 : 75",
+     "0,333333"
+    ],
+    [
+     "25,5%",
+     "25,5 : 74,5",
+     "0,342281"
+    ],
+    [
+     "27%",
+     "27 : 73",
+     "0,369863"
+    ],
+    [
+     "35% (art. 38 bis LIR)",
+     "35 : 65",
+     "0,53846"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite para el crédito por bienes físicos del activo inmovilizado, de acuerdo con lo dispuesto en el art. 33 bis de la LIR.",
+   "filas": [
+    [
+     "BIENES ADQUIRIDOS NUEVOS, TERMINADOS DE CONSTRUIR O TOMADOS EN ARRENDAMIENTO CON OPCIÓN DE COMPRA, ENTRE EL 1° DE ENERO DE 2025 Y EL 31 DE DICIEMBRE DE 2025",
+     "BIENES ADQUIRIDOS NUEVOS, TERMINADOS DE CONSTRUIR O TOMADOS EN ARRENDAMIENTO CON OPCIÓN DE COMPRA, ENTRE EL 1° DE ENERO DE 2025 Y EL 31 DE DICIEMBRE DE 2025",
+     "BIENES ADQUIRIDOS NUEVOS, TERMINADOS DE CONSTRUIR O TOMADOS EN ARRENDAMIENTO CON OPCIÓN DE COMPRA, ENTRE EL 1° DE ENERO DE 2025 Y EL 31 DE DICIEMBRE DE 2025",
+     "BIENES ADQUIRIDOS NUEVOS, TERMINADOS DE CONSTRUIR O TOMADOS EN ARRENDAMIENTO CON OPCIÓN DE COMPRA, ENTRE EL 1° DE ENERO DE 2025 Y EL 31 DE DICIEMBRE DE 2025"
+    ],
+    [
+     "CONCEPTO",
+     "CONCEPTO",
+     "LÍMITE Y TASA",
+     "LÍMITE Y TASA"
+    ],
+    [
+     "1.- Micro y pequeñas empresas",
+     "Con promedio de ventas anuales en los tres últimos ejercicios anteriores o años de existencia efectiva de la empresa, no superior a 25.000 UF al 31.12.2025 (art. 33 bis letra a) LIR) .",
+     "6%"
+    ],
+    [
+     "1.- Micro y pequeñas empresas",
+     "Con promedio de ventas anuales en los tres últimos ejercicios anteriores o años de existencia efectiva de la empresa, no superior a 25.000 UF al 31.12.2025 (art. 33 bis letra a) LIR) .",
+     "500 UTM dic. de 2025 $34.771.000"
+    ],
+    [
+     "2.- Medianas empresas",
+     "Con promedio de ventas anuales en los tres últimos ejercicios anteriores o años de existencia efectiva de la empresa, superior a 25.000 UF y no superior a 100.000 UF al 31.12.2025 (art. 33 bis letra b) LIR). VA = Ventas anuales",
+     "Tasa proporcional (TP) , de acuerdo a la siguiente fórmula: Si la TP resulta inferior a un 4%, se considera como tasa del crédito este último porcentaje."
+    ],
+    [
+     "2.- Medianas empresas",
+     "Con promedio de ventas anuales en los tres últimos ejercicios anteriores o años de existencia efectiva de la empresa, superior a 25.000 UF y no superior a 100.000 UF al 31.12.2025 (art. 33 bis letra b) LIR). VA = Ventas anuales",
+     "500 UTM dic. de 2025 $34.771.000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límites para rebajas tributarias por donaciones para contribuyentes del Impuesto de Primera Categoría.",
+   "filas": [
+    [
+     "Concepto",
+     "Concepto",
+     "Límite",
+     "Límite"
+    ],
+    [
+     "1",
+     "Límite máximo donaciones en dinero universidades, institutos profesionales y centros de formación técnica, según art. 69 Ley N° 18.681 (gasto y crédito para empresas que lleven contabilidad completa o simplificada) .",
+     "Donación ajustada hasta el Límite Global Absoluto (LGA) igual al 5% de la RLI de 1ª Categoría, según art. 10 Ley N° 19.885. Crédito 50% donación ajustada, con tope del monto del IDPC menos el crédito por contribuciones de bienes raíces y no superior a 14.000 UTM dic. de 2025. Parte restante de la donación, es gasto , con tope del 2% RLI de la 1ª Categoría o del 1,6‰ del Capital Propio Tributario (CPT ) al término del ejercicio, considerando tope mayor .",
+     "$973.588.000 (14.000 UTM)"
+    ],
+    [
+     "2",
+     "Límite máximo donaciones en dinero, bienes o especies efectuadas para fines culturales, según art. 8° Ley N° 18.985 (gasto y crédito para empresas que lleven contabilidad completa) .",
+     "Donación ajustada hasta el LGA igual al 5% RLI de 1ª Categoría, según art. 10 Ley N° 19.885, o del 1,6‰ del CPT determinado al término del ejercicio, considerando el límite mayor . Crédito 50% donación ajustada, con tope del 2% de la RLI de 1ª Categoría y no superior a 20.000 UTM dic. de 2025. Parte restante de la donación, es gasto , con tope de la RLI de 1ª Categoría. Exceso de donación se puede rebajar como gasto hasta los dos ejercicios sgtes.",
+     "$1.390.840.000 (20.000 UTM)"
+    ],
+    [
+     "3",
+     "Límite máximo donaciones en dinero efectuadas para fines educacionales, según art. 3° Ley N° 19.247 (gasto y crédito para empresas que lleven contabilidad completa) .",
+     "Donación ajustada hasta el LGA igual al 5% de la RLI de 1ª Categoría, según art. 10 Ley N° 19.885. Crédito 50% donación ajustada, con tope del 2% de la RLI de 1ª Categoría y no superior a 14.000 UTM dic. de 2025. Parte restante de la donación, es gasto , sin tope específico.",
+     "$973.588.000 (14.000 UTM)"
+    ],
+    [
+     "4",
+     "Límite máximo donaciones en dinero efectuadas para fines deportivos, según arts. 62 y sgtes. Ley N°19.712 (gasto y crédito para empresas que lleven contabilidad completa) .",
+     "Donación ajustada hasta el LGA igual al 5% de la RLI de 1ª Categoría, según art. 10 Ley N° 19.885. Crédito 50% o 35% donación ajustada, con tope del 2% de la RLI de 1ª Categoría y no superior a 14.000 UTM dic. de 2025. Parte restante de la donación, es gasto, sin tope específico.",
+     "$973.588.000 (14.000 UTM)"
+    ],
+    [
+     "5",
+     "Límite máximo donaciones en dinero efectuadas para fines sociales, según arts. 1° y sgtes. Ley N° 19.885 (gasto y crédito para empresas que lleven contabilidad completa) .",
+     "Donación ajustada hasta el LGA igual al 5% de la RLI de 1ª Categoría, según art. 10 Ley N° 19.885. Crédito 50%; 40% o 35% donación ajustada, con tope de 14.000 UTM dic. de 2025. Parte restante de la donación, es gasto, sin tope específico. Donaciones irrevocables hasta el 1,6‰ CPT al término del ejercicio, con un máximo de 14.000 UTM dic. de 2025.",
+     "$973.588.000 (14.000 UTM)"
+    ],
+    [
+     "6",
+     "Límite donaciones en dinero, bienes o especies efectuadas al FNR, según art. 4 Ley N° 20.444 (gasto y crédito para empresas que lleven contabilidad completa) .",
+     "Crédito 50% donación reajustada sin fines específicos, con tope de la RLI de 1ª Categoría o de 1,6‰ del CPT al término del ejercicio, a elección del contribuyente. Parte restante de la donación, es gasto, hasta los mismos límites antes señalados. En el caso de donaciones con destino específico la donación solo es gasto, hasta los mismos topes antes mencionados.",
+     ""
+    ],
+    [
+     "7",
+     "Límite máximo donaciones en dinero para fines municipales, según art. 46 D.L. N° 3.063, de 1979 (solo gasto para empresas que lleven contabilidad completa) .",
+     "Donación ajustada hasta el LGA igual al 5% de la RLI de 1ª Categoría, según Art. 10 Ley N° 19.885. Donación ajustada, es gasto , con tope del 10% de la RLI de 1ª Categoría.",
+     ""
+    ],
+    [
+     "8",
+     "Límite máximo donaciones en dinero, bienes o especies para fines de instrucción, según art. 31, inciso 4°, N° 7 de la LIR (solo gasto para empresas que lleven contabilidad completa o simplificada) .",
+     "Donación ajustada hasta el LGA igual al 5% de la RLI de 1ª Categoría, según art. 10 Ley N° 19.885. Donación ajustada, es gasto , con tope del 2% de la RLI de 1ª Categoría o del 1,6‰ del CPT al término del ejercicio, considerando tope mayor .",
+     ""
+    ],
+    [
+     "9",
+     "Límite máximo donaciones en dinero, bienes o especies, según D.L. N° 45 de 1973, por catástrofes (solo gasto para empresas que lleven contabilidad completa o simplificada).",
+     "Donación ajustada hasta el LGA igual al 5% de la RLI de 1ª Categoría, según art. 10 Ley N° 19.885. Donación ajustada es gasto , sin límite específico.",
+     ""
+    ],
+    [
+     "10",
+     "Límite máximo donaciones en dinero, bienes o especies , según art. 7° Ley N° 16.282, por catástrofes (solo gasto para empresas que lleven contabilidad completa o simplificada) .",
+     "Total donación es gasto, sin LGA y límite específico.",
+     "Sin límite"
+    ],
+    [
+     "11",
+     "Límite máximo donaciones en dinero, bienes o especies efectuados al Ministerio de Bienes Nacionales, según art. 37 del D.L. N° 1939 de 1977 (solo gasto para empresas que lleven contabilidad completa o simplificada) .",
+     "Total donación es gasto, sin LGA y límite especifico.",
+     "Sin límite"
+    ],
+    [
+     "12",
+     "Límite máximo donaciones en dinero efectuadas a asociaciones, corporaciones o fundaciones que incentiven la inclusión laboral de las personas discapacitadas, según art. 157 ter letra b) del Código del Trabajo (solo gasto para empresas que lleven contabilidad completa o simplificada) .",
+     "Total donación es gasto, sin LGA ; pero su monto anual no podrá ser inferior a 24 Ingresos Mínimos Mensuales, ni superior a 12 veces el límite máximo imponible establecido en el art. 16 del D.L. N° 3.500, de 1980 respecto de cada trabajador que debía ser contratado en la empresa.",
+     ""
+    ],
+    [
+     "13",
+     "Límite máximo donaciones en dinero o bienes efectuadas al Fondo Nacional del Cáncer, art. 18 de la Ley N° 21.258, (solo gasto para las empresas del IDPC que declaren sus rentas efectivas determinadas mediante contabilidad completa o simplificada) .",
+     "Total donación es gasto, sin LGA y límite específico.",
+     "Sin límite"
+    ],
+    [
+     "14",
+     "Límite máximo donaciones en dinero, bienes corporales y bienes incorporales según el Título VIII bis del Decreto Ley N° 3.063 de 1979 (solo rebaja de la base imponible del IDPC o liberada de dicho impuesto, aun cuando las empresas se encuentren en situación de pérdida tributaria)",
+     "Monto de la donación que podrán deducir anualmente de la base imponible del impuesto a la renta, el monto menor entre: a. El equivalente a 20.000 UTM a dic. de 2025; y, b. Alguno de los siguientes valores determinados al cierre del ejercicio respectivo, a elección del donante: i. 5% de la base imponible determinada según los arts. 29 al 33 de la LIR, tratándose de donantes del régimen general o no afectos al art. 14 de la LIR. Si el donante se acoge al régimen pro pyme o al régimen de transparencia tributaria la base imponible se determinará conforme al literal (f) del N° 3 o el numeral (iv) de la letra (a) del N° 8, ambos de la letra D) del art. 14 de la LIR, respectivamente. Si el donante se encuentra en situación de pérdida tributaria no podrá optar por este límite, debiendo elegir entre los dos límites siguientes. ii. 4,8 por mil (0,48%) del CPT determinado según el art. 41 de la LIR, tratándose de donantes del régimen general o no afectos al art. 14 de la LIR. Los donantes acogidos al régimen pro pyme o al régimen de transparencia tributaria deberán estar al capital propio tributario simplificado (CPTS) determinado según el literal (j) del N° 3 o el numeral (vii) del literal (a) del N° 8, ambos de la letra D) del art. 14 de la LIR, respectivamente. Solo podrá optar por este límite si el CPT o el CPTS es positivo. En caso contrario, el donante deberá elegir entre los dos límites restantes. iii. 1,6 por mil (0,16%) del capital efectivo determinado según el inc. 1° del N° 5 del art. 2° de la LIR, en concordancia con el art. 41 de dicha ley, si se trata de donantes del régimen general o no afectos al art. 14 de la LIR. Los donantes acogidos al régimen pro pyme o al régimen de transparencia tributaria el capital efectivo se determinará conforme con el literal (j) del N° 3 o el numeral (vii) del literal (a) del N° 8, ambos de la letra D) del art. 14 de la LIR, respectivamente. Solo podrá optar por este límite si el capital efectivo es positivo. En caso contrario, el donante deberá elegir entre los dos límites anteriores. Sin LGA , pero se computan dentro del total de donaciones efectuadas en el ejercicio para efectos de determinar el LGA que afecta a otras donaciones con beneficios tributarios a las que aplica dicho límite.",
+     "$1.390.840.000 (20.000 UTM)"
+    ],
+    [
+     "15",
+     "Límite máximo donaciones en dinero, bienes o especies efectuados al Ministerio del Medio Ambiente destinadas al Fondo de Protección Medio Ambiental, según letra a) del art. 68 de la Ley N° 19.300 (solo gasto para empresas que lleven contabilidad completa o simplificada) .",
+     "Total donación es gasto, sin LGA y límite especifico.",
+     "Sin límite"
+    ],
+    [
+     "16",
+     "Límite máximo de donaciones de bienes inmuebles en apoyo al plan de emergencia habitacional (art. 26 del art. cuarto de Ley N° 21.450)",
+     "Total donación es gasto, sin límite específico. Sin LGA , pero se computan dentro del total de donaciones efectuadas en el ejercicio para efectos de determinar el LGA que afecta a otras donaciones con beneficios tributarios a las que aplica dicho límite.",
+     "Sin límite"
+    ],
+    [
+     "De aplicar el LGA, los donantes que se encuentren en situación de pérdida tributaria podrán considerar como LGA el equivalente al 4,8‰ de su CPT, o el 1,6‰ del capital efectivo, solo para los fines de rebajar como gasto tributario tales donaciones, en los términos dispuestos en el N° 7 del art. 31 de la LIR. Este LGA no se aplicará en los casos en que la ley especial que establece beneficios tributarios por donaciones contenga un límite particular para el caso en que exista pérdida tributaria en el ejercicio (inciso primero del art. 10 de la Ley N° 19.885)",
+     "De aplicar el LGA, los donantes que se encuentren en situación de pérdida tributaria podrán considerar como LGA el equivalente al 4,8‰ de su CPT, o el 1,6‰ del capital efectivo, solo para los fines de rebajar como gasto tributario tales donaciones, en los términos dispuestos en el N° 7 del art. 31 de la LIR. Este LGA no se aplicará en los casos en que la ley especial que establece beneficios tributarios por donaciones contenga un límite particular para el caso en que exista pérdida tributaria en el ejercicio (inciso primero del art. 10 de la Ley N° 19.885)",
+     "De aplicar el LGA, los donantes que se encuentren en situación de pérdida tributaria podrán considerar como LGA el equivalente al 4,8‰ de su CPT, o el 1,6‰ del capital efectivo, solo para los fines de rebajar como gasto tributario tales donaciones, en los términos dispuestos en el N° 7 del art. 31 de la LIR. Este LGA no se aplicará en los casos en que la ley especial que establece beneficios tributarios por donaciones contenga un límite particular para el caso en que exista pérdida tributaria en el ejercicio (inciso primero del art. 10 de la Ley N° 19.885)",
+     "De aplicar el LGA, los donantes que se encuentren en situación de pérdida tributaria podrán considerar como LGA el equivalente al 4,8‰ de su CPT, o el 1,6‰ del capital efectivo, solo para los fines de rebajar como gasto tributario tales donaciones, en los términos dispuestos en el N° 7 del art. 31 de la LIR. Este LGA no se aplicará en los casos en que la ley especial que establece beneficios tributarios por donaciones contenga un límite particular para el caso en que exista pérdida tributaria en el ejercicio (inciso primero del art. 10 de la Ley N° 19.885)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite crédito por gastos de capacitación, según Ley N° 19.518.",
+   "filas": [
+    [
+     "Concepto",
+     "Límite",
+     "Límite"
+    ],
+    [
+     "Límite crédito por gastos de capacitación (art. 36 Ley N° 19.518) .",
+     "9 UTM dic. de 2025",
+     "$625.878"
+    ],
+    [
+     "Límite crédito por gastos de capacitación (art. 36 Ley N° 19.518) .",
+     "7 UTM dic. de 2025",
+     "$486.794"
+    ]
+   ]
+  },
+  {
+   "titulo": "Impuesto específico a la actividad minera, de acuerdo a lo dispuesto en el ex - artículo 64 Bis de la LIR.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "MONTO $"
+    ],
+    [
+     "Valor promedio de una tonelada métrica de cobre fino correspondiente al Grado A contado, registrado durante el año comercial 2025.",
+     "$ 9.449.426"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite crédito por gastos de investigación y desarrollo, de acuerdo a lo dispuesto en la Ley N° 20.241.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "LÍMITE",
+     "LÍMITE"
+    ],
+    [
+     "Límite máximo crédito por gastos de investigación y desarrollo (art. 5° Ley N° 20.241).",
+     "15.000 UTM a dic. de 2025",
+     "$1.043.130.000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite Exento Base Imponible de Primera Categoría contribuyentes del art. 20 LIR.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "LÍMITE",
+     "LÍMITE"
+    ],
+    [
+     "Base imponible exenta del Impuesto de Primera Categoría en el caso de empresas individuales que obtengan rentas de los Nºs 1, 3, 4 y 5 del art. 20 de la LIR, ya sea que se encuentren sujetas a un régimen de renta efectiva y/o presunta (art. 40 N° 6 de la LIR) . La referida liberación no rige respecto de las EIRL.",
+     "1 UTA a dic. de 2025",
+     "$834.504"
+    ]
+   ]
+  },
+  {
+   "titulo": "Porcentajes que los compradores de productos mineros deben considerar para efectuar las retenciones de impuestos a los contribuyentes mineros acogidos al régimen de renta presunta, de acuerdo a lo dispuesto en el artículo 74 N° 6 de la LIR, vigentes desde el 01.03.2026 y hasta el 28.02.2027.",
+   "filas": [
+    [
+     "MINERAL",
+     "PRECIO INTERNACIONAL DEL MINERAL",
+     "PORCENTAJE O TASA DE RETENCIÓN"
+    ],
+    [
+     "Ventas de Cobre",
+     "PENDIENTE",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Cobre",
+     "PENDIENTE",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Cobre",
+     "PENDIENTE",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Oro",
+     "No excede de 1.118,44 dólares la onza troy de oro",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Oro",
+     "Excede de 1.118,44 y no sobrepasa de 1.789,40 dólares la onza troy de oro",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Oro",
+     "Excede de 1.789,40 dólares la onza troy de oro",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Plata",
+     "No excede de 1.027,31 dólares el kilógramo de plata",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Plata",
+     "Excede de 1.027,31 y no sobrepasa de 1.643,72 dólares el kilógramo de plata",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Plata",
+     "Excede de 1.643,72 dólares el kilógramo de plata",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de otros productos mineros, sin contenido de cobre, oro o plata.",
+     "",
+     "2% sobre valor neto de venta"
+    ]
+   ]
+  },
+  {
+   "titulo": "Porcentajes que los contribuyentes mineros acogidos al régimen de renta presunta, deben considerar para calcular la presunción de renta que les afecta, de acuerdo a lo dispuesto en el artículo 34 N° 2 letra c) de la LIR, vigentes para el año tributario 2026.",
+   "filas": [
+    [
+     "MINERAL",
+     "TASA",
+     "RENTA PRESUNTA"
+    ],
+    [
+     "Cobre",
+     "10%",
+     "10% sobre ventas netas anuales actualizadas"
+    ],
+    [
+     "Oro",
+     "20%",
+     "20% sobre ventas netas anuales actualizadas"
+    ],
+    [
+     "Plata",
+     "10%",
+     "10% sobre ventas netas anuales actualizadas"
+    ],
+    [
+     "Otros minerales, sin contenido de cobre, oro o plata",
+     "6%",
+     "6% sobre ventas netas anuales actualizadas"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite rebaja para incentivo al ahorro para medianas empresas, según letra E) del art. 14 de la LIR.",
+   "filas": [
+    [
+     "1.- Promedio máximo de ingresos anuales del giro para optar a la rebaja",
+     "100.000 UF al 31.12.2025",
+     "$3.972.796.000"
+    ],
+    [
+     "2.- Límite rebaja por utilidades reinvertidas empresas acogidas al régimen de tributación semi integrado (art. 14 letra A) de la LIR) o Pro Pyme General (art. 14 letra D) N° 3 de la LIR)",
+     "5.000 UF al 31.12.2025",
+     "$198.639.800"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

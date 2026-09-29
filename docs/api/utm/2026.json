@@ -1,0 +1,100 @@
+{
+ "codigo": "utm",
+ "nombre": "UTM, UTA e IPC",
+ "unidad_medida": "Pesos (UTM, UTA), puntos y porcentaje (IPC)",
+ "anio": 2026,
+ "fuente": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "serie": [
+  {
+   "mes": 10,
+   "utm": 72151.0,
+   "uta": 865812.0,
+   "ipc": null,
+   "ipc_variacion_mensual": null,
+   "ipc_variacion_acumulada": null,
+   "ipc_variacion_12_meses": null
+  },
+  {
+   "mes": 9,
+   "utm": 71721.0,
+   "uta": 860652.0,
+   "ipc": null,
+   "ipc_variacion_mensual": null,
+   "ipc_variacion_acumulada": null,
+   "ipc_variacion_12_meses": null
+  },
+  {
+   "mes": 8,
+   "utm": 71649.0,
+   "uta": 859788.0,
+   "ipc": 113.15,
+   "ipc_variacion_mensual": 0.6,
+   "ipc_variacion_acumulada": 3.6,
+   "ipc_variacion_12_meses": 4.1
+  },
+  {
+   "mes": 7,
+   "utm": 71649.0,
+   "uta": 859788.0,
+   "ipc": 112.45,
+   "ipc_variacion_mensual": 0.1,
+   "ipc_variacion_acumulada": 2.9,
+   "ipc_variacion_12_meses": 3.5
+  },
+  {
+   "mes": 6,
+   "utm": 71506.0,
+   "uta": 858072.0,
+   "ipc": 112.35,
+   "ipc_variacion_mensual": 0.0,
+   "ipc_variacion_acumulada": 2.8,
+   "ipc_variacion_12_meses": 4.3
+  },
+  {
+   "mes": 5,
+   "utm": 70588.0,
+   "uta": 847056.0,
+   "ipc": 112.37,
+   "ipc_variacion_mensual": 0.2,
+   "ipc_variacion_acumulada": 2.8,
+   "ipc_variacion_12_meses": 3.9
+  },
+  {
+   "mes": 4,
+   "utm": 69889.0,
+   "uta": 838668.0,
+   "ipc": 112.18,
+   "ipc_variacion_mensual": 1.3,
+   "ipc_variacion_acumulada": 2.7,
+   "ipc_variacion_12_meses": 4.0
+  },
+  {
+   "mes": 3,
+   "utm": 69889.0,
+   "uta": 838668.0,
+   "ipc": 110.75,
+   "ipc_variacion_mensual": 1.0,
+   "ipc_variacion_acumulada": 1.4,
+   "ipc_variacion_12_meses": 2.8
+  },
+  {
+   "mes": 2,
+   "utm": 69611.0,
+   "uta": 835332.0,
+   "ipc": 109.7,
+   "ipc_variacion_mensual": 0.0,
+   "ipc_variacion_acumulada": 0.4,
+   "ipc_variacion_12_meses": 2.4
+  },
+  {
+   "mes": 1,
+   "utm": 69751.0,
+   "uta": 837012.0,
+   "ipc": 109.71,
+   "ipc_variacion_mensual": 0.4,
+   "ipc_variacion_acumulada": 0.4,
+   "ipc_variacion_12_meses": 2.8
+  }
+ ]
+}

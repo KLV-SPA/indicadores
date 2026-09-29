@@ -1,0 +1,130 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Indicadores SII</title>
+<meta name="description" content="UF, dólar, UTM, UTA, IPC y demás valores del SII como JSON, actualizados a diario.">
+<style>
+  :root {
+    --bg: #f7f7f5; --fg: #1b1b1a; --muted: #6b6b66; --line: #e2e1dc;
+    --card: #ffffff; --accent: #1d5fd1; --code: #efeee9;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --bg: #131312; --fg: #ecebe6; --muted: #9a9993; --line: #2c2c2a;
+            --card: #1b1b1a; --accent: #7aa7ff; --code: #242422; }
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; background: var(--bg); color: var(--fg);
+         font: 15px/1.55 system-ui, -apple-system, "Segoe UI", sans-serif; }
+  main { max-width: 920px; margin: 0 auto; padding: 40px 16px 64px; }
+  h1 { font-size: 26px; margin: 0 0 4px; letter-spacing: -0.01em; }
+  h2 { font-size: 13px; text-transform: uppercase; letter-spacing: .08em;
+       color: var(--muted); margin: 40px 0 12px; font-weight: 600; }
+  p.lead { color: var(--muted); margin: 0; }
+  a { color: var(--accent); text-decoration: none; }
+  a:hover { text-decoration: underline; }
+  code { font: 13px ui-monospace, "SF Mono", Menlo, monospace; background: var(--code);
+         padding: 1px 5px; border-radius: 4px; }
+  .cards { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px, 1fr)); gap: 10px; }
+  .card { background: var(--card); border: 1px solid var(--line); border-radius: 10px; padding: 14px 16px;
+          cursor: copy; transition: border-color .15s; }
+  .card:hover { border-color: var(--accent); }
+  .card .k { font-size: 12px; color: var(--muted); letter-spacing: .04em; }
+  .card .v { font-size: 22px; font-weight: 650; margin: 2px 0; font-variant-numeric: tabular-nums; }
+  .card .d { font-size: 12px; color: var(--muted); }
+  .card.copied { border-color: var(--accent); }
+  table { width: 100%; border-collapse: collapse; background: var(--card);
+          border: 1px solid var(--line); border-radius: 10px; overflow: hidden; }
+  th, td { text-align: left; padding: 8px 12px; border-bottom: 1px solid var(--line); vertical-align: top; }
+  th { font-size: 12px; color: var(--muted); font-weight: 600; }
+  tr:last-child td { border-bottom: 0; }
+  td.n { color: var(--muted); white-space: nowrap; }
+  .years a { margin-right: 8px; display: inline-block; }
+  pre { background: var(--code); padding: 12px 14px; border-radius: 8px; overflow-x: auto;
+        font: 13px/1.5 ui-monospace, "SF Mono", Menlo, monospace; margin: 0; }
+  footer { margin-top: 48px; color: var(--muted); font-size: 13px; }
+  .scroll { overflow-x: auto; }
+</style>
+</head>
+<body>
+<main>
+  <h1>Indicadores SII</h1>
+  <p class="lead">Valores y fechas del <a href="https://www.sii.cl/valores_y_fechas/index_valores_y_fechas.html">Servicio de Impuestos Internos</a> como JSON, actualizados todos los días. Haz clic en un valor para copiarlo.</p>
+
+  <h2>Hoy</h2>
+  <div class="cards" id="hoy"><div class="card"><div class="k">Cargando…</div></div></div>
+
+  <h2>Uso</h2>
+  <pre id="ejemplo">curl https://…/api/hoy.json</pre>
+
+  <h2>Series</h2>
+  <div class="scroll"><table id="series"><tr><th>Serie</th><th>Archivos</th></tr></table></div>
+
+  <h2>Tablas del SII</h2>
+  <div class="scroll"><table id="tablas"><tr><th>Página</th><th>JSON</th><th>Tablas</th></tr></table></div>
+
+  <footer id="pie"></footer>
+</main>
+<script>
+const api = new URL("api/", location.href).href;
+const fmt = (v, dec = 2) => v == null ? "—" :
+  v.toLocaleString("es-CL", { minimumFractionDigits: dec, maximumFractionDigits: dec });
+const el = (tag, attrs = {}, ...kids) => {
+  const e = document.createElement(tag);
+  Object.assign(e, attrs);
+  kids.forEach(k => e.append(k));
+  return e;
+};
+
+function card(k, v, d, copia) {
+  const c = el("div", { className: "card", title: "Copiar " + v },
+    el("div", { className: "k", textContent: k }),
+    el("div", { className: "v", textContent: v }),
+    el("div", { className: "d", textContent: d }));
+  c.onclick = () => navigator.clipboard.writeText(copia ?? v).then(() => {
+    c.classList.add("copied");
+    c.querySelector(".d").textContent = "Copiado";
+    setTimeout(() => { c.classList.remove("copied"); c.querySelector(".d").textContent = d; }, 1200);
+  });
+  return c;
+}
+
+const fecha = f => f ? f.split("-").reverse().join("-") : "";
+
+fetch(api + "hoy.json").then(r => r.json()).then(h => {
+  const box = document.getElementById("hoy");
+  box.replaceChildren(
+    card("UF", "$ " + fmt(h.uf?.valor), fecha(h.uf?.fecha), fmt(h.uf?.valor)),
+    card("Dólar observado", "$ " + fmt(h.dolar?.valor), fecha(h.dolar?.fecha), fmt(h.dolar?.valor)),
+    card("UTM", "$ " + fmt(h.utm?.valor, 0), h.utm?.mes ?? "", fmt(h.utm?.valor, 0)),
+    card("UTA", "$ " + fmt(h.uta?.valor, 0), h.uta?.mes ?? "", fmt(h.uta?.valor, 0)),
+    card("IPC (var. mensual)", fmt(h.ipc?.variacion_mensual, 1) + " %", h.ipc?.mes ?? "", fmt(h.ipc?.variacion_mensual, 1)),
+  );
+  document.getElementById("ejemplo").textContent =
+    `curl ${api}hoy.json\ncurl ${api}uf/${h.fecha.slice(0, 4)}.json\ncurl ${api}index.json`;
+});
+
+fetch(api + "index.json").then(r => r.json()).then(ix => {
+  const series = document.getElementById("series");
+  const extra = { uf: "uf.json", dolar: "dolar.json" };
+  for (const [codigo, s] of Object.entries(ix.series)) {
+    const links = el("td", { className: "years" });
+    if (extra[codigo]) links.append(el("a", { href: api + extra[codigo], textContent: "últimos 31 días" }));
+    Object.entries(s.anios).reverse().forEach(([a, u]) => links.append(el("a", { href: api + u, textContent: a })));
+    series.append(el("tr", {}, el("td", { textContent: s.nombre }), links));
+  }
+  const tablas = document.getElementById("tablas");
+  ix.tablas.forEach(t => tablas.append(el("tr", {},
+    el("td", {}, el("a", { href: t.fuente, textContent: t.nombre })),
+    el("td", {}, el("a", { href: api + t.url, textContent: t.url })),
+    el("td", { className: "n", textContent: t.tablas }))));
+  const d = new Date(ix.actualizado);
+  document.getElementById("pie").textContent =
+    "Actualizado " + d.toLocaleString("es-CL", { timeZone: "America/Santiago" }) +
+    (ix.errores.length ? ` · ${ix.errores.length} errores en la última lectura` : "") +
+    " · Fuente: SII. Datos sin garantía; ante dudas, consulta sii.cl.";
+});
+</script>
+</body>
+</html>

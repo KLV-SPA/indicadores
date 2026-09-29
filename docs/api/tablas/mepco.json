@@ -1,0 +1,3324 @@
+{
+ "slug": "mepco",
+ "nombre": "Impuesto al petróleo (componentes base y variable)",
+ "fuente": "https://www.sii.cl/valores_y_fechas/mepco/mepco2026.htm",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 24-09-2026",
+     "Vigencia desde: Jueves 24-09-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-4,3259",
+     "1,6741",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "1,6741",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-4,9425",
+     "1,0575",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,0575",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-5,9345",
+     "-4,4345",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-4,4345",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0004",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0006",
+     "1,9306",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 17-09-2026",
+     "Vigencia desde: Jueves 17-09-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,8956",
+     "3,1044",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "3,1044",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-3,4965",
+     "2,5035",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,5035",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-4,2637",
+     "-2,7637",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-2,7637",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0004",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0006",
+     "1,9306",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 10-09-2026",
+     "Vigencia desde: Jueves 10-09-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,9440",
+     "4,0560",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,0560",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,3687",
+     "3,6313",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,6313",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-3,0176",
+     "-1,5176",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-1,5176",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 03-09-2026",
+     "Vigencia desde: Jueves 03-09-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,6788",
+     "4,3212",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,3212",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,9298",
+     "4,0702",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,0702",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-3,4780",
+     "-1,9780",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-1,9780",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0855",
+     "1,4855",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4855",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,1299",
+     "2,0599",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 27-08-2026",
+     "Vigencia desde: Jueves 27-08-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,3509",
+     "4,6491",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,6491",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,5166",
+     "4,4834",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,4834",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-3,5286",
+     "-2,0286",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-2,0286",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,0001",
+     "1,3999",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,3999",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,0002",
+     "1,9298",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 20-08-2026",
+     "Vigencia desde: Jueves 20-08-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,6917",
+     "5,3083",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,3083",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,8399",
+     "5,1601",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,1601",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-2,2746",
+     "-0,7746",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-0,7746",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 13-08-2026",
+     "Vigencia desde: Jueves 13-08-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,3517",
+     "4,6483",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,6483",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,5572",
+     "4,4428",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,4428",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-3,5243",
+     "-2,0243",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-2,0243",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,2344",
+     "1,6344",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,6344",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,3562",
+     "2,2862",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 06-08-2026",
+     "Vigencia desde: Jueves 06-08-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,4936",
+     "3,5064",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "3,5064",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,7065",
+     "3,2935",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,2935",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-4,6306",
+     "-3,1306",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-3,1306",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,2344",
+     "1,6344",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,6344",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,3562",
+     "2,2862",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 30-07-2026",
+     "Vigencia desde: Jueves 30-07-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,4091",
+     "3,5909",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "3,5909",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,5592",
+     "3,4408",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,4408",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-4,0826",
+     "-2,5826",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-2,5826",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,93",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 23-07-2026",
+     "Vigencia desde: Jueves 23-07-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,6266",
+     "4,3734",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,3734",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,6820",
+     "4,3180",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,3180",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-2,6120",
+     "-1,1120",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-1,1120",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0002",
+     "1,4002",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4002",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0003",
+     "1,9303",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 16-07-2026",
+     "Vigencia desde: Jueves 16-07-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,9227",
+     "5,0773",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,0773",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,9352",
+     "5,0648",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,0648",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-0,9122",
+     "0,5878",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,5878",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0002",
+     "1,4002",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4002",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0003",
+     "1,9303",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 09-07-2026",
+     "Vigencia desde: Jueves 09-07-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,2649",
+     "5,7351",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,7351",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,2559",
+     "5,7441",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,7441",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,1423",
+     "1,6423",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,6423",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 02-07-2026",
+     "Vigencia desde: Jueves 02-07-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "1,3574",
+     "7,3574",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "7,3574",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "1,3653",
+     "7,3653",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "7,3653",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "2,4704",
+     "3,9704",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,9704",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,3086",
+     "1,7086",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,7086",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,4689",
+     "2,3989",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 25-06-2026",
+     "Vigencia desde: Jueves 25-06-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,9006",
+     "6,9006",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,9006",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,9261",
+     "6,9261",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,9261",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,5962",
+     "3,0962",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,0962",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,0848",
+     "1,3152",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,3152",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,1289",
+     "1,8011",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 18-06-2026",
+     "Vigencia desde: Jueves 18-06-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,0018",
+     "6,0018",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,0018",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,0005",
+     "6,0005",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,0005",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,0028",
+     "1,5028",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,5028",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,0854",
+     "1,3146",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,3146",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,1298",
+     "1,8002",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 11-06-2026",
+     "Vigencia desde: Jueves 11-06-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "1,5392",
+     "7,5392",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "7,5392",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "1,6629",
+     "7,6629",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "7,6629",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,8358",
+     "3,3358",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,3358",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,5809",
+     "1,9809",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,9809",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,8827",
+     "2,8127",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 04-06-2026",
+     "Vigencia desde: Jueves 04-06-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,7115",
+     "6,7115",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,7115",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,7817",
+     "6,7817",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,7817",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,3253",
+     "2,8253",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,8253",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,5809",
+     "1,9809",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,9809",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,8827",
+     "2,8127",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 28-05-2026",
+     "Vigencia desde: Jueves 28-05-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,5273",
+     "5,4727",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,4727",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,4749",
+     "5,5251",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,5251",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,2647",
+     "1,7647",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,7647",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,1125",
+     "1,2875",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,2875",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,1709",
+     "1,7591",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 21-05-2026",
+     "Vigencia desde: Jueves 21-05-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,8226",
+     "5,1774",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,1774",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,7714",
+     "5,2286",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,2286",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,0123",
+     "2,5123",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,5123",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,6412",
+     "0,7588",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,7588",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,9743",
+     "0,9557",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 14-05-2026",
+     "Vigencia desde: Jueves 14-05-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,4223",
+     "4,5777",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,5777",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,3805",
+     "4,6195",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,6195",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,0355",
+     "1,5355",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,5355",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,6412",
+     "0,7588",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,7588",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,9743",
+     "0,9557",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 07-05-2026",
+     "Vigencia desde: Jueves 07-05-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,0498",
+     "4,9502",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,9502",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,9977",
+     "5,0023",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,0023",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-0,0095",
+     "1,4905",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4905",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,6407",
+     "0,7593",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,7593",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-0,9735",
+     "0,9565",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 30-04-2026",
+     "Vigencia desde: Jueves 30-04-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,3012",
+     "6,3012",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,3012",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,4533",
+     "6,4533",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,4533",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,5922",
+     "3,0922",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "3,0922",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,9217",
+     "0,4783",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,4783",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-1,4005",
+     "0,5295",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 23-04-2026",
+     "Vigencia desde: Jueves 23-04-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,3685",
+     "6,3685",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,3685",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,6601",
+     "6,6601",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,6601",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,7393",
+     "2,2393",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,2393",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,9217",
+     "0,4783",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,4783",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-1,4005",
+     "0,5295",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 16-04-2026",
+     "Vigencia desde: Jueves 16-04-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,4127",
+     "5,5873",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,5873",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,1477",
+     "5,8523",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,8523",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-0,7811",
+     "0,7189",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,7189",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-0,9224",
+     "0,4776",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,4776",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-1,4016",
+     "0,5284",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 09-04-2026",
+     "Vigencia desde: Jueves 09-04-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,1666",
+     "4,8334",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,8334",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,1405",
+     "4,8595",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,8595",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-1,9119",
+     "-0,4119",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-0,4119",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-1,4440",
+     "-0,0440",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-0,0440",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-2,1942",
+     "-0,2642",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 02-04-2026",
+     "Vigencia desde: Jueves 02-04-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,6512",
+     "5,3488",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,3488",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,6605",
+     "5,3395",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,3395",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-1,1265",
+     "0,3735",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "0,3735",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "-1,4440",
+     "-0,0440",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-0,0440",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "-2,1942",
+     "-0,2642",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 26-03-2026",
+     "Vigencia desde: Jueves 26-03-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,0061",
+     "5,9939",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "5,9939",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,0039",
+     "5,9961",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,9961",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-0,0037",
+     "1,4963",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4963",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,1580",
+     "1,5580",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,5580",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,2401",
+     "2,1701",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 19-03-2026",
+     "Vigencia desde: Jueves 19-03-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-3,8443",
+     "2,1557",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "2,1557",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-3,9947",
+     "2,0053",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,0053",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-6,7108",
+     "-5,2108",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-5,2108",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0004",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0006",
+     "1,9306",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 12-03-2026",
+     "Vigencia desde: Jueves 12-03-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,6754",
+     "4,3246",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "4,3246",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-1,7020",
+     "4,2980",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "4,2980",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-3,3940",
+     "-1,8940",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-1,8940",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0004",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4004",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0006",
+     "1,9306",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 05-03-2026",
+     "Vigencia desde: Jueves 05-03-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,0000",
+     "6,00",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,00",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,0000",
+     "6,00",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,00",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-0,1843",
+     "1,3157",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,3157",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,93",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 26-02-2026",
+     "Vigencia desde: Jueves 26-02-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,0047",
+     "6,0047",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,0047",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-0,0249",
+     "5,9751",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "5,9751",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,0500",
+     "1,5500",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,5500",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0006",
+     "1,4006",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4006",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0009",
+     "1,9309",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 19-02-2026",
+     "Vigencia desde: Jueves 19-02-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,1093",
+     "6,1093",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,1093",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,0877",
+     "6,0877",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,0877",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,2147",
+     "1,7147",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,7147",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0006",
+     "1,4006",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4006",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0009",
+     "1,9309",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 12-02-2026",
+     "Vigencia desde: Jueves 12-02-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,1330",
+     "6,1330",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,1330",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,1008",
+     "6,1008",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,1008",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,0000",
+     "1,5000",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,5000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 05-02-2026",
+     "Vigencia desde: Jueves 05-02-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,2878",
+     "6,2878",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,2878",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,1935",
+     "6,1935",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,1935",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,3758",
+     "1,8758",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,8758",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,3137",
+     "1,7137",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,7137",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,4767",
+     "2,4067",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 29-01-2026",
+     "Vigencia desde: Jueves 29-01-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,3221",
+     "6,3221",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,3221",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,2188",
+     "6,2188",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,2188",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,5898",
+     "2,0898",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,0898",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 22-01-2026",
+     "Vigencia desde: Jueves 22-01-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,5157",
+     "6,5157",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,5157",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,5140",
+     "6,5140",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,5140",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "0,9402",
+     "2,4402",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,4402",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 15-01-2026",
+     "Vigencia desde: Jueves 15-01-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "1,0008",
+     "7,0008",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "7,0008",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "1,1075",
+     "7,1075",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "7,1075",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,3466",
+     "2,8466",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,8466",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,93",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 08-01-2026",
+     "Vigencia desde: Jueves 08-01-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,8284",
+     "6,8284",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,8284",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,9247",
+     "6,9247",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,9247",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,1608",
+     "2,6608",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,6608",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,40",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,93",
+     "UTM/1000m3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 01-01-2026",
+     "Vigencia desde: Jueves 01-01-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "0,8764",
+     "6,8764",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "6,8764",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "0,9768",
+     "6,9768",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "6,9768",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "1,1852",
+     "2,6852",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,6852",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0000",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "1,4000",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0000",
+     "1,9300",
+     "UTM/1000m3"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

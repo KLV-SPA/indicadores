@@ -1,0 +1,1142 @@
+{
+ "slug": "precios-cigarrillos",
+ "nombre": "Base de precios de venta final de cigarrillos",
+ "fuente": "https://www.sii.cl/valores_y_fechas/cigarrillos/precios_cigarrillos.htm",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Base de Precios de Venta Final de Cigarrillos",
+   "filas": [
+    [
+     "MARCA",
+     "TIPO DE ENVASE",
+     "CANTIDAD DE CIGARRILLOS",
+     "TAMAÑO DEL CIGARRILLO",
+     "OTRAS CARACTERISTICAS",
+     "PRECIO"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Click Snap On Wind Fresh",
+     "3.400"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Rojo",
+     "2.700"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "85 mm",
+     "Dark Cherry",
+     "2.900"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Click Snap On Antartic",
+     "3.400"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Blu",
+     "2.900"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "White",
+     "2.900"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Click Snap On Wild Berry",
+     "3.400"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Click Snap On Red Fruit",
+     "3.400"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Click Snap On Sweet Orange",
+     "3.400"
+    ],
+    [
+     "ATLAS",
+     "Box",
+     "20",
+     "King Size",
+     "Green Label",
+     "2.900"
+    ],
+    [
+     "ATLAS",
+     "Soft Pack",
+     "20",
+     "King Size",
+     "Rojo",
+     "2.700"
+    ],
+    [
+     "BRISTOL",
+     "Box",
+     "20",
+     "King Size",
+     "Lila",
+     "3.000"
+    ],
+    [
+     "FOX",
+     "Box",
+     "20",
+     "Super Slim",
+     "Box Square",
+     "2.900"
+    ],
+    [
+     "FOX",
+     "Box",
+     "20",
+     "85 mm",
+     "Box Round Corner",
+     "2.900"
+    ],
+    [
+     "INDY",
+     "Box",
+     "20",
+     "80 MM",
+     "Azul",
+     "2.900"
+    ],
+    [
+     "INDY",
+     "Box",
+     "20",
+     "80 MM",
+     "Rojo",
+     "2.900"
+    ],
+    [
+     "INDY",
+     "Box",
+     "20",
+     "King Size",
+     "Cigarrito",
+     "2.900"
+    ],
+    [
+     "KENT",
+     "Box",
+     "10",
+     "King Size",
+     "Neo",
+     "3.300"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Click Up",
+     "6.100"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "White Up",
+     "5.800"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Neo",
+     "5.300"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Silver Up",
+     "5.800"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Boost Up",
+     "6.100"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Neo Tropic",
+     "5.500"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Neo Rose",
+     "5.500"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Neo Ikon Mix",
+     "5.500"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Neo Splash",
+     "5.500"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Actron",
+     "6.200"
+    ],
+    [
+     "KENT",
+     "Box",
+     "20",
+     "King Size",
+     "Blue Up",
+     "5.800"
+    ],
+    [
+     "KENT",
+     "Box",
+     "40",
+     "King Size",
+     "Neo Big Pack",
+     "8.000"
+    ],
+    [
+     "KENT",
+     "Box",
+     "40",
+     "King Size",
+     "Neo Ikon Mix Big Pack",
+     "10.400"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Zero",
+     "3.400"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Azul",
+     "3.400"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Rojo",
+     "3.400"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Red Fruit",
+     "3.600"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Freeze",
+     "3.600"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Orange Crazy Sun",
+     "3.600"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Blackberry",
+     "3.600"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Boom Freeze",
+     "3.800"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Eco Red",
+     "3.400"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Eco Blue",
+     "3.400"
+    ],
+    [
+     "LATINO",
+     "Box",
+     "20",
+     "King Size",
+     "Ice Cool",
+     "3.600"
+    ],
+    [
+     "LATINO",
+     "Soft Cup",
+     "10",
+     "King Size",
+     "Rojo",
+     "1.750"
+    ],
+    [
+     "LATINO",
+     "Soft Cup",
+     "10",
+     "King Size",
+     "Freeze",
+     "1.850"
+    ],
+    [
+     "LATINO",
+     "Soft Cup",
+     "10",
+     "King Size",
+     "Azul",
+     "1.750"
+    ],
+    [
+     "LATINO",
+     "Soft Cup",
+     "10",
+     "King Size",
+     "Zero",
+     "1.750"
+    ],
+    [
+     "LATINO",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Rojo",
+     "3.400"
+    ],
+    [
+     "LATINO",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Azul",
+     "3.400"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "10",
+     "King Size",
+     "Sharp Crush Xtend",
+     "3.900"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "10",
+     "King Size",
+     "Blue",
+     "3.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "10",
+     "King Size",
+     "Purple Wild Xtend",
+     "3.900"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "10",
+     "King Size",
+     "Click Frost Xtend",
+     "3.800"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Sin Aditivos Red",
+     "4.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Sin Aditivos Blue",
+     "4.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Compact Fresh Wild",
+     "4.700"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Compact Click",
+     "4.700"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Fresh Twist",
+     "6.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Amber Xtend",
+     "6.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Sharp Crush Xtend",
+     "6.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Purple Wild Xtend",
+     "6.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Click Frost Xtend",
+     "6.100"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Eclipse Xtend",
+     "6.200"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Compact Exotic Joy",
+     "4.700"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Red Slow-Cured Xtend",
+     "5.800"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "20",
+     "King Size",
+     "Blue Slow-Cured Xtend",
+     "5.800"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Amber Xtend 20s Big Pack",
+     "12.000"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Big Pack Lucky Strike Fresh Twist",
+     "11.400"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Eclipse Xtend Big Pack",
+     "11.400"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Compact Exotic Joy Big Pack",
+     "8.400"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Blue Slow-Cured Xtend Big Pack",
+     "10.600"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Compact Click Big Pack",
+     "8.800"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Compact Fresh Wild Big Pack",
+     "8.800"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "40",
+     "King Size",
+     "Red Slow-Cured Xtend Big Pack",
+     "10.600"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "100",
+     "King Size",
+     "Crush Big Pack",
+     "21.000"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "100",
+     "King Size",
+     "Big Pack Purple Wild Xtend",
+     "28.500"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "100",
+     "King Size",
+     "Wild Big Pack",
+     "21.000"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "100",
+     "King Size",
+     "Big Pack Click Frost Xtend",
+     "28.000"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Box",
+     "100",
+     "King Size",
+     "Big Pack Sharp Crush Xtend",
+     "28.500"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Sin Aditivos Red",
+     "3.700"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Red",
+     "5.700"
+    ],
+    [
+     "LUCKY STRIKE",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Sin Aditivos Blue",
+     "3.700"
+    ],
+    [
+     "MADISON",
+     "Box",
+     "20",
+     "King Size",
+     "Blue",
+     "3.200"
+    ],
+    [
+     "MADISON",
+     "Box",
+     "20",
+     "King Size",
+     "Mix Red Fruit",
+     "3.400"
+    ],
+    [
+     "MADISON",
+     "Box",
+     "20",
+     "King Size",
+     "Mix Blackberry",
+     "3.400"
+    ],
+    [
+     "MADISON",
+     "Box",
+     "20",
+     "King Size",
+     "Red",
+     "3.200"
+    ],
+    [
+     "MADISON",
+     "Box",
+     "20",
+     "King Size",
+     "Mix Fresh Mint",
+     "3.400"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "12",
+     "King Size",
+     "Garden Zing",
+     "2.800"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "12",
+     "King Size",
+     "Forest Mist",
+     "2.800"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Prime Touch",
+     "4.700"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Red",
+     "5.800"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Gold Original",
+     "5.800"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Summer Zest",
+     "4.800"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Crafted Ice Breeze",
+     "4.600"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Crafted Blue",
+     "4.200"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Crafted Red",
+     "4.200"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Blossom Fusion",
+     "4.800"
+    ],
+    [
+     "MARLBORO",
+     "Box",
+     "20",
+     "King Size",
+     "Touch Clear Caps",
+     "4.800"
+    ],
+    [
+     "MARLBORO",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Crafted Red",
+     "3.700"
+    ],
+    [
+     "MARLBORO",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Crafted Blue",
+     "3.700"
+    ],
+    [
+     "MC-LAREN",
+     "Box",
+     "20",
+     "King Size",
+     "Dorado",
+     "3.200"
+    ],
+    [
+     "MC-LAREN",
+     "Box",
+     "20",
+     "King Size",
+     "Rojo",
+     "3.200"
+    ],
+    [
+     "OREGON",
+     "Soft Pack",
+     "20",
+     "King Size",
+     "Rojo",
+     "2.700"
+    ],
+    [
+     "OREGON",
+     "Soft Pack",
+     "20",
+     "King Size",
+     "Azul",
+     "2.700"
+    ],
+    [
+     "ORIGINALS",
+     "Box",
+     "10",
+     "King Size",
+     "Red",
+     "1.600"
+    ],
+    [
+     "ORIGINALS",
+     "Box",
+     "10",
+     "King Size",
+     "Blue",
+     "1.600"
+    ],
+    [
+     "ORIGINALS",
+     "Box",
+     "20",
+     "King Size",
+     "Blue",
+     "3.200"
+    ],
+    [
+     "ORIGINALS",
+     "Box",
+     "20",
+     "King Size",
+     "Red",
+     "3.200"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "10",
+     "King Size",
+     "Azul",
+     "2.200"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "10",
+     "King Size",
+     "Rojo",
+     "2.200"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "10",
+     "King Size",
+     "Spritz",
+     "2.800"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "10",
+     "King Size",
+     "Menta Intensa",
+     "2.800"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "10",
+     "King Size",
+     "Click On",
+     "2.800"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "18",
+     "King Size",
+     "Bloom",
+     "3.300"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "18",
+     "King Size",
+     "Rojo",
+     "3.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "18",
+     "King Size",
+     "Azul",
+     "3.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "18",
+     "King Size",
+     "Artic",
+     "3.300"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Spritz XL",
+     "5.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Sunrise Mix XL",
+     "5.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Boost XL",
+     "5.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Azul XL",
+     "4.100"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Rojo XL",
+     "4.100"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Gris XL",
+     "4.100"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Click On XL",
+     "5.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "20",
+     "King Size",
+     "Sunset XL",
+     "5.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "36",
+     "King Size",
+     "Rojo 18´s Big Pack",
+     "6.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "36",
+     "King Size",
+     "Azul 18´s Big Pack",
+     "6.000"
+    ],
+    [
+     "PALL MALL",
+     "Box",
+     "40",
+     "King Size",
+     "Azul XL Big Pack",
+     "7.800"
+    ],
+    [
+     "PALL MALL",
+     "Soft Cup",
+     "10",
+     "King Size",
+     "Rojo",
+     "1.700"
+    ],
+    [
+     "PALL MALL",
+     "Soft Cup",
+     "10",
+     "King Size",
+     "Azul",
+     "1.700"
+    ],
+    [
+     "PALL MALL",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Rojo",
+     "3.600"
+    ],
+    [
+     "PALL MALL ",
+     "Soft Cup",
+     "20",
+     "King Size",
+     "Azul",
+     "3.600"
+    ],
+    [
+     "SS",
+     "Box",
+     "20",
+     "Long 100 mm",
+     "Green",
+     "4.000"
+    ],
+    [
+     "SS",
+     "Box",
+     "20",
+     "Long 100 mm",
+     "Tradicional",
+     "4.000"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Mint Boom Click",
+     "3.300"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Melon Boom Click",
+     "3.300"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Cherry Boom Click",
+     "3.300"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Click Convertible",
+     "2.800"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Berry Boom Click",
+     "3.300"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Apple Boom Click",
+     "3.300"
+    ],
+    [
+     "STRAUSS",
+     "Box",
+     "20",
+     "King Size",
+     "Platinum",
+     "3.300"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

@@ -1,0 +1,879 @@
+{
+ "slug": "renta-personas-naturales",
+ "nombre": "Datos informativos Operación Renta: personas naturales",
+ "fuente": "https://www.sii.cl/valores_y_fechas/renta/2026/personas_naturales.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Tabla de cálculo del Impuesto Global Complementario vigente para el año tributario 2026, para contribuyentes del artículo 52 de la LIR.",
+   "filas": [
+    [
+     "Renta imponible anual",
+     "Renta imponible anual",
+     "Renta imponible anual",
+     "Renta imponible anual",
+     "Factor",
+     "Cantidad a rebajar",
+     "Cantidad a rebajar"
+    ],
+    [
+     "Desde",
+     "Desde",
+     "Hasta",
+     "Hasta",
+     "Factor",
+     "Cantidad a rebajar",
+     "Cantidad a rebajar"
+    ],
+    [
+     "$",
+     "0,00",
+     "$",
+     "11.265.804,00",
+     "Exento",
+     "$",
+     "0,00"
+    ],
+    [
+     "$",
+     "11.265.804,01",
+     "$",
+     "25.035.120,00",
+     "0,04",
+     "$",
+     "450.632,16"
+    ],
+    [
+     "$",
+     "25.035.120,01",
+     "$",
+     "41.725.200,00",
+     "0,08",
+     "$",
+     "1.452.036,96"
+    ],
+    [
+     "$",
+     "41.725.200,01",
+     "$",
+     "58.415.280,00",
+     "0,135",
+     "$",
+     "3.746.922,96"
+    ],
+    [
+     "$",
+     "58.415.280,01",
+     "$",
+     "75.105.360,00",
+     "0,23",
+     "$",
+     "9.296.374,56"
+    ],
+    [
+     "$",
+     "75.105.360,01",
+     "$",
+     "100.140.480,00",
+     "0,304",
+     "$",
+     "14.854.171,20"
+    ],
+    [
+     "$",
+     "100.140.480,01",
+     "$",
+     "258.696.240,00",
+     "0,35",
+     "$",
+     "19.460.633,28"
+    ],
+    [
+     "$",
+     "258.696.240,01",
+     "y más",
+     "y más",
+     "0,40",
+     "$",
+     "32.395.445,28"
+    ]
+   ]
+  },
+  {
+   "titulo": "Tabla de cálculo del Impuesto Global Complementario vigente para el año tributario 2026, para contribuyentes del artículo 52 bis de la LIR (Presidente de la República, ministros de Estado, subsecretarios, senadores y diputados)",
+   "filas": [
+    [
+     "Renta imponible anual",
+     "Renta imponible anual",
+     "Renta imponible anual",
+     "Renta imponible anual",
+     "Factor",
+     "Cantidad a rebajar",
+     "Cantidad a rebajar"
+    ],
+    [
+     "Desde",
+     "Desde",
+     "Hasta",
+     "Hasta",
+     "Factor",
+     "Cantidad a rebajar",
+     "Cantidad a rebajar"
+    ],
+    [
+     "$",
+     "0,00",
+     "$",
+     "11.265.804,00",
+     "Exento",
+     "$",
+     "0,00"
+    ],
+    [
+     "$",
+     "11.265.804,01",
+     "$",
+     "25.035.120,00",
+     "0,04",
+     "$",
+     "450.632,16"
+    ],
+    [
+     "$",
+     "25.035.120,01",
+     "$",
+     "41.725.200,00",
+     "0,08",
+     "$",
+     "1.452.036,96"
+    ],
+    [
+     "$",
+     "41.725.200,01",
+     "$",
+     "58.415.280,00",
+     "0,135",
+     "$",
+     "3.746.922,96"
+    ],
+    [
+     "$",
+     "58.415.280,01",
+     "$",
+     "75.105.360,00",
+     "0,23",
+     "$",
+     "9.296.374,56"
+    ],
+    [
+     "$",
+     "75.105.360,01",
+     "$",
+     "100.140.480,00",
+     "0,304",
+     "$",
+     "14.854.171,20"
+    ],
+    [
+     "$",
+     "100.140.480,01",
+     "$",
+     "125.175.600,00",
+     "0,35",
+     "$",
+     "19.460.633,28"
+    ],
+    [
+     "$",
+     "125.175.600,01",
+     "y más",
+     "y más",
+     "0,40",
+     "$",
+     "25.719.413,28"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite de otras rentas afectas al Impuesto Global Complementario obtenidas por el Presidente de la República, ministros de Estado, subsecretarios, senadores y diputados para aplicación del crédito de 5%.",
+   "filas": [
+    [
+     "Límite de otras rentas afectas al Impuesto Global Complementario obtenidas por el Presidente de la República, ministros de Estado, subsecretarios, senadores y diputados, para aplicación del crédito de 5% (art. 52 bis letra b) de la LIR).",
+     "Que excedan de 150 UTA dic. de 2025",
+     "$125.175.600"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límites de exenciones y de ingresos no constitutivos de renta para el año tributario 2026.",
+   "filas": [
+    [
+     "LÍMITE DE EXENCIONES Y DE INR",
+     "LÍMITE DE EXENCIONES Y DE INR",
+     "LÍMITE DE EXENCIONES Y DE INR"
+    ],
+    [
+     "Concepto",
+     "Monto",
+     "Exención o INR"
+    ],
+    [
+     "1.- Exención de impuesto primera categoría de empresas individuales que obtengan rentas de los Nºs 1, 3, 4, y 5 del art. 20 de la LIR, ya sea que se encuentren sujetas a un régimen de renta efectiva y/o presunta (art. 40 Nº 6 de la LIR) . La referida liberación no rige respecto de las EIRL.",
+     "1 UTA del mes dic. de 2025",
+     "$ 834.504"
+    ],
+    [
+     "2.- Exención de impuesto global complementario (art. 52 y 52 bis de la LIR) .",
+     "13,5 UTA del mes dic. de 2025",
+     "$11.265.804"
+    ],
+    [
+     "3.- Exención de impuesto global complementario por rentas de capitales mobiliarios obtenidas por pequeños contribuyentes y trabajadores dependientes (art. 57 inc. 1º de la LIR) .",
+     "20 UTM del mes dic. de 2025",
+     "$1.390.840"
+    ],
+    [
+     "4.- Exención de impuesto global complementario por rentas provenientes del rescate de cuotas de fondos mutuos, obtenidas por pequeños contribuyentes y trabajadores dependientes (art. 57 inc. 2º de la LIR) .",
+     "30 UTM del mes dic. de 2025",
+     "$2.086.260"
+    ],
+    [
+     "5.- Exención de impuesto global complementario por la rentabilidad determinada sobre los retiros efectuados de las cuentas de ahorro voluntario abiertas en las AFP, acogidas a las normas generales de la LIR, obtenida por pequeños contribuyentes y trabajadores dependientes (art. 22 del D.L. N° 3500, de 1980) .",
+     "30 UTM del mes dic. de 2025",
+     "$2.086.260"
+    ],
+    [
+     "6.- Exención de impuesto global complementario por la rentabilidad anual generada por los APV acogidos al régimen tributario establecido en el inciso 2°, del artículo 42 bis de la LIR (art. 20 L y 22 del D.L. N° 3500, de 1980) .",
+     "30 UTM del mes dic. de 2025",
+     "$2.086.260"
+    ],
+    [
+     "7.- Exención de impuesto de primera categoría e impuesto global complementario por rentas provenientes del mayor valor determinado en la enajenación de acciones de sociedades anónimas o derechos en sociedad de personas, obtenidas por pequeños contribuyentes y trabajadores dependientes (art. 57 inc. 1º de la LIR) .",
+     "20 UTM del mes dic. de 2025",
+     "$1.390.840"
+    ],
+    [
+     "8.- INR por rentas provenientes del mayor valor obtenido en las operaciones a que se refieren las letras a), c) y d), del Nº 8 del art. 17 de la LIR (art. 17 Nº 8 letra a) literal vi de la LIR).",
+     "10 UTA del mes dic. de 2025",
+     "$8.345.040"
+    ],
+    [
+     "9.- INR por cantidades percibidas en cumplimiento de un seguro dotal y por el rescate total de seguros de vida con ahorro (art. 17 N° 3 de la LIR) .",
+     "17 UTM del mes dic. de 2025",
+     "$1.182.214"
+    ],
+    [
+     "10.- INR por rentas provenientes del mayor valor obtenido en la enajenación de bienes raíces agrícolas y no agrícolas situados en Chile (art. 17 N° 8 letra b) literal ii) de la LIR).",
+     "8.000 UF del 31.12.2025",
+     "$317.823.680"
+    ]
+   ]
+  },
+  {
+   "titulo": "Monto máximo a deducir por concepto de gastos presuntos, tratándose de profesionales y otros, de acuerdo a lo dispuesto en el artículo 50 de la LIR.",
+   "filas": [
+    [
+     "Años Tributarios",
+     "Concepto",
+     "Límite UTA",
+     "Pesos chilenos"
+    ],
+    [
+     "2026",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$12.517.560"
+    ],
+    [
+     "2025",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$12.112.920"
+    ],
+    [
+     "2024",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$11.558.880"
+    ],
+    [
+     "2023",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR).",
+     "15",
+     "$11.008.260"
+    ],
+    [
+     "2022",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR).",
+     "15",
+     "$9.750.780"
+    ],
+    [
+     "2021",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$9.185.220"
+    ],
+    [
+     "2020",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$8.932.140"
+    ],
+    [
+     "2019",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$8.703.540"
+    ],
+    [
+     "2018",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$8.454.960"
+    ],
+    [
+     "2017",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$8.312.940"
+    ],
+    [
+     "2016",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$8.091.900"
+    ],
+    [
+     "2015",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$7.775.640"
+    ],
+    [
+     "2014",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$7.338.960"
+    ],
+    [
+     "2013",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$7.237.080"
+    ],
+    [
+     "2012",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$7.023.780"
+    ],
+    [
+     "2011",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$6.768.900"
+    ],
+    [
+     "2010",
+     "Monto máximo presunción de gastos para profesionales independientes y demás contribuyentes personas naturales de 2ª Categoría (art. 50 inciso final LIR) .",
+     "15",
+     "$6.635.340"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límites para rebajas tributarias por donaciones para contribuyentes del Impuesto Global Complementario o Adicional",
+   "filas": [
+    [
+     "Concepto",
+     "Concepto",
+     "Límite",
+     "Límite"
+    ],
+    [
+     "1",
+     "Límite máximo donaciones en dinero a universidades, institutos profesionales y centros de formación técnica, según art. 69 Ley N° 18.681 (solo crédito IGC) .",
+     "Donación ajustada hasta el límite global absoluto (LGA) igual al 20% de la renta neta global (RNG) efectiva o 320 UTM dic. de 2025, según art. 10 Ley N° 19.885, considerando el límite menor.",
+     "$22.253.440 (320 UTM)"
+    ],
+    [
+     "2",
+     "Límite máximo donaciones en dinero, bienes o especies efectuadas para fines culturales, según art. 8° Ley N° 18.985 (solo crédito IGC o IA) .",
+     "Donación ajustada hasta el LGA igual al 20% de la RNG efectiva o presunta o 320 UTM dic. de 2025, según art. 10 Ley N° 19.885, considerando el límite menor. Crédito 50% donación ajustada, sin tope específico.",
+     "$22.253.440 (320 UTM)"
+    ],
+    [
+     "3",
+     "Límite máximo donaciones en dinero efectuadas para fines deportivos, según arts. N° 62 y sgtes. Ley N° 19.712 (solo crédito IGC) .",
+     "Donación ajustada hasta el LGA igual al 20% de la RNG efectiva o 320 UTM dic. de 2025, según art. 10 Ley N° 19.885, de 2003, considerando el límite menor.",
+     "$22.253.440 (320 UTM)"
+    ],
+    [
+     "4",
+     "Límite máximo donaciones en dinero efectuadas para fines sociales, según arts. 1° y sgtes. Ley N° 19.885 (solo crédito contribuyentes del IGC )",
+     "Donación ajustada hasta el LGA igual al 20% RNG efectiva o presunta o 320 UTM dic. de 2025 según art. 10 Ley N° 19.885, considerando el límite menor. Crédito 50%, 40% o 35% donación ajustada, sin tope específico. Aquella parte no utilizada como crédito se considerará gasto necesario (solo para contribuyentes del IGC que declaren gastos efectivos)",
+     "$22.253.440 (320 UTM)"
+    ],
+    [
+     "5",
+     "Límite máximo donaciones en dinero efectuadas al Fondo Nacional de Reconstrucción, con o sin fines específicos, según art. 5 Ley N° 20.444 (solo crédito IGC o IA) .",
+     "Crédito 40% donación, sin LGA y sin tope específico, salvo contribuyentes del IA que tendrán un crédito del 35% de la donación.",
+     "Sin límite"
+    ],
+    [
+     "6",
+     "Límite máximo donaciones en dinero, bienes o especies para catástrofes, según art. 3° D.L. N° 45 de 1973 (solo gasto IGC) .",
+     "Donación ajustada hasta el LGA igual al 20% de la RNG efectiva o 320 UTM dic. de 2025, según art. 10 Ley N° 19.885, considerando el límite menor. Donación ajustada es gasto.",
+     "$22.253.440 (320 UTM)"
+    ],
+    [
+     "7",
+     "Límite máximo donaciones en dinero, bienes o especies para catástrofes, según artículo 7° Ley N° 16.282 (solo gasto IGC) .",
+     "Total donación es gasto, sin LGA y sin tope específico.",
+     "Sin límite"
+    ],
+    [
+     "8",
+     "Límite máximo donaciones en dinero o bienes o especies efectuadas al Ministerio de Bienes Nacionales, según artículo 37 D.L. N° 1939 de 1977 (solo gasto IGC; personas naturales que declaren gastos efectivos)",
+     "Total donación es gasto, sin LGA y sin tope específico.",
+     "Sin límite"
+    ],
+    [
+     "9",
+     "Límite máximo donaciones en dinero, bienes corporales y bienes incorporales según el Título VIII bis del Decreto Ley N° 3.063 de 1979 (solo rebaja de la base imponible de IGC o IA)",
+     "Monto de la donación que podrán deducir anualmente de la base imponible de IGC o IA, será el monto menor entre: El equivalente a 10.000 UTM del mes de diciembre de 2025 El 5% de la base imponible del impuesto correspondiente, habiendo rebajado previamente las franquicias tributarias a las que tengan derecho y que incidan en el cálculo de dicha base imponible. Sin LGA , pero se computan dentro del total de donaciones efectuadas en el ejercicio para efectos de determinar el LGA que afecta a otras donaciones con beneficios tributarios a las que aplica dicho límite.",
+     "$ 695.420.000 (10.000 UTM)"
+    ],
+    [
+     "10",
+     "Límite máximo donaciones en dinero, bienes o especies efectuados al Ministerio del Medio Ambiente destinadas al Fondo de Protección Medio Ambiental, según letra a) del art. 68 de la Ley N° 19.300 (solo gasto IGC; personas naturales que declaren gastos efectivos)",
+     "Total donación es gasto, sin LGA y límite especifico.",
+     "Sin límite"
+    ],
+    [
+     "11",
+     "Límite máximo de donaciones de bienes inmuebles en apoyo al plan de emergencia habitacional (art. 26 del artículo cuarto de Ley N° 21.450)",
+     "Total donación es gasto, sin límite específico . Sin LGA , pero se computan dentro del total de donaciones efectuadas en el ejercicio para efectos de determinar el LGA que afecta a otras donaciones con beneficios tributarios a las que aplica dicho límite.",
+     "Sin límite"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite para aplicación de las franquicias tributarias de los artículos 55 bis y ex-57 bis de la LIR y de la Ley N° 19.622",
+   "filas": [
+    [
+     "Concepto",
+     "Concepto",
+     "Límite",
+     "Límite",
+     "Límite"
+    ],
+    [
+     "1",
+     "Límites máximos por rebaja por cuotas de fondos de inversión Ley N° 18.815, adquiridas con anterioridad al 04.06.93 (ex art. 32. Ley N° 18.815) .",
+     "20% Renta Efectiva Impuesto Global Complementario o 50 UTA dic. de 2025, considerando límite menor.",
+     "$41.725.200 (50 UTA)",
+     "$41.725.200 (50 UTA)"
+    ],
+    [
+     "2",
+     "Límites máximos por ahorro neto positivo del ejercicio a que se refería el N° 4, de la letra A), del ex-art. 57 bis LIR .",
+     "30% Base Imponible Impuesto Global Complementario o 65 UTA dic. de 2025, considerando límite menor.",
+     "$54.242.760 (65 UTA)",
+     "$54.242.760 (65 UTA)"
+    ],
+    [
+     "3",
+     "Cuota exenta ahorro neto negativo del ejercicio a que se refería el N° 5, de la letra A), del ex-art. 57 bis LIR .",
+     "10 UTA dic. de 2025",
+     "$ 8.345.040 (10 UTA)",
+     "$ 8.345.040 (10 UTA)"
+    ],
+    [
+     "4",
+     "Límite máximo por obligaciones hipotecarias contraídas entre las fechas que se indican para la adquisición o construcción de viviendas nuevas acogidas al D.F.L. N° 2, de 1959, sujetas al beneficio tributario de la Ley N° 19.622 y sus modificaciones posteriores o nuevas obligaciones hipotecarias para cancelar o pagar los créditos antes mencionados.",
+     "10 UTM entre el 22.06.1999 al 31.12.1999",
+     "Multiplicadas por el N° de cuotas pagadas durante el año 2025, las cuales no deben exceder de 12 cuotas en el año y hasta doce cuotas atrasadas de meses anteriores, considerando para tales fines el valor de la UTM vigente en el mes de diciembre del año comercial 2025.",
+     "Multiplicadas por el N° de cuotas pagadas durante el año 2025, las cuales no deben exceder de 12 cuotas en el año y hasta doce cuotas atrasadas de meses anteriores, considerando para tales fines el valor de la UTM vigente en el mes de diciembre del año comercial 2025."
+    ],
+    [
+     "4",
+     "Límite máximo por obligaciones hipotecarias contraídas entre las fechas que se indican para la adquisición o construcción de viviendas nuevas acogidas al D.F.L. N° 2, de 1959, sujetas al beneficio tributario de la Ley N° 19.622 y sus modificaciones posteriores o nuevas obligaciones hipotecarias para cancelar o pagar los créditos antes mencionados.",
+     "6 UTM entre el 01.01.2000 al 30.09.2000",
+     "Multiplicadas por el N° de cuotas pagadas durante el año 2025, las cuales no deben exceder de 12 cuotas en el año y hasta doce cuotas atrasadas de meses anteriores, considerando para tales fines el valor de la UTM vigente en el mes de diciembre del año comercial 2025.",
+     "Multiplicadas por el N° de cuotas pagadas durante el año 2025, las cuales no deben exceder de 12 cuotas en el año y hasta doce cuotas atrasadas de meses anteriores, considerando para tales fines el valor de la UTM vigente en el mes de diciembre del año comercial 2025."
+    ],
+    [
+     "4",
+     "Límite máximo por obligaciones hipotecarias contraídas entre las fechas que se indican para la adquisición o construcción de viviendas nuevas acogidas al D.F.L. N° 2, de 1959, sujetas al beneficio tributario de la Ley N° 19.622 y sus modificaciones posteriores o nuevas obligaciones hipotecarias para cancelar o pagar los créditos antes mencionados.",
+     "3 UTM entre el 01.10.2000 al 30.06.2001",
+     "Multiplicadas por el N° de cuotas pagadas durante el año 2025, las cuales no deben exceder de 12 cuotas en el año y hasta doce cuotas atrasadas de meses anteriores, considerando para tales fines el valor de la UTM vigente en el mes de diciembre del año comercial 2025.",
+     "Multiplicadas por el N° de cuotas pagadas durante el año 2025, las cuales no deben exceder de 12 cuotas en el año y hasta doce cuotas atrasadas de meses anteriores, considerando para tales fines el valor de la UTM vigente en el mes de diciembre del año comercial 2025."
+    ],
+    [
+     "5",
+     "Límite máximo por rebaja de intereses pagados provenientes de créditos con garantía hipotecaria por la adquisición o construcción de una o más viviendas destinadas a la habitación, según artículo 55 bis LIR.",
+     "Tramo renta",
+     "Límite máximo",
+     "Rebaja"
+    ],
+    [
+     "5",
+     "Límite máximo por rebaja de intereses pagados provenientes de créditos con garantía hipotecaria por la adquisición o construcción de una o más viviendas destinadas a la habitación, según artículo 55 bis LIR.",
+     "0 a 90 UTA",
+     "8 UTA dic. de 2025",
+     "$ 6.676.032"
+    ],
+    [
+     "5",
+     "Límite máximo por rebaja de intereses pagados provenientes de créditos con garantía hipotecaria por la adquisición o construcción de una o más viviendas destinadas a la habitación, según artículo 55 bis LIR.",
+     "Sobre 90 a 150 UTA",
+     "Proporcional",
+     "Proporcional"
+    ],
+    [
+     "5",
+     "Límite máximo por rebaja de intereses pagados provenientes de créditos con garantía hipotecaria por la adquisición o construcción de una o más viviendas destinadas a la habitación, según artículo 55 bis LIR.",
+     "Sobre 150 UTA y más",
+     "Sin derecho",
+     "Sin derecho"
+    ],
+    [
+     "5",
+     "Límite máximo por rebaja de intereses pagados provenientes de créditos con garantía hipotecaria por la adquisición o construcción de una o más viviendas destinadas a la habitación, según artículo 55 bis LIR.",
+     "90 UTA dic. de 2025",
+     "150 UTA dic. de 2025",
+     "150 UTA dic. de 2025"
+    ],
+    [
+     "5",
+     "Límite máximo por rebaja de intereses pagados provenientes de créditos con garantía hipotecaria por la adquisición o construcción de una o más viviendas destinadas a la habitación, según artículo 55 bis LIR.",
+     "$ 75.105.360",
+     "$ 125.175.600",
+     "$ 125.175.600"
+    ],
+    [
+     "6",
+     "Monto máximo del crédito anual establecido en la Ley N° 21.631, por la compra de viviendas nuevas destinadas a la habitación, adquiridas por personas naturales con créditos con garantía hipotecaria que cumplan los requisitos del artículo único de la citada ley.",
+     "El crédito rige para las viviendas nuevas acogidas a este crédito cuya compraventa se celebre a partir del 01.11.2023 y se inscriba hasta el 30.09.2024. En el caso de las viviendas con subsidio habitacional otorgado por el MINVU la escritura de compraventa puede suscribirse hasta el 30.09.2024. El crédito procederá por los AT 2024 al AT 2029.",
+     "$1.112.672 (16 UTM)",
+     "$1.112.672 (16 UTM)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Rebaja por ahorro previsional voluntario, de acuerdo a lo dispuesto en el artículo 42 bis de la LIR.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "LÍMITE",
+     "LÍMITE"
+    ],
+    [
+     "Límite máximo por ahorro previsional voluntario contribuyentes del art. 42 N° 1 y N° 2 de la LIR (art. 42 bis LIR) .",
+     "600 UF al 31.12.2025",
+     "$23.836.776"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límites para depósitos convenidos, de acuerdo a lo dispuesto en el artículo 42 quáter de la LIR.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "CONCEPTO",
+     "LÍMITES",
+     "LÍMITES"
+    ],
+    [
+     "1",
+     "Límite máximo depósitos convenidos que no se consideran renta para los fines tributarios. El exceso por sobre dicho límite se afecta con el Impuesto Único de Segunda Categoría o Impuesto Global Complementario (art. 20 D.L. N° 3.500, de 1980) .",
+     "900 UF al 31.12.2025",
+     "$35.755.164"
+    ],
+    [
+     "2",
+     "Límite máximo depósitos convenidos que se pueden retirar como excedentes de libre disposición afectos al Impuesto Global Complementario. El exceso por sobre dicho límite, sin incluir la rentabilidad, se puede retirar libre de impuesto (art. 42 quáter LIR) .",
+     "900 UF al 31.12.2025",
+     "$35.755.164"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite exención de retiros de excedentes de libre disposición, de acuerdo a lo dispuesto en el artículo 42 ter de la LIR.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "LÍMITE",
+     "LÍMITE"
+    ],
+    [
+     "Límites máximos de exención de Impuesto Global Complementario de retiros de excedentes de libre disposición (art. 42 ter LIR) .",
+     "800 UTM dic. de 2025, o",
+     "$55.633.600"
+    ],
+    [
+     "Límites máximos de exención de Impuesto Global Complementario de retiros de excedentes de libre disposición (art. 42 ter LIR) .",
+     "200 UTM dic. de 2025",
+     "$13.908.400"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límite bonificación fiscal, de acuerdo a lo dispuesto en el artículo 20 letra O) del D.L. N° 3.500, de 1980.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "LÍMITE",
+     "LÍMITE"
+    ],
+    [
+     "Límite bonificación fiscal a que se refiere el art. 20 letra O) del D.L. N° 3.500, de 1980.",
+     "6 UTM dic. de 2025",
+     "$417.252"
+    ]
+   ]
+  },
+  {
+   "titulo": "Límites para crédito por gastos en educación, de acuerdo a lo dispuesto en el artículo 55 ter de la LIR.",
+   "filas": [
+    [
+     "CONCEPTO",
+     "CONCEPTO",
+     "LÍMITES",
+     "LÍMITES"
+    ],
+    [
+     "1",
+     "Monto crédito por cada hijo no mayor de 25 años de edad, según art. 55 ter LIR.",
+     "4,4 UF al 31.12.2025",
+     "$174.803"
+    ],
+    [
+     "2",
+     "Suma anual rentas del padre y de la madre según art. 55 ter LIR.",
+     "792 UF al 31.12.2025",
+     "$31.464.544"
+    ]
+   ]
+  },
+  {
+   "titulo": "Factores de actualización directos año 2025.",
+   "filas": [
+    [
+     "Factores de actualización directos año 2025",
+     "Factores de actualización directos año 2025"
+    ],
+    [
+     "C.P.I. al 01.01.2025",
+     "1,034"
+    ],
+    [
+     "Exceso de retiros existentes al 31.12.2024, provenientes del 31.12.2014",
+     "1,034"
+    ],
+    [
+     "Pérdida tributaria ejercicios anteriores",
+     "1,034"
+    ],
+    [
+     "Enero 2025",
+     "1,036"
+    ],
+    [
+     "Febrero 2025",
+     "1,026"
+    ],
+    [
+     "Marzo 2025",
+     "1,022"
+    ],
+    [
+     "Abril 2025",
+     "1,016"
+    ],
+    [
+     "Mayo 2025",
+     "1,014"
+    ],
+    [
+     "Junio 2025",
+     "1,012"
+    ],
+    [
+     "Julio 2025",
+     "1,017"
+    ],
+    [
+     "Agosto 2025",
+     "1,008"
+    ],
+    [
+     "Septiembre 2025",
+     "1,007"
+    ],
+    [
+     "Octubre 2025",
+     "1,003"
+    ],
+    [
+     "Noviembre 2025",
+     "1,003"
+    ],
+    [
+     "Diciembre 2025",
+     "1,000"
+    ]
+   ]
+  },
+  {
+   "titulo": "Sueldo grado 1-A Escala Única de Sueldos para rebaja de presunción de asignación de zona establecida en el artículo 13 del D.L. N° 889, de 1975.",
+   "filas": [
+    [
+     "Meses Año 2025",
+     "SUELDO GRADO 1-A ESCALA ÚNICA DE SUELDOS"
+    ],
+    [
+     "Enero",
+     "$ 715.858"
+    ],
+    [
+     "Febrero",
+     "$ 715.858"
+    ],
+    [
+     "Marzo",
+     "$ 715.858"
+    ],
+    [
+     "Abril",
+     "$ 715.858"
+    ],
+    [
+     "Mayo",
+     "$ 715.858"
+    ],
+    [
+     "Junio",
+     "$ 720.439"
+    ],
+    [
+     "Julio",
+     "$ 720.439"
+    ],
+    [
+     "Agosto",
+     "$ 720.439"
+    ],
+    [
+     "Septiembre",
+     "$ 720.439"
+    ],
+    [
+     "Octubre",
+     "$ 720.439"
+    ],
+    [
+     "Noviembre",
+     "$ 720.439"
+    ],
+    [
+     "Diciembre",
+     "$ 734.848"
+    ]
+   ]
+  },
+  {
+   "titulo": "Porcentajes que los compradores de productos mineros deben considerar para efectuar las retenciones de impuestos a los contribuyentes mineros personas naturales acogidos al régimen de renta presunta, de acuerdo con lo dispuesto en el artículo 74 N° 6 de la LIR, vigentes desde el 01.03.2026 y hasta el 28.02.2027.",
+   "filas": [
+    [
+     "MINERAL",
+     "PRECIO INTERNACIONAL DEL MINERAL",
+     "PORCENTAJE O TASA DE RETENCIÓN"
+    ],
+    [
+     "Ventas de Cobre",
+     "PENDIENTE",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Cobre",
+     "PENDIENTE",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Cobre",
+     "PENDIENTE",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Oro",
+     "No excede de 1.118,44 dólares la onza troy de oro",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Oro",
+     "Excede de 1.118,44 y no sobrepasa de 1.789,40 dólares la onza troy de oro",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Oro",
+     "Excede de 1.789,40 dólares la onza troy de oro",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Plata",
+     "No excede de 1.027,31 dólares el kilógramo de plata",
+     "1% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Plata",
+     "Excede de 1.027,31 y no sobrepasa de 1.643,72 dólares el kilógramo de plata",
+     "2% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de Plata",
+     "Excede de 1.643,72 dólares el kilógramo de plata",
+     "4% sobre valor neto de venta"
+    ],
+    [
+     "Ventas de otros productos mineros, sin contenido de cobre, oro o plata.",
+     "",
+     "2% sobre valor neto de venta"
+    ]
+   ]
+  },
+  {
+   "titulo": "Porcentajes que los mineros personas naturales deben considerar para calcular la presunción de renta que les afecta, de acuerdo a lo dispuesto en el artículo 34 N° 2 letra c) de la LIR, vigentes para el año tributario 2026.",
+   "filas": [
+    [
+     "MINERAL",
+     "TASA",
+     "RENTA PRESUNTA"
+    ],
+    [
+     "Cobre",
+     "10%",
+     "10% sobre ventas netas anuales actualizadas"
+    ],
+    [
+     "Oro",
+     "20%",
+     "20% sobre ventas netas anuales actualizadas"
+    ],
+    [
+     "Plata",
+     "10%",
+     "10% sobre ventas netas anuales actualizadas"
+    ],
+    [
+     "Otros minerales, sin contenido de cobre, oro o plata",
+     "6%",
+     "6% sobre Ventas Netas Anuales Actualizadas"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

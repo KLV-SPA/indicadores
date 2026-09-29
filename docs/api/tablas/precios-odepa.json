@@ -1,0 +1,542 @@
+{
+ "slug": "precios-odepa",
+ "nombre": "Precios Odepa",
+ "fuente": "https://www.sii.cl/valores_y_fechas/odepa/precios_odepa2026.htm",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Agosto 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5850"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4980"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2640"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5850"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4980"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2640"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5850"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4950"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2653"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5840"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4950"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2750"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5840"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4950"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2750"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5720"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4900"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2720"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5533"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4970"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2723"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero 2026",
+   "filas": [
+    [
+     "CLASE O ESPECIE",
+     "CLASE O ESPECIE",
+     "PRECIO ODEPA [$/Kg], sin IVA"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "V",
+     "5680"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "C",
+     "2300"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "U",
+     "4960"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "N",
+     "1695 (d)"
+    ],
+    [
+     "Bovino Tipificado (*)",
+     "O",
+     "1850 (c)"
+    ],
+    [
+     "CERDOS (ODEPA)",
+     "CERDOS (ODEPA)",
+     "2890"
+    ],
+    [
+     "CORDEROS",
+     "CORDEROS",
+     "2190 (a)"
+    ],
+    [
+     "OVEJAS",
+     "OVEJAS",
+     "560 (a)"
+    ],
+    [
+     "CABALLOS Y YEGUAS",
+     "CABALLOS Y YEGUAS",
+     "1218 (b)"
+    ],
+    [
+     "POTRONES Y POTRANCAS",
+     "POTRONES Y POTRANCAS",
+     "1487 (b)"
+    ]
+   ]
+  },
+  {
+   "titulo": "Anexo 1 - Requisitos para la tipificación",
+   "filas": [
+    [
+     "Categoría",
+     "Clase",
+     "Cronometría dentaria",
+     "Grasa de cobertura"
+    ],
+    [
+     "V",
+     "Vaquilla Novillito Vaca joven Novillo Torito Toro",
+     "Máximo 2 dientes permanentes Máximo 2 dientes permanentes Máximo 4 dientes permanentes Máximo 4 dientes permanentes Máximo dientes de leche Máximo 2 dientes permanentes",
+     "1-2-3"
+    ],
+    [
+     "C",
+     "Vaca joven Novillo",
+     "Máximo 6 dientes permanentes",
+     "1-2-3"
+    ],
+    [
+     "U",
+     "Vaca adulta Vaca vieja Buey Toro Toruno",
+     "Máximo 8 dientes permanentes con nivelación de primeros medianos Desde la nivelación de segundos medianos permanentes Desde 8 dientes permanentes Desde 4 dientes permanentes Desde 4 dientes permanentes",
+     "1-2-3"
+    ],
+    [
+     "N",
+     "Todas las clases excepto terneros(as)",
+     "Sin exigencia",
+     "0"
+    ],
+    [
+     "N",
+     "Todas las clases excepto terneros(as)",
+     "Sin exigencia",
+     "1-2-3 con contusiones"
+    ],
+    [
+     "O",
+     "Terneros",
+     "Sin nivelación de los centrales (pinzas) de leche",
+     "Sin exigencia"
+    ],
+    [
+     "(1) Los terneros(as) se incluirán en la categoría V si tienen un peso mínimo de canal de 160 kg y su canal cumple con los requisitos de la categoría. (2) En caso de presentarse un toruno con máximo 2 dientes permanentes y si su canal cumple con los requisitos de la categoría V se incluirá en dicha categoría.",
+     "(1) Los terneros(as) se incluirán en la categoría V si tienen un peso mínimo de canal de 160 kg y su canal cumple con los requisitos de la categoría. (2) En caso de presentarse un toruno con máximo 2 dientes permanentes y si su canal cumple con los requisitos de la categoría V se incluirá en dicha categoría.",
+     "(1) Los terneros(as) se incluirán en la categoría V si tienen un peso mínimo de canal de 160 kg y su canal cumple con los requisitos de la categoría. (2) En caso de presentarse un toruno con máximo 2 dientes permanentes y si su canal cumple con los requisitos de la categoría V se incluirá en dicha categoría.",
+     "(1) Los terneros(as) se incluirán en la categoría V si tienen un peso mínimo de canal de 160 kg y su canal cumple con los requisitos de la categoría. (2) En caso de presentarse un toruno con máximo 2 dientes permanentes y si su canal cumple con los requisitos de la categoría V se incluirá en dicha categoría."
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

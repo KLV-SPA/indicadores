@@ -1,0 +1,41 @@
+{
+ "slug": "vida-util-existente",
+ "nombre": "Tabla de vida útil (bienes existentes)",
+ "fuente": "https://www.sii.cl/valores_y_fechas/tabla_vida_util_activo_inmovilizado_existente.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [],
+ "documentos": [
+  {
+   "nombre": "Imagen (página 1)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes1.gif"
+  },
+  {
+   "nombre": "Imagen (página 1)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes2.gif"
+  },
+  {
+   "nombre": "Imagen (página 2)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes3.gif"
+  },
+  {
+   "nombre": "Imagen (página 2)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes4.gif"
+  },
+  {
+   "nombre": "Imagen (página 3)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes5.gif"
+  },
+  {
+   "nombre": "Imagen (página 3)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes6.gif"
+  },
+  {
+   "nombre": "Imagen (página 4)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes6a.gif"
+  },
+  {
+   "nombre": "Imagen (página 4)",
+   "url": "https://www.sii.cl/valores_y_fechas/bienes7.gif"
+  }
+ ]
+}

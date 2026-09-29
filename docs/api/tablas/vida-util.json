@@ -1,0 +1,1284 @@
+{
+ "slug": "vida-util",
+ "nombre": "Tabla de vida útil de los bienes físicos del activo inmovilizado",
+ "fuente": "https://www.sii.cl/valores_y_fechas/tabla_vida_util_activo_inmovilizado.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Nueva tabla de vida útil de los bienes físicos del activo inmovilizado",
+   "filas": [
+    [
+     "NÓMINA DE BIENES SEGUN ACTIVIDADES",
+     "NUEVA VIDA ÚTIL NORMAL",
+     "DEPRECIACIÓN ACELERADA"
+    ],
+    [
+     "A.- ACTIVOS GENÉRICOS",
+     "",
+     ""
+    ],
+    [
+     "1) Construcciones con estructuras de acero, cubierta y entrepisos de perfiles acero o losas hormigón armado.",
+     "80",
+     "26"
+    ],
+    [
+     "2) Edificios, casas y otras construcciones, con muros de ladrillos o de hormigón, con cadenas, pilares y vigas hormigón armado, con o sin losas.",
+     "50",
+     "16"
+    ],
+    [
+     "3) Edificios fábricas de material sólido albañilería de ladrillo, de concreto armado y estructura metálica.",
+     "40",
+     "13"
+    ],
+    [
+     "4) Construcciones de adobe o madera en general.",
+     "30",
+     "10"
+    ],
+    [
+     "5) Galpones de madera o estructura metálica.",
+     "20",
+     "6"
+    ],
+    [
+     "6) Otras construcciones definitivas (ejemplos: caminos, puentes, túneles, vías férreas, etc.).",
+     "20",
+     "6"
+    ],
+    [
+     "7) Construcciones provisorias.",
+     "10",
+     "3"
+    ],
+    [
+     "8) Instalaciones en general (ejemplos: eléctricas, de oficina, etc.).",
+     "10",
+     "3"
+    ],
+    [
+     "9) Camiones de uso general.",
+     "7",
+     "2"
+    ],
+    [
+     "10) Camionetas y jeeps.",
+     "7",
+     "2"
+    ],
+    [
+     "11) Automóviles",
+     "7",
+     "2"
+    ],
+    [
+     "12) Microbuses, taxibuses, furgones y similares.",
+     "7",
+     "2"
+    ],
+    [
+     "13) Motos en general.",
+     "7",
+     "2"
+    ],
+    [
+     "14) Remolques, semirremolques y carros de arrastre.",
+     "7",
+     "2"
+    ],
+    [
+     "15) Maquinarias y equipos en general.",
+     "15",
+     "5"
+    ],
+    [
+     "16) Balanzas, hornos microondas, refrigeradores, conservadoras, vitrinas refrigeradas y cocinas.",
+     "9",
+     "3"
+    ],
+    [
+     "17) Equipos de aire y cámaras de refrigeración.",
+     "10",
+     "3"
+    ],
+    [
+     "18) Herramientas pesadas.",
+     "8",
+     "2"
+    ],
+    [
+     "19) Herramientas livianas.",
+     "3",
+     "1"
+    ],
+    [
+     "20) Letreros camineros y luminosos.",
+     "10",
+     "3"
+    ],
+    [
+     "21) Útiles de oficina (ejemplos: máquina de escribir, fotocopiadora, etc.).",
+     "3",
+     "1"
+    ],
+    [
+     "22) Muebles y enseres.",
+     "7",
+     "2"
+    ],
+    [
+     "23) Sistemas computacionales, computadores, periféricos, y similares (ejemplos: cajeros automáticos, cajas registradoras, etc.).",
+     "6",
+     "2"
+    ],
+    [
+     "24) Estanques",
+     "10",
+     "3"
+    ],
+    [
+     "25) Equipos médicos en general.",
+     "8",
+     "2"
+    ],
+    [
+     "26) Equipos de vigilancia y detección y control de incendios, alarmas.",
+     "7",
+     "2"
+    ],
+    [
+     "27) Envases en general.",
+     "6",
+     "2"
+    ],
+    [
+     "28) Equipo de audio y video.",
+     "6",
+     "2"
+    ],
+    [
+     "29) Material de audio y video.",
+     "5",
+     "1"
+    ],
+    [
+     "B.- INDUSTRIA DE LA CONSTRUCCIÓN",
+     "",
+     ""
+    ],
+    [
+     "1) Maquinaria destinada a la construcción pesada (Ejemplos: motoniveladoras, traxcavators, bulldozers, tractores, caterpillars, dragas, excavadoras, pavimentadores, chancadoras, betoneras, vibradoras, tecles, torres elevadoras, tolvas, mecanismo de volteo, motores eléctricos, estanques, rodillos, moldes pavimento, etc.).",
+     "8",
+     "2"
+    ],
+    [
+     "2) Bombas, perforadoras, carros remolques, motores a gasolina, grupos electrógenos, soldadoras.",
+     "6",
+     "2"
+    ],
+    [
+     "C.- INDUSTRIA EXTRACTIVA (MINERÍA)",
+     "",
+     ""
+    ],
+    [
+     "1) Maquinarias y equipos en general destinados a trabajos pesados en minas y plantas beneficiadoras de minerales.",
+     "9",
+     "3"
+    ],
+    [
+     "2) Instalaciones en minas y plantas beneficiadoras de minerales.",
+     "5",
+     "1"
+    ],
+    [
+     "3) Tranques de relaves.",
+     "10",
+     "3"
+    ],
+    [
+     "4) Túnel – mina.",
+     "20",
+     "6"
+    ],
+    [
+     "D. - EMPRESAS DE TRANSPORTE",
+     "",
+     ""
+    ],
+    [
+     "TRANSPORTE MARÍTIMO",
+     "",
+     ""
+    ],
+    [
+     "1) Naves y barcos de carga en general, frigoríficos o graneleros con casco de acero.",
+     "18",
+     "6"
+    ],
+    [
+     "2) Naves con casco de acero.",
+     "36",
+     "12"
+    ],
+    [
+     "3) Naves con casco de madera.",
+     "23",
+     "7"
+    ],
+    [
+     "4) Remolcadores y barcazas con casco de acero.",
+     "20",
+     "6"
+    ],
+    [
+     "5) Remolcadores y barcazas con casco de madera.",
+     "15",
+     "5"
+    ],
+    [
+     "6) Embarcaciones menores en general con casco de acero o madera.",
+     "10",
+     "3"
+    ],
+    [
+     "7) Porta contenedores, incluidos los buques Roll-On Roll.",
+     "16",
+     "5"
+    ],
+    [
+     "8) Boyas, anclas, cadenas, etc.",
+     "10",
+     "3"
+    ],
+    [
+     "9) Muelles de estructura metálica.",
+     "20",
+     "6"
+    ],
+    [
+     "10) Terminales e instalaciones marítimas.",
+     "10",
+     "3"
+    ],
+    [
+     "TRANSPORTE TERRESTRE",
+     "",
+     ""
+    ],
+    [
+     "1) Tolvas, mecanismo de volteo.",
+     "9",
+     "3"
+    ],
+    [
+     "2) Carros portacontenedores en general.",
+     "7",
+     "2"
+    ],
+    [
+     "E.- SECTOR ENERGÉTICO",
+     "",
+     ""
+    ],
+    [
+     "E.1) EMPRESAS ELÉCTRICAS",
+     "",
+     ""
+    ],
+    [
+     "1) Equipos de generación y eléctricos utilizados en la generación.",
+     "10",
+     "3"
+    ],
+    [
+     "2) Obras civiles hidráulicas y otros relacionados con la generación.",
+     "",
+     ""
+    ],
+    [
+     "- Bocatomas, muros de presa.",
+     "50",
+     "16"
+    ],
+    [
+     "- Descargas",
+     "30",
+     "10"
+    ],
+    [
+     "- Túneles, piques, pretiles, evacuaciones, cámaras de carga, tuberías de presión.",
+     "20",
+     "6"
+    ],
+    [
+     "- Canales",
+     "18",
+     "6"
+    ],
+    [
+     "- Sifones, captaciones, estanques y chimeneas de equilibrio.",
+     "10",
+     "3"
+    ],
+    [
+     "- Desarenador",
+     "8",
+     "2"
+    ],
+    [
+     "3) Líneas de distribución de alta tensión y baja tensión, líneas de transmisión, cables de transmisión, cables de poder.",
+     "20",
+     "6"
+    ],
+    [
+     "4) Líneas de alta tensión – Transporte.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "20",
+     "6"
+    ],
+    [
+     "- Conductores",
+     "20",
+     "6"
+    ],
+    [
+     "- Apoyos de suspensión y apoyos de amarres.",
+     "10",
+     "3"
+    ],
+    [
+     "5) Cables de alta tensión – Transporte.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "20",
+     "6"
+    ],
+    [
+     "- Conductores",
+     "20",
+     "6"
+    ],
+    [
+     "6) Subestaciones – Transporte.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "25",
+     "8"
+    ],
+    [
+     "- Construcciones y casetas de entronque (estaciones de bombeo, reactancias compensación).",
+     "20",
+     "6"
+    ],
+    [
+     "- Transformadores, celdas de transformadores, celdas de líneas, equipos auxiliares y equipos de telecomandos.",
+     "10",
+     "3"
+    ],
+    [
+     "7) Líneas de alta tensión – Distribución.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "20",
+     "6"
+    ],
+    [
+     "- Conductores",
+     "20",
+     "6"
+    ],
+    [
+     "- Apoyos de suspensión, apoyos de amarres y remodelación de líneas.",
+     "10",
+     "3"
+    ],
+    [
+     "8) Cables de alta tensión – Distribución.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "20",
+     "6"
+    ],
+    [
+     "- Conductores",
+     "20",
+     "6"
+    ],
+    [
+     "9) Líneas de media tensión – Aéreas.",
+     "",
+     ""
+    ],
+    [
+     "- Redes desnudas, redes aisladas, postes y otros.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos",
+     "12",
+     "4"
+    ],
+    [
+     "10) Líneas de media tensión – Subterráneas.",
+     "",
+     ""
+    ],
+    [
+     "- Redes, cámaras, canalizaciones y otros.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos",
+     "12",
+     "4"
+    ],
+    [
+     "11) Líneas de baja tensión – Aéreas.",
+     "",
+     ""
+    ],
+    [
+     "- Redes desnudas, redes aisladas, postes y otros.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos",
+     "12",
+     "4"
+    ],
+    [
+     "12) Líneas de baja tensión – Subterráneas.",
+     "",
+     ""
+    ],
+    [
+     "- Redes, cámaras, canalizaciones y otros.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos.",
+     "12",
+     "4"
+    ],
+    [
+     "13) Subestaciones de distribución.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles y construcciones.",
+     "20",
+     "6"
+    ],
+    [
+     "- Transformadores, celdas de transformadores, celdas de líneas, equipos auxiliares y equipos de telecomandos.",
+     "10",
+     "3"
+    ],
+    [
+     "14) Subestaciones MT/MT.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles y construcciones.",
+     "20",
+     "6"
+    ],
+    [
+     "- Transformadores, celdas de transformadores, equipos auxiliares y equipos de telecomandos.",
+     "10",
+     "3"
+    ],
+    [
+     "15) Subestaciones anexas MT/MT.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles y construcciones",
+     "20",
+     "6"
+    ],
+    [
+     "- Transformadores, celdas de transformadores, equipos auxiliares y equipos de telecomandos.",
+     "10",
+     "3"
+    ],
+    [
+     "16) Centros de transformación MT/BT.",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "20",
+     "6"
+    ],
+    [
+     "- Transformadores aéreos, subterráneos y de superficie.",
+     "10",
+     "3"
+    ],
+    [
+     "- Otros equipos eléctricos aéreos, subterráneos y comunes.",
+     "12",
+     "4"
+    ],
+    [
+     "17) Contadores y aparatos de medida – Central de operaciones y servicio de clientes.",
+     "10",
+     "3"
+    ],
+    [
+     "18) Otras instalaciones técnicas para energía eléctrica",
+     "",
+     ""
+    ],
+    [
+     "- Obras civiles.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos",
+     "10",
+     "3"
+    ],
+    [
+     "19) Alumbrado público.",
+     "10",
+     "3"
+    ],
+    [
+     "E.2) EMPRESAS SECTOR PETRÓLEO Y GAS NATURAL",
+     "",
+     ""
+    ],
+    [
+     "E.2) EMPRESAS SECTOR PETRÓLEO Y GAS NATURAL",
+     "",
+     ""
+    ],
+    [
+     "1) Buques tanques (petroleros, gaseros), naves y barcos cisternas para transporte de combustible líquido.",
+     "15",
+     "5"
+    ],
+    [
+     "2) Oleoductos y gasoductos terrestres, cañerías y líneas troncales.",
+     "18",
+     "6"
+    ],
+    [
+     "3) Planta de tratamiento de hidrocarburos.",
+     "10",
+     "3"
+    ],
+    [
+     "4) Oleoductos y gaseoductos marinos.",
+     "10",
+     "3"
+    ],
+    [
+     "5) Equipos e instrumental de explotación.",
+     "10",
+     "3"
+    ],
+    [
+     "6) Plataforma de producción en el mar fija.",
+     "10",
+     "3"
+    ],
+    [
+     "7) Equipos de perforación marinos.",
+     "10",
+     "3"
+    ],
+    [
+     "8) Baterías de recepción en tierra (estanques, bombas, sistema de cañerías con sus válvulas, calentadores, instrumentos de control, elementos de seguridad contra incendio y prevención de riesgos, etc.).",
+     "10",
+     "3"
+    ],
+    [
+     "9) Instalaciones de almacenamiento tales como \"tank farms\".",
+     "15",
+     "5"
+    ],
+    [
+     "10) Plataformas de perforación y de producción de costa afuera.",
+     "22",
+     "7"
+    ],
+    [
+     "F.- EMPRESAS DE TELECOMUNICACIONES",
+     "",
+     ""
+    ],
+    [
+     "1) Equipos conmutación local en oficinas centrales.",
+     "",
+     ""
+    ],
+    [
+     "- Equipos O.C. automáticos.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos O.C. auto (combinados).",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos O.C. batería central.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos O.C. magneto.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos de fuerza.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos de tasación.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos de radio.",
+     "12",
+     "4"
+    ],
+    [
+     "- Equipos canalizadores y repetidores en O.C.",
+     "10",
+     "3"
+    ],
+    [
+     "2) Equipos conmutación L.D. en oficinas centrales.",
+     "",
+     ""
+    ],
+    [
+     "- Posiciones de larga distancia.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos de radio.",
+     "12",
+     "4"
+    ],
+    [
+     "- Equipos canalizadores y repetidores en O.C..",
+     "10",
+     "3"
+    ],
+    [
+     "3) Otros equipos de O.C.",
+     "",
+     ""
+    ],
+    [
+     "- Teléfonos, calculógrafos y sillas de operadoras.",
+     "10",
+     "3"
+    ],
+    [
+     "4) Equipos seguridad industrial en oficinas centrales.",
+     "",
+     ""
+    ],
+    [
+     "- Equipos industriales de climatización.",
+     "10",
+     "3"
+    ],
+    [
+     "5) Equipos para suscriptores.",
+     "",
+     ""
+    ],
+    [
+     "- Teléfonos automáticos.",
+     "10",
+     "3"
+    ],
+    [
+     "- Teléfonos batería central.",
+     "10",
+     "3"
+    ],
+    [
+     "- Teléfonos magneto.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos especiales.",
+     "10",
+     "3"
+    ],
+    [
+     "- Alambre bajantes.",
+     "10",
+     "3"
+    ],
+    [
+     "- Alambre interior.",
+     "10",
+     "3"
+    ],
+    [
+     "- PABX automáticos.",
+     "10",
+     "3"
+    ],
+    [
+     "- PBX automáticos.",
+     "10",
+     "3"
+    ],
+    [
+     "- PBX batería central.",
+     "10",
+     "3"
+    ],
+    [
+     "- PBX magneto.",
+     "10",
+     "3"
+    ],
+    [
+     "- Locutorios.",
+     "10",
+     "3"
+    ],
+    [
+     "- Equipos fax.",
+     "10",
+     "3"
+    ],
+    [
+     "6) Equipos planta externa local.",
+     "",
+     ""
+    ],
+    [
+     "- - Postes y crucetas de madera.",
+     "20",
+     "6"
+    ],
+    [
+     "- - Postes y crucetas de fierro.",
+     "20",
+     "6"
+    ],
+    [
+     "- Postes de concreto.",
+     "20",
+     "6"
+    ],
+    [
+     "- Antenas y líneas de transmisión.",
+     "12",
+     "4"
+    ],
+    [
+     "- Cables aéreos y bobinas de carga.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cables subterráneos y bobinas de carga.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cables interiores.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cables aéreos desnudos.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos canalizadores y repetidores en postes.",
+     "12",
+     "4"
+    ],
+    [
+     "- Conductos y cámaras.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cables enlaces.",
+     "20",
+     "6"
+    ],
+    [
+     "- Blocks, regletas, cassettes de protección.",
+     "20",
+     "6"
+    ],
+    [
+     "- Sala de cables y MDF.",
+     "20",
+     "6"
+    ],
+    [
+     "- Armarios de distribución.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cajas terminales, doble conexión.",
+     "20",
+     "6"
+    ],
+    [
+     "- Empalmes de cables aéreos y subterráneo.",
+     "20",
+     "6"
+    ],
+    [
+     "- Sistema gráfico de manejo de redes.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cables de fibra óptica.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cámaras y ductos.",
+     "20",
+     "6"
+    ],
+    [
+     "7) Equipos planta externa L.D.",
+     "",
+     ""
+    ],
+    [
+     "- Postes y crucetas de madera.",
+     "20",
+     "6"
+    ],
+    [
+     "- Postes y crucetas de fierro.",
+     "20",
+     "6"
+    ],
+    [
+     "- Postes de concreto.",
+     "20",
+     "6"
+    ],
+    [
+     "- Antenas y líneas de transmisión.",
+     "12",
+     "4"
+    ],
+    [
+     "- Cables aéreos y bobinas de carga.",
+     "20",
+     "6"
+    ],
+    [
+     "- Cables subterráneos y bobinas de carga.",
+     "20",
+     "6"
+    ],
+    [
+     "- Alambres aéreos desnudos.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos canalizadores y repetidores en postes.",
+     "12",
+     "4"
+    ],
+    [
+     "- Conductos y cámaras.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos de control automático.",
+     "10",
+     "3"
+    ],
+    [
+     "- Estaciones satelitales terrenas.",
+     "12",
+     "4"
+    ],
+    [
+     "- Cables de fibra óptica.",
+     "20",
+     "6"
+    ],
+    [
+     "- Equipos de fibra óptica.",
+     "12",
+     "4"
+    ],
+    [
+     "- Segmento espacial.",
+     "10",
+     "3"
+    ],
+    [
+     "G.- ACTIVIDAD DE LA AGRICULTURA",
+     "",
+     ""
+    ],
+    [
+     "1) Tractores, segadoras, cultivadoras, fumigadoras, motos bombas, pulverizadoras.",
+     "8",
+     "2"
+    ],
+    [
+     "2) Cosechadoras, arados, esparcidoras de abono y de cal, máquinas de ordeñar.",
+     "11",
+     "3"
+    ],
+    [
+     "3) Esquiladoras mecánicas y maquinarias no comprendidas en el número anterior.",
+     "11",
+     "3"
+    ],
+    [
+     "4) Vehículos de carga, motorizados, como ser: camiones trailers, camiones fudres y acoplados, colosos de tiro animal.",
+     "10",
+     "3"
+    ],
+    [
+     "5) Carretas, carretones, carretelas, etc.",
+     "15",
+     "5"
+    ],
+    [
+     "6) Camiones de carga y camionetas de uso intensivo en la actividad agrícola.",
+     "6",
+     "2"
+    ],
+    [
+     "7) Tuberías para agua potable instaladas en predios agrícolas.",
+     "18",
+     "6"
+    ],
+    [
+     "8) Construcciones de material sólido, como ser: silos, casas patronales y de inquilinos, lagares, etc.",
+     "50",
+     "16"
+    ],
+    [
+     "9) Construcciones de adobe y madera, estructuras metálicas.",
+     "20",
+     "6"
+    ],
+    [
+     "10) Animales de trabajo.",
+     "8",
+     "2"
+    ],
+    [
+     "11) Toros, carneros, cabríos, verracos, potros y otros reproductores.",
+     "5",
+     "1"
+    ],
+    [
+     "12) Gallos y pavos reproductores.",
+     "3",
+     "1"
+    ],
+    [
+     "13) Nogales, paltos, ciruelos, manzanos, almendros.",
+     "18",
+     "6"
+    ],
+    [
+     "14) Viñedos según variedad.",
+     "11 a 23",
+     "3 a 7"
+    ],
+    [
+     "15) Limoneros",
+     "12",
+     "4"
+    ],
+    [
+     "16) Duraznos",
+     "10",
+     "3"
+    ],
+    [
+     "17) Otras plantaciones frutales no comprendidas en los números 13), 14), 15) y 16) anteriores.",
+     "13",
+     "4"
+    ],
+    [
+     "18) Olivos",
+     "40",
+     "13"
+    ],
+    [
+     "19) Naranjos",
+     "30",
+     "10"
+    ],
+    [
+     "20) Perales",
+     "25",
+     "8"
+    ],
+    [
+     "21) Orégano",
+     "9",
+     "3"
+    ],
+    [
+     "22) Alfalfa",
+     "4",
+     "1"
+    ],
+    [
+     "23) Animales de lechería (vacas).",
+     "7",
+     "2"
+    ],
+    [
+     "24) Gallinas",
+     "3",
+     "1"
+    ],
+    [
+     "25) Ovejas",
+     "5",
+     "1"
+    ],
+    [
+     "26) Yeguas",
+     "12",
+     "4"
+    ],
+    [
+     "27) Porcinos de reproducción (hembras).",
+     "6",
+     "2"
+    ],
+    [
+     "28) Conejos machos y hembras.",
+     "3",
+     "1"
+    ],
+    [
+     "29) Caprinos",
+     "5",
+     "1"
+    ],
+    [
+     "30) Asnales",
+     "5",
+     "1"
+    ],
+    [
+     "31) Postes y alambradas para viñas.",
+     "10",
+     "3"
+    ],
+    [
+     "32) Tranques y obras de captación de aguas:",
+     "",
+     ""
+    ],
+    [
+     "a) Tranque propiamente tal. Por ser de duración indefinida no es depreciable.",
+     "-",
+     "-"
+    ],
+    [
+     "b) Instalaciones anexas al tranque. Bombas extractoras de agua, estanques e instalaciones similares en general.",
+     "10",
+     "3"
+    ],
+    [
+     "33) Canales de riego:",
+     "",
+     ""
+    ],
+    [
+     "a) Sin aplicación de concreto o de otro material de construcción, su duración es indefinida, por lo tanto no es depreciable.",
+     "-",
+     "-"
+    ],
+    [
+     "b) Con aplicación de concreto o de otro material de construcción, se trata de obras generalmente anexas, o simplemente tramos del canal mismo y su duración según el caso será:",
+     "",
+     ""
+    ],
+    [
+     "De concreto",
+     "70",
+     "23"
+    ],
+    [
+     "De concreto",
+     "70",
+     "23"
+    ],
+    [
+     "De fierro pesado",
+     "45",
+     "15"
+    ],
+    [
+     "De fierro pesado",
+     "45",
+     "15"
+    ],
+    [
+     "De madera",
+     "25",
+     "8"
+    ],
+    [
+     "De madera",
+     "25",
+     "8"
+    ],
+    [
+     "34) Pozos de riego y de bebida. Se aplica la depreciación únicamente sobre los refuerzos, instalaciones y maquinarias destinadas al mayor aprovechamiento del pozo en la siguiente forma:",
+     "",
+     ""
+    ],
+    [
+     "a) Cemento u hormigón armado.",
+     "20",
+     "6"
+    ],
+    [
+     "b) Ladrillo",
+     "15",
+     "5"
+    ],
+    [
+     "c) Bomba elevadora de agua.",
+     "20",
+     "6"
+    ],
+    [
+     "35) Puentes. Según el material empleado en la construcción:",
+     "",
+     ""
+    ],
+    [
+     "a) De cemento.",
+     "75",
+     "25"
+    ],
+    [
+     "b) Metálico",
+     "45",
+     "15"
+    ],
+    [
+     "c) Madera",
+     "30",
+     "10"
+    ],
+    [
+     "H.- OTRAS",
+     "",
+     ""
+    ],
+    [
+     "1) Enseres, artículos de porcelana, loza, vidrio, cuchillería, mantelería, ropa de cama y similares, utilizados en hoteles, moteles y restaurantes.",
+     "3",
+     "1"
+    ],
+    [
+     "2) Redes utilizadas en la pesca.",
+     "3",
+     "1"
+    ],
+    [
+     "3) Sistemas o estructuras físicas para criaderos de especies hidrobiológicas.",
+     "3",
+     "1"
+    ],
+    [
+     "4) Pupitres, sillas, bancos, escritorios, pizarrones, laboratorios de química, gabinetes de física, equipos de gimnasia y atletismo, utilizados en establecimientos educacionales.",
+     "5",
+     "1"
+    ],
+    [
+     "5) Aviones monomotores con cabida hasta seis personas.",
+     "10",
+     "3"
+    ]
+   ]
+  },
+  {
+   "titulo": "Nueva tabla de vida útil de los bienes físicos del activo inmovilizado",
+   "filas": [
+    [
+     "Bien",
+     "Vida útil normal",
+     "Depreciación acelerada"
+    ],
+    [
+     "a) Vehículos eléctricos o híbridos con recarga eléctrica exterior",
+     "3",
+     "1"
+    ],
+    [
+     "b) Otros calificados como cero emisiones por resolución fundada del Ministerio de Energía",
+     "3",
+     "1"
+    ]
+   ]
+  }
+ ],
+ "documentos": [
+  {
+   "nombre": "Resolución N° 56, de 9-06-2021",
+   "url": "https://www.sii.cl/normativa_legislacion/resoluciones/2021/reso56.pdf"
+  }
+ ]
+}

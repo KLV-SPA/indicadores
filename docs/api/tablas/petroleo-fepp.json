@@ -1,0 +1,579 @@
+{
+ "slug": "petroleo-fepp",
+ "nombre": "Fondo de Estabilización de Precios del Petróleo",
+ "fuente": "https://www.sii.cl/valores_y_fechas/petroleo/petro2026.htm",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: 24/Septiembre/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "360,25"
+    ]
+   ]
+  },
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: 17/Septiembre/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ]
+   ]
+  },
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: 10/Septiembre/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "239,36"
+    ]
+   ]
+  },
+  {
+   "titulo": "Septiembre",
+   "filas": [
+    [
+     "Vigencia desde: 3/Septiembre/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "137,77"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: 27/Agosto/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "219,15"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: 20/Agosto/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "161,57"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: 13/Agosto/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "61,00"
+    ]
+   ]
+  },
+  {
+   "titulo": "Agosto",
+   "filas": [
+    [
+     "Vigencia desde: 6/Agosto/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "152,32"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: 30/Julio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "119,05"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: 23/Julio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: 16/Julio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: 9/Julio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Julio",
+   "filas": [
+    [
+     "Vigencia desde: 2/Julio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: 25/Junio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: 18/Junio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "11,75"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: 11/Junio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "17,98"
+    ]
+   ]
+  },
+  {
+   "titulo": "Junio",
+   "filas": [
+    [
+     "Vigencia desde: 4/Junio/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "1,15"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: 28/Mayo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "92,13"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: 21/Mayo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "113,37"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: 14/Mayo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "121,40"
+    ]
+   ]
+  },
+  {
+   "titulo": "Mayo",
+   "filas": [
+    [
+     "Vigencia desde: 7/Mayo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "201,13"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: 30/Abril/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "192,12"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: 23/Abril/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "214,46"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: 16/Abril/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "317,79"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: 9/Abril/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "369,00"
+    ]
+   ]
+  },
+  {
+   "titulo": "Abril",
+   "filas": [
+    [
+     "Vigencia desde: 2/Abril/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "301,60"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: 26/Marzo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "112,81"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: 19/Marzo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "136,68"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: 12/Marzo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "78,45"
+    ]
+   ]
+  },
+  {
+   "titulo": "Marzo",
+   "filas": [
+    [
+     "Vigencia desde: 5/Marzo/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: 26/Febrero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: 19/Febrero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: 12/Febrero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Febrero",
+   "filas": [
+    [
+     "Vigencia desde: 5/Febrero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: 29/Enero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: 22/Enero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: 15/Enero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: 8/Enero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  },
+  {
+   "titulo": "Enero",
+   "filas": [
+    [
+     "Vigencia desde: 1/Enero/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "0"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}

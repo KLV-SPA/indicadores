@@ -1,0 +1,5403 @@
+{
+ "slug": "precios-otros-tabaco",
+ "nombre": "Base de precios de venta final de otros productos de tabaco",
+ "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco.html",
+ "actualizado": "2026-09-29T17:33:57-03:00",
+ "tablas": [
+  {
+   "titulo": "Base de Precios de Venta Final de Puros, puritos y tiparillos",
+   "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco_t1.csv",
+   "filas": [
+    [
+     "Marca",
+     "Variante",
+     "Unidad",
+     "Formato",
+     "Cantidad",
+     "Unidad",
+     "Precio Venta"
+    ],
+    [
+     "AGANORSA LEAF NICARAGUA",
+     "JFR COROJO",
+     "Caja",
+     "Puros",
+     "21",
+     "Unidades",
+     "15.000"
+    ],
+    [
+     "AGANORSA LEAF NICARAGUA",
+     "LUNATIC MADURO",
+     "Caja",
+     "Habanos",
+     "28",
+     "Unidades",
+     "15.000"
+    ],
+    [
+     "AGANORSA LEAF NICARAGUA",
+     "SUPREME LEAF",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "16.000"
+    ],
+    [
+     "AGANORSA LEAF NICARAGUA",
+     "VALIDACIÓN CT",
+     "Caja",
+     "Puros",
+     "15",
+     "Unidades",
+     "16.000"
+    ],
+    [
+     "ATACAMA",
+     "MINIPURITOS",
+     "Cajetilla dura",
+     "Mini Puritos",
+     "10",
+     "Unidades",
+     "1.000"
+    ],
+    [
+     "BARLOVENTO",
+     "BREVAS ESPECIALES 25",
+     "Cajas Plásticas",
+     "Puros",
+     "25",
+     "Unidades",
+     "52.250"
+    ],
+    [
+     "BARLOVENTO",
+     "PUROS BARLOVENTO TUBULAR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "134.250"
+    ],
+    [
+     "BOLÍVAR",
+     "BELICOSO FINO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.500"
+    ],
+    [
+     "BOLÍVAR",
+     "BELICOSOS FINO RESERVA",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "12.000"
+    ],
+    [
+     "BOLÍVAR",
+     "LIBERTADOR",
+     "",
+     "Puros",
+     "",
+     "Unidades",
+     "10.600"
+    ],
+    [
+     "BOLÍVAR",
+     "MUNDIALES",
+     "Caja",
+     "Puros",
+     "115",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "BOLÍVAR",
+     "NEW GOLD MEDAL",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "13.200"
+    ],
+    [
+     "BOLÍVAR",
+     "PETIT CORONA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.600"
+    ],
+    [
+     "BOLÍVAR",
+     "REGENTES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "13.500"
+    ],
+    [
+     "BOLÍVAR",
+     "ROYAL CORONA",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.600"
+    ],
+    [
+     "BOLÍVAR",
+     "ROYAL CORONA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.600"
+    ],
+    [
+     "BOLÍVAR",
+     "SOBERANO",
+     "Caja",
+     "Puros",
+     "30",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "BREVAS",
+     "BREVAS",
+     "Bolsa",
+     "Puros",
+     "50",
+     "Unidades",
+     "77.500"
+    ],
+    [
+     "CAFÉ CREME",
+     "BLUE",
+     "Caja de Cartón",
+     "Puritos",
+     "10",
+     "Unidades",
+     "6.650"
+    ],
+    [
+     "CAFÉ CREME",
+     "BLUE",
+     "Caja Metálica",
+     "Puritos",
+     "20",
+     "Unidades",
+     "12.800"
+    ],
+    [
+     "CAFÉ CREME",
+     "CAFÉ CREME",
+     "Caja Metálica",
+     "Puritos",
+     "20",
+     "Unidades",
+     "12.800"
+    ],
+    [
+     "CAFÉ CREME",
+     "CAFÉ CREME RED",
+     "Caja Metálica",
+     "Puritos",
+     "20",
+     "Unidades",
+     "12.800"
+    ],
+    [
+     "CAFÉ CREME",
+     "ORIGINAL",
+     "Caja de Cartón",
+     "Puritos",
+     "10",
+     "Unidades",
+     "6.650"
+    ],
+    [
+     "CAFÉ CREME",
+     "RED",
+     "Caja de Cartón",
+     "Puritos",
+     "10",
+     "Unidades",
+     "6.650"
+    ],
+    [
+     "COHIBA",
+     "55 ANIVERSARIO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "80.000"
+    ],
+    [
+     "COHIBA",
+     "ÁMBAR",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "COHIBA",
+     "ÁMBAR",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "32.200"
+    ],
+    [
+     "COHIBA",
+     "BHK 52",
+     "Caja",
+     "Puros",
+     "s/i",
+     "Unidades",
+     "58.000"
+    ],
+    [
+     "COHIBA",
+     "BHK 52",
+     "",
+     "Puros",
+     "",
+     "Unidades",
+     "17.000"
+    ],
+    [
+     "COHIBA",
+     "BHK 54",
+     "",
+     "Puros",
+     "",
+     "Unidades",
+     "82.500"
+    ],
+    [
+     "COHIBA",
+     "BHK 56",
+     "",
+     "Puros",
+     "s/i",
+     "Unidades",
+     "20.000"
+    ],
+    [
+     "COHIBA",
+     "BHK 56",
+     "",
+     "Puros",
+     "",
+     "Unidades",
+     "90.000"
+    ],
+    [
+     "COHIBA",
+     "CLUB",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "650"
+    ],
+    [
+     "COHIBA",
+     "CLUB 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "650"
+    ],
+    [
+     "COHIBA",
+     "CLUB WHITE 10",
+     "Pack",
+     "Puros",
+     "10",
+     "Unidades",
+     "650"
+    ],
+    [
+     "COHIBA",
+     "CLUB WHITE 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "650"
+    ],
+    [
+     "COHIBA",
+     "CORONAS ESPECIALES",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "COHIBA",
+     "CORONAS ESPECIALES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "COHIBA",
+     "ESPLENDIDOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "15.000"
+    ],
+    [
+     "COHIBA",
+     "ESPLÉNDIDOS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "15.000"
+    ],
+    [
+     "COHIBA",
+     "ESPLENDIDOS GRAN RESERVA COSECHA 2019",
+     "Caja",
+     "Puros",
+     "15",
+     "Unidades",
+     "118.000"
+    ],
+    [
+     "COHIBA",
+     "IDEALES",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "COHIBA",
+     "MADURO 5 GENIOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "23.800"
+    ],
+    [
+     "COHIBA",
+     "MADURO 5 GENIOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "35.100"
+    ],
+    [
+     "COHIBA",
+     "MADURO 5 MÁGICOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "COHIBA",
+     "MADURO 5 MÁGICOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "COHIBA",
+     "MADURO 5 SECRETOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.000"
+    ],
+    [
+     "COHIBA",
+     "MADURO 5 SECRETOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.000"
+    ],
+    [
+     "COHIBA",
+     "MAJESTUOSOS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "20.000"
+    ],
+    [
+     "COHIBA",
+     "MEDIO SIGLO",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "16.800"
+    ],
+    [
+     "COHIBA",
+     "MEDIO SIGLO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "16.800"
+    ],
+    [
+     "COHIBA",
+     "MINI 10",
+     "Pack",
+     "Puros",
+     "10",
+     "Unidades",
+     "550"
+    ],
+    [
+     "COHIBA",
+     "MINI 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "550"
+    ],
+    [
+     "COHIBA",
+     "MINI PACK DE HABANOS S/N",
+     "Pack",
+     "Puros",
+     "",
+     "Unidades",
+     "390"
+    ],
+    [
+     "COHIBA",
+     "NOVEDOSOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "8.900"
+    ],
+    [
+     "COHIBA",
+     "PANATELAS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "COHIBA",
+     "PIRÁMIDE EXTRA",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "17.000"
+    ],
+    [
+     "COHIBA",
+     "ROBUSTOS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "18.500"
+    ],
+    [
+     "COHIBA",
+     "ROBUSTOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "23.200"
+    ],
+    [
+     "COHIBA",
+     "SHORT",
+     "Petaca",
+     "Puros",
+     "10",
+     "Unidades",
+     "850"
+    ],
+    [
+     "COHIBA",
+     "SIGLO DE ORO",
+     "Caja",
+     "Puros",
+     "18",
+     "Unidades",
+     "40.500"
+    ],
+    [
+     "COHIBA",
+     "SIGLO I",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.300"
+    ],
+    [
+     "COHIBA",
+     "SIGLO I",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.300"
+    ],
+    [
+     "COHIBA",
+     "SIGLO II",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "13.300"
+    ],
+    [
+     "COHIBA",
+     "SIGLO II",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "13.300"
+    ],
+    [
+     "COHIBA",
+     "SIGLO II 30 ANIVERSARIO",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "8.900"
+    ],
+    [
+     "COHIBA",
+     "SIGLO III",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.000"
+    ],
+    [
+     "COHIBA",
+     "SIGLO III",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.000"
+    ],
+    [
+     "COHIBA",
+     "SIGLO IV",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "11.000"
+    ],
+    [
+     "COHIBA",
+     "SIGLO L",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "10.300"
+    ],
+    [
+     "COHIBA",
+     "SIGLO V",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "13.000"
+    ],
+    [
+     "COHIBA",
+     "SIGLO VI",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "16.900"
+    ],
+    [
+     "COHIBA",
+     "SIGLO VI",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "33.200"
+    ],
+    [
+     "COHIBA",
+     "SIGLO VI",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "16.900"
+    ],
+    [
+     "COHIBA",
+     "TALISMÁN",
+     "Caja",
+     "Puros",
+     "40",
+     "Unidades",
+     "17.000"
+    ],
+    [
+     "COHIBA",
+     "VISTOSOS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "62.000"
+    ],
+    [
+     "COHIBA",
+     "WIDE SHORT",
+     "Caja",
+     "Puros",
+     "6",
+     "Unidades",
+     "1.700"
+    ],
+    [
+     "CUABA",
+     "DIVINOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.800"
+    ],
+    [
+     "CUABA",
+     "GENEROSOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.800"
+    ],
+    [
+     "DIPLOMÁTICOS",
+     "CANCILLERES",
+     "Caja",
+     "Habanos",
+     "25",
+     "Unidades",
+     "6.100"
+    ],
+    [
+     "DIPLOMÁTICOS",
+     "Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "DOBLE TRES",
+     "BREVAS DOBLE TRES M/50",
+     "Celofán",
+     "Puros",
+     "50",
+     "Unidades",
+     "81.000"
+    ],
+    [
+     "EL REY DEL MUNDO",
+     "CHOIX SUPREME",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.200"
+    ],
+    [
+     "EL REY DEL MUNDO",
+     "ROYAL SERIES",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "17.500"
+    ],
+    [
+     "FLOR DE CANO",
+     "ELEGIDOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "FLOR DE CANO",
+     "PETIT CORONAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "FONSECA",
+     "COSACOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "FONSECA",
+     "DELICIAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.200"
+    ],
+    [
+     "FONSECA",
+     "KDT CADETES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.500"
+    ],
+    [
+     "FONSECA",
+     "N° 1",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "GUANTANAMERA",
+     "COMPAY",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "590"
+    ],
+    [
+     "GUANTANAMERA",
+     "CRISTALES",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "1.000"
+    ],
+    [
+     "GUANTANAMERA",
+     "CRISTALES",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "1.000"
+    ],
+    [
+     "GUANTANAMERA",
+     "CRISTALES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "1.000"
+    ],
+    [
+     "GUANTANAMERA",
+     "MINUTOS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "750"
+    ],
+    [
+     "GUANTANAMERA",
+     "MINUTOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "750"
+    ],
+    [
+     "GUANTANAMERA",
+     "PURITOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "390"
+    ],
+    [
+     "H. UPMANN",
+     "CONNOSSIEUR A",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.800"
+    ],
+    [
+     "H. UPMANN",
+     "CONNOSSIEUR B",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "11.000"
+    ],
+    [
+     "H. UPMANN",
+     "CORONAS JUNIOR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "1.900"
+    ],
+    [
+     "H. UPMANN",
+     "CORONAS MAJOR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.500"
+    ],
+    [
+     "H. UPMANN",
+     "CORONAS MINOR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.500"
+    ],
+    [
+     "H. UPMANN",
+     "HALF CORONA",
+     "Lata",
+     "Puros",
+     "5",
+     "Unidades",
+     "4.400"
+    ],
+    [
+     "H. UPMANN",
+     "HALF CORONA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.400"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 46",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "8.500"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 46",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "8.500"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 48",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.300"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 50",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "7.300"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 50",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 52",
+     "Caja",
+     "Puros",
+     "18",
+     "Unidades",
+     "7.200"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 54",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "9.500"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM 54",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.500"
+    ],
+    [
+     "H. UPMANN",
+     "MAGNUM FINITE",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "19.400"
+    ],
+    [
+     "H. UPMANN",
+     "Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "8.300"
+    ],
+    [
+     "H. UPMANN",
+     "PROPIOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "H. UPMANN",
+     "REGALIAS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "H. UPMANN",
+     "ROBUSTOS AÑEJADOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "H. UPMANN",
+     "ROYAL ROBUSTO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.900"
+    ],
+    [
+     "H. UPMANN",
+     "SUPER MAGNUM",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "8.900"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "CORONATIONS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "CORONATIONS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "DESTINOS",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "20.000"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "DOBLE CORONA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "11.000"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "ELEGANTES CDH",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "8.000"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE DELUXE",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "8.900"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE ESPECIAL",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE ESPECIAL",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 1",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.200"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 2",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "8.190"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "8.600"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 2 T",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "8.250"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 3",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "9.800"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 3",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.800"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "EPICURE Nº 3",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.500"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "GRAN RESERVA DOBLE CORONA",
+     "Caja",
+     "Puros",
+     "15",
+     "Unidades",
+     "9.000"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "GRAND EPICURE HABANOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "10.000"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "LE HOYO DE SAN JUAN",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "LE HOYO DE SAN JUAN",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "LE HOYO DE SAN JUAN",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "LE HOYO DU DEPUTE",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "LE HOYO SAN LUIS",
+     "Caja",
+     "Habanos",
+     "25",
+     "Unidades",
+     "12.500"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "MONTERREYES #4",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "19.300"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "PALMAS EXTRA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.500"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "PETIT ROBUSTO",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "5.600"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "PETIT ROBUSTO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.200"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "PRIMAVERAS",
+     "Caja",
+     "Puros",
+     "18",
+     "Unidades",
+     "21.000"
+    ],
+    [
+     "HOYO DE MONTERREY",
+     "RÍOSECO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.700"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "BREVAS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "1.600"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "BREVAS",
+     "Pack",
+     "Puros",
+     "12",
+     "Unidades",
+     "1.600"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "BREVAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "1.600"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "CAZADORES",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "1.300"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "CONSERVA",
+     "Pack",
+     "Puros",
+     "12",
+     "Unidades",
+     "1.700"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "CONSERVAS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "1.250"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "CREMAS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "790"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "NACIONALES",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "890"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "PETIT CABALLERO",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "1.750"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "PETIT CAZADORES",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "1.200"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "PETIT CAZADORES",
+     "Pack",
+     "Puros",
+     "12",
+     "Unidades",
+     "1.200"
+    ],
+    [
+     "JOSE L. PIEDRA",
+     "PETIT CETRO HABANOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "690"
+    ],
+    [
+     "JUAN LOPEZ",
+     "GRAN PATAGÓN",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "8.500"
+    ],
+    [
+     "JUAN LOPEZ",
+     "SELECCIÓN ESPECIAL",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.900"
+    ],
+    [
+     "JUAN LOPEZ",
+     "SELECCIÓN Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "LA GLORIA CUBANA",
+     "GLORIAS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "LA GLORIA CUBANA",
+     "INMENSOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "LA GLORIA CUBANA",
+     "MEDAILLE D'OR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "LA GLORIA CUBANA",
+     "TURQUINOS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.400"
+    ],
+    [
+     "MEHARIS",
+     "JAVA",
+     "Caja",
+     "Puritos",
+     "20",
+     "Unidades",
+     "11.100"
+    ],
+    [
+     "MEHARIS",
+     "RED ORIENT",
+     "Caja",
+     "Puritos",
+     "20",
+     "Unidades",
+     "10.700"
+    ],
+    [
+     "MONTECRISTO",
+     "A",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "9.000"
+    ],
+    [
+     "MONTECRISTO",
+     "ALMIRANTES",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "MONTECRISTO",
+     "BRILLANTES",
+     "Caja",
+     "Puros",
+     "18",
+     "Unidades",
+     "34.500"
+    ],
+    [
+     "MONTECRISTO",
+     "CLUB",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "550"
+    ],
+    [
+     "MONTECRISTO",
+     "CLUB 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "550"
+    ],
+    [
+     "MONTECRISTO",
+     "DOUBLE EDMUNDO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "12.500"
+    ],
+    [
+     "MONTECRISTO",
+     "DOUBLE EDMUNDO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "12.500"
+    ],
+    [
+     "MONTECRISTO",
+     "1935 DUMAS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "16.900"
+    ],
+    [
+     "MONTECRISTO",
+     "EAGLE",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "MONTECRISTO",
+     "EAGLE",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "MONTECRISTO",
+     "EDMUNDO",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "MONTECRISTO",
+     "EDMUNDO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "11.200"
+    ],
+    [
+     "MONTECRISTO",
+     "EDMUNDO RESERVA",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "51.000"
+    ],
+    [
+     "MONTECRISTO",
+     "EDMUNDO TUBOS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "MONTECRISTO",
+     "ELBA EDICIÓN LIMITADA 2025",
+     "Caja",
+     "Habanos",
+     "20",
+     "Unidades",
+     "39.000"
+    ],
+    [
+     "MONTECRISTO",
+     "ESPECIALES Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "MONTECRISTO",
+     "HEREDEROS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "6.800"
+    ],
+    [
+     "MONTECRISTO",
+     "LEYENDA",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "MONTECRISTO",
+     "1935 MALTÉS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "20.800"
+    ],
+    [
+     "MONTECRISTO",
+     "MINI",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "350"
+    ],
+    [
+     "MONTECRISTO",
+     "MINI 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "450"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 2",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.700"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "11.500"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 3",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 4",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "7.200"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 4",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.200"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 4",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.200"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 5",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "MONTECRISTO",
+     "N° 5",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN EAGLE",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN EAGLE",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN JUNIOR",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN JUNIOR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN MASTER",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN MASTER",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "MONTECRISTO",
+     "OPEN REGATA",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "3.250"
+    ],
+    [
+     "MONTECRISTO",
+     "PETIT EDMUNDO",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.200"
+    ],
+    [
+     "MONTECRISTO",
+     "PETIT EDMUNDO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.600"
+    ],
+    [
+     "MONTECRISTO",
+     "PETIT EDMUNDO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.600"
+    ],
+    [
+     "MONTECRISTO",
+     "PETIT Nº 2",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.300"
+    ],
+    [
+     "MONTECRISTO",
+     "PETIT Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.300"
+    ],
+    [
+     "MONTECRISTO",
+     "PETIT TUBOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "MONTECRISTO",
+     "PURITOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "800"
+    ],
+    [
+     "MONTECRISTO",
+     "PURITOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "800"
+    ],
+    [
+     "MONTECRISTO",
+     "SHORT",
+     "Petaca",
+     "Puros",
+     "10",
+     "Unidades",
+     "700"
+    ],
+    [
+     "MONTECRISTO",
+     "SUPREMO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.900"
+    ],
+    [
+     "MONTECRISTO",
+     "TUBOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "MONTECRISTO",
+     "WIDE EDMUNDO",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.800"
+    ],
+    [
+     "MONTECRISTO",
+     "WIDE EDMUNDO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "6.800"
+    ],
+    [
+     "MONTECRISTO",
+     "WIDE EDMUNDO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "12.000"
+    ],
+    [
+     "OPERA",
+     "FAUSTO",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "OPERA",
+     "OTELO",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "8.400"
+    ],
+    [
+     "OPERA",
+     "RIGOLETO",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "OPERA",
+     "SIGARO NAPOLI",
+     "Paquete",
+     "Mini Puritos",
+     "10",
+     "Unidades",
+     "1.800"
+    ],
+    [
+     "OPERA",
+     "TRAVIATA",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "PANTER",
+     "BLUE",
+     "Caja",
+     "Puritos",
+     "20",
+     "Unidades",
+     "11.100"
+    ],
+    [
+     "PANTER",
+     "RED",
+     "Caja",
+     "Puritos",
+     "20",
+     "Unidades",
+     "12.700"
+    ],
+    [
+     "PANTER",
+     "RED FILTRO",
+     "Caja",
+     "Puritos",
+     "20",
+     "Unidades",
+     "13.400"
+    ],
+    [
+     "PANTER",
+     "SMALL",
+     "Caja",
+     "Puritos",
+     "20",
+     "Unidades",
+     "10.300"
+    ],
+    [
+     "PARTAGAS",
+     "898",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "PARTAGAS",
+     "898",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "PARTAGAS",
+     "ALIADOS CDH",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "18.000"
+    ],
+    [
+     "PARTAGAS",
+     "ARISTOCRAT",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.700"
+    ],
+    [
+     "PARTAGAS",
+     "CAPITOL",
+     "Petaca",
+     "Puros",
+     "5",
+     "Unidades",
+     "5.300"
+    ],
+    [
+     "PARTAGAS",
+     "CHICOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "650"
+    ],
+    [
+     "PARTAGAS",
+     "CHICOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "650"
+    ],
+    [
+     "PARTAGAS",
+     "CLUB",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "550"
+    ],
+    [
+     "PARTAGAS",
+     "CORONAS JUNIOR",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "3.700"
+    ],
+    [
+     "PARTAGAS",
+     "CORONAS SENIOR",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "PARTAGAS",
+     "CULEBRAS",
+     "Caja",
+     "Puros",
+     "9",
+     "Unidades",
+     "3.100"
+    ],
+    [
+     "PARTAGAS",
+     "DE LUXE",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "PARTAGAS",
+     "DE LUXE",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "PARTAGAS",
+     "DE LUXE",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "PARTAGAS",
+     "EXPERTO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "PARTAGAS",
+     "LEGADO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "PARTAGAS",
+     "LÍNEA MAESTRA MAESTRO",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "72.000"
+    ],
+    [
+     "PARTAGAS",
+     "LÍNEA MAESTRA ORIGEN",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "27.800"
+    ],
+    [
+     "PARTAGAS",
+     "LUSITANIAS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "14.000"
+    ],
+    [
+     "PARTAGAS",
+     "LUSITANIAS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "14.000"
+    ],
+    [
+     "PARTAGAS",
+     "LUSITANIAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "14.000"
+    ],
+    [
+     "PARTAGAS",
+     "LUSITANIAS",
+     "Pack",
+     "",
+     "3",
+     "Unidades",
+     "14.000"
+    ],
+    [
+     "PARTAGAS",
+     "MADUROS #3",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "PARTAGAS",
+     "MILLE FLEURS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "4.000"
+    ],
+    [
+     "PARTAGAS",
+     "MILLE FLEURS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "4.000"
+    ],
+    [
+     "PARTAGAS",
+     "MILLE FLEURS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.000"
+    ],
+    [
+     "PARTAGAS",
+     "MINI",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "650"
+    ],
+    [
+     "PARTAGAS",
+     "MMADURO #2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "PARTAGAS",
+     "PRESIDENTES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "PARTAGAS",
+     "ROYALES",
+     "Caja",
+     "Habanos",
+     "20",
+     "Unidades",
+     "24.000"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 4",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "9.300"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 4",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.300"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 4",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.300"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 5",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "8.300"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 5",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 5",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.800"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 6",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "6.800"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE D Nº 6",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE E #2 GRAN RESERVA",
+     "Caja",
+     "Puros",
+     "15",
+     "Unidades",
+     "49.000"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE E N°2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "11.600"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE E NO.2",
+     "Caja de Madera",
+     "Puros",
+     "5",
+     "Unidades",
+     "11.600"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE P Nº 2",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "9.700"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE P Nº 2",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.700"
+    ],
+    [
+     "PARTAGAS",
+     "SERIE P Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.700"
+    ],
+    [
+     "PARTAGAS",
+     "SUPER PARTAGAS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "PARTAGAS",
+     "SUPER PARTAGAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "PARTAGAS",
+     "TROPICALES",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "89.000"
+    ],
+    [
+     "POR LARRAÑAGA",
+     "GALANES",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.400"
+    ],
+    [
+     "POR LARRAÑAGA",
+     "PETIT CORONAS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "POR LARRAÑAGA",
+     "PICADORES CDH",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.800"
+    ],
+    [
+     "PRÍNCIPE",
+     "CHICO BLOND",
+     "Caja de Cartón",
+     "Puros",
+     "5",
+     "Unidades",
+     "6.900"
+    ],
+    [
+     "PRÍNCIPE",
+     "CHICO BROWN",
+     "Caja de Cartón",
+     "Puros",
+     "5",
+     "Unidades",
+     "8.450"
+    ],
+    [
+     "PRÍNCIPE",
+     "CHICO ORIENTAL",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "8.250"
+    ],
+    [
+     "PRÍNCIPE",
+     "CORONA BLOND",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.500"
+    ],
+    [
+     "PRÍNCIPE",
+     "CORONA BROWN",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.500"
+    ],
+    [
+     "PRÍNCIPE",
+     "CORONA CARIBBEAN",
+     "Caja de Cartón",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.500"
+    ],
+    [
+     "PRÍNCIPE",
+     "CORONA ORIGINAL",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "9.750"
+    ],
+    [
+     "PRÍNCIPE",
+     "CORONA RED",
+     "Caja de Cartón",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.500"
+    ],
+    [
+     "PRÍNCIPE TRIPA LARGA CLARO",
+     "BELICOSO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "207.250"
+    ],
+    [
+     "PRÍNCIPE TRIPA LARGA CLARO",
+     "CHURCHILL",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "187.500"
+    ],
+    [
+     "PUNCH",
+     "48",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.700"
+    ],
+    [
+     "PUNCH",
+     "PALMAS GRANDES",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "4.200"
+    ],
+    [
+     "PUNCH",
+     "PUNCH",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "8.200"
+    ],
+    [
+     "PUNCH",
+     "REGIOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.300"
+    ],
+    [
+     "PUNCH",
+     "SERIE U OR Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "PUNCH",
+     "SHORT DE PUNCH",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.500"
+    ],
+    [
+     "PUNCH",
+     "TRIUNFOS",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "PUROS SEÑORITAS",
+     "",
+     "Paquete",
+     "Puros",
+     "25",
+     "Unidades",
+     "940"
+    ],
+    [
+     "QUAI D ORSAY",
+     "50",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "QUAI D ORSAY",
+     "52",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "3.700"
+    ],
+    [
+     "QUAI D ORSAY",
+     "52",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.700"
+    ],
+    [
+     "QUAI D ORSAY",
+     "54",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "QUAI D ORSAY",
+     "CORONAS CLARO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "QUAI D ORSAY",
+     "Especial D'Orsay",
+     "Caja",
+     "Habanos",
+     "20",
+     "Unidades",
+     "22.200"
+    ],
+    [
+     "QUAI D ORSAY",
+     "IMPERIALES",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "21.800"
+    ],
+    [
+     "QUAI D ORSAY",
+     "N° 50",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "QUAI D ORSAY",
+     "N° 54",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "7.800"
+    ],
+    [
+     "QUAI D ORSAY",
+     "SENADORES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "QUINTERO",
+     "FAVORITOS",
+     "Pack",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.300"
+    ],
+    [
+     "QUINTERO",
+     "PETIT QUINTERO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "1.500"
+    ],
+    [
+     "QUINTEROS",
+     "BREVAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "1.600"
+    ],
+    [
+     "QUINTEROS",
+     "FAVORITOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "2.300"
+    ],
+    [
+     "QUINTEROS",
+     "LONDRES EXTRA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "1.300"
+    ],
+    [
+     "QUINTEROS",
+     "NACIONALES",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "800"
+    ],
+    [
+     "QUINTEROS",
+     "PURITOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "390"
+    ],
+    [
+     "QUINTEROS",
+     "TUBULARES",
+     "Petaca",
+     "Puros",
+     "3",
+     "Unidades",
+     "1.900"
+    ],
+    [
+     "RAFAEL GONZÁLEZ",
+     "PANETELAS EXTRA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.000"
+    ],
+    [
+     "RAFAEL GONZÁLEZ",
+     "PERLAS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "2.700"
+    ],
+    [
+     "RAFAEL GONZÁLEZ",
+     "PERLAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.700"
+    ],
+    [
+     "RAFAEL GONZÁLEZ",
+     "PETIT CORONAS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.700"
+    ],
+    [
+     "RAMON ALLONES",
+     "ABSOLUTOS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "19.700"
+    ],
+    [
+     "RAMON ALLONES",
+     "ALLONES #2",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "RAMON ALLONES",
+     "ALLONES #3",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "8.400"
+    ],
+    [
+     "RAMON ALLONES",
+     "ALLONES EXTRA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "RAMON ALLONES",
+     "EMPERADORES EXTRA",
+     "Caja",
+     "Puros",
+     "50",
+     "Unidades",
+     "6.000"
+    ],
+    [
+     "RAMON ALLONES",
+     "SPECIALY SELECTED",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "7.000"
+    ],
+    [
+     "RAMON ALLONES",
+     "SUPERIORES",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "AMANTES",
+     "Caja",
+     "Habanos",
+     "20",
+     "Unidades",
+     "32.400"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "BELICOSOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CEDRO LUXE Nº 2",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CEDROS DE LUXE CDH",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "8.200"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CHURCHILLS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.100"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CHURCHILLS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.100"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CHURCHILLS AÑEJADOS",
+     "Petaca",
+     "Puros",
+     "3",
+     "Unidades",
+     "10.100"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CHURCHILLS RESERVA 2008",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "9.100"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CLUB 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CLUB KING",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CORONITAS EN CEDRO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.700"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "CUPIDOS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "18.800"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "MILLE FLEURS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "4.000"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "MILLE FLEURS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.000"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "MINI",
+     "Pack",
+     "Puros",
+     "10",
+     "Unidades",
+     "290"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "MINI 20",
+     "Pack",
+     "Puros",
+     "20",
+     "Unidades",
+     "450"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ORO DE DIANAS",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "22.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ORO DE NOBLES",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "6.160"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "PETIT CHURCHILLS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "PETIT CORONA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "PETIT ROYALES",
+     "Caja",
+     "Puros",
+     "",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "PURITOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "520"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "PURITOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "520"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO DE LUXE",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.000"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO N° 2",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "5.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO N° 2",
+     "Caja",
+     "Puros",
+     "s/i",
+     "Unidades",
+     "3.700"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO N° 3",
+     "Caja",
+     "Puros",
+     "s/i",
+     "Unidades",
+     "4.700"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO Nº 1 CAJA DE MADERA",
+     "Caja",
+     "Puros",
+     "",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO Nº 2 CAJA DE MADERA",
+     "Caja",
+     "Puros",
+     "",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "ROMEO Nº 3 CAJA DE MADERA",
+     "Caja",
+     "Puros",
+     "",
+     "Unidades",
+     "3.500"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "SERIE DE ORO HIDALGO",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "19.700"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "SHORT CHURCHILLS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "9.700"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "SHORT CHURCHILLS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "9.700"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "SHORT CHURCHILLS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "9.700"
+    ],
+    [
+     "Romeo y Julieta",
+     "Short churchills reserva",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "39.600"
+    ],
+    [
+     "Romeo y Julieta",
+     "Short churchills reserva",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "39.600"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "SPORTS LARGOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.000"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "TACOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "WIDE CHURCHILLS",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "WIDE CHURCHILLS",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "ROMEO Y JULIETA",
+     "WIDE CHURCHILLS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "SAN CRISTOBAL DE LA HABANA",
+     "1519",
+     "Caja",
+     "Puros",
+     "100",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "SAN CRISTOBAL DE LA HABANA",
+     "20 ANIVERSARIO",
+     "Caja",
+     "Puros",
+     "20",
+     "Unidades",
+     "5.900"
+    ],
+    [
+     "SAN CRISTOBAL DE LA HABANA",
+     "EL MORRO",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.600"
+    ],
+    [
+     "SAN CRISTOBAL DE LA HABANA",
+     "EL PRÍNCIPE",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "SAN CRISTOBAL DE LA HABANA",
+     "LA PUNTA",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "6.500"
+    ],
+    [
+     "SAN CRISTOBAL DE LA HABANA",
+     "PRADO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "6.400"
+    ],
+    [
+     "SANCHO PANZA",
+     "BELICOSOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "3.900"
+    ],
+    [
+     "SANCHO PANZA",
+     "NON PLUS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "2.900"
+    ],
+    [
+     "SELECCIÓN",
+     "PIRÁMIDES DE HABANOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "10.400"
+    ],
+    [
+     "SELECCIÓN",
+     "ROBUSTOS",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "8.300"
+    ],
+    [
+     "SEÑORITAS",
+     "",
+     "Paquete",
+     "Puros",
+     "25",
+     "Unidades",
+     "31.250"
+    ],
+    [
+     "TENNESIE",
+     "VANILLA",
+     "Caja",
+     "Puros",
+     "5",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "TRINIDAD",
+     "CABILDOS",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "36.500"
+    ],
+    [
+     "TRINIDAD",
+     "COLONIALES",
+     "Caja",
+     "Puros",
+     "24",
+     "Unidades",
+     "5.300"
+    ],
+    [
+     "TRINIDAD",
+     "CORCEL",
+     "Caja",
+     "Habanos",
+     "12",
+     "Unidades",
+     "39.500"
+    ],
+    [
+     "TRINIDAD",
+     "ESMERALDA",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "9.500"
+    ],
+    [
+     "TRINIDAD",
+     "FUNDADORES",
+     "Caja",
+     "Puros",
+     "24",
+     "Unidades",
+     "9.000"
+    ],
+    [
+     "TRINIDAD",
+     "LA TROVA CDH",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "20.000"
+    ],
+    [
+     "TRINIDAD",
+     "MEDIA LUNA",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "16.300"
+    ],
+    [
+     "TRINIDAD",
+     "REYES",
+     "Pack",
+     "Puros",
+     "5",
+     "Unidades",
+     "4.200"
+    ],
+    [
+     "TRINIDAD",
+     "ROBUSTO EXTRA",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "22.700"
+    ],
+    [
+     "TRINIDAD",
+     "ROBUSTO EXTRA",
+     "Caja",
+     "Puros",
+     "14",
+     "Unidades",
+     "22.700"
+    ],
+    [
+     "TRINIDAD",
+     "ROBUSTO T",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "9.600"
+    ],
+    [
+     "TRINIDAD",
+     "SHORT",
+     "Petaca",
+     "Puros",
+     "10",
+     "Unidades",
+     "800"
+    ],
+    [
+     "TRINIDAD",
+     "TOPES",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "15.000"
+    ],
+    [
+     "TRINIDAD",
+     "VIGIA",
+     "Caja",
+     "Puros",
+     "12",
+     "Unidades",
+     "11.600"
+    ],
+    [
+     "TRINIDAD",
+     "VILLA EXCLUSIVO LA CASA DEL HABANO",
+     "Caja",
+     "Habanos",
+     "12",
+     "Unidades",
+     "31.200"
+    ],
+    [
+     "VALLES DE CHILE",
+     "ATACAMA",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "3.750"
+    ],
+    [
+     "VALLES DE CHILE",
+     "CABO DE HORNOS",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "3.750"
+    ],
+    [
+     "VALLES DE CHILE",
+     "PATAGONIA",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "3.750"
+    ],
+    [
+     "VALLES DE CHILE",
+     "TORRES DEL PAINE",
+     "Paquete",
+     "Puros",
+     "10",
+     "Unidades",
+     "3.750"
+    ],
+    [
+     "VEGAS ROBAINAS",
+     "DON ALEJANDRO",
+     "Pack",
+     "Puros",
+     "3",
+     "Unidades",
+     "5.000"
+    ],
+    [
+     "VEGAS ROBAINAS",
+     "FAMOSOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.550"
+    ],
+    [
+     "VEGAS ROBAINAS",
+     "ÚNICOS",
+     "Caja",
+     "Puros",
+     "25",
+     "Unidades",
+     "4.500"
+    ],
+    [
+     "VEGUERO",
+     "CENTRO FINO",
+     "Caja",
+     "Puros",
+     "10",
+     "Unidades",
+     "5.200"
+    ],
+    [
+     "VEGUERO",
+     "CENTRO GORDO",
+     "Caja",
+     "Puros",
+     "16",
+     "Unidades",
+     "4.000"
+    ],
+    [
+     "VEGUEROS",
+     "CENTRO FINO",
+     "Pack",
+     "Puros",
+     "4",
+     "Unidades",
+     "5.200"
+    ],
+    [
+     "VEGUEROS",
+     "CENTRO FINO",
+     "Caja",
+     "Puros",
+     "16",
+     "Unidades",
+     "5.200"
+    ],
+    [
+     "VEGUEROS",
+     "ENTRETIEMPOS",
+     "Pack",
+     "Puros",
+     "4",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "VEGUEROS",
+     "ENTRETIEMPOS",
+     "Pack",
+     "Puros",
+     "16",
+     "Unidades",
+     "4.900"
+    ],
+    [
+     "VEGUEROS",
+     "MAÑANITAS",
+     "Pack",
+     "Puros",
+     "4",
+     "Unidades",
+     "3.100"
+    ],
+    [
+     "VEGUEROS",
+     "MAÑANITAS",
+     "Pack",
+     "Puros",
+     "16",
+     "Unidades",
+     "3.100"
+    ]
+   ]
+  },
+  {
+   "titulo": "Base de Precios de Venta Final de Tabaco Picado",
+   "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco_t2.csv",
+   "filas": [
+    [
+     "Marca",
+     "Variante",
+     "Unidad",
+     "Formato",
+     "Cantidad",
+     "Unidad",
+     "Precio Venta"
+    ],
+    [
+     "ADALYA",
+     "LADY KILLER",
+     "Sobre",
+     "Tabaco Picado para pipa de agua",
+     "50",
+     "Gramos",
+     "2.500"
+    ],
+    [
+     "ADALYA",
+     "LADY KILLER",
+     "Frasco",
+     "Tabaco Picado para pipa de agua",
+     "250",
+     "Gramos",
+     "6.500"
+    ],
+    [
+     "ADALYA",
+     "LOVE 66",
+     "Sobre",
+     "Tabaco Picado para pipa de agua",
+     "50",
+     "Gramos",
+     "2.500"
+    ],
+    [
+     "ADALYA",
+     "LOVE 66",
+     "Frasco",
+     "Tabaco Picado para pipa de agua",
+     "250",
+     "Gramos",
+     "6.500"
+    ],
+    [
+     "ADALYA",
+     "TWO APPLES",
+     "Sobre",
+     "Tabaco Picado para pipa de agua",
+     "50",
+     "Gramos",
+     "2.500"
+    ],
+    [
+     "ADALYA",
+     "TWO APPLES",
+     "Frasco",
+     "Tabaco Picado para pipa de agua",
+     "250",
+     "Gramos",
+     "6.500"
+    ],
+    [
+     "BLACK DEVIL",
+     "SMOOTH FLAVOUR",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "BLACK DEVIL",
+     "SPECIAL FLAVOUR",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "BRAD",
+     "ARÁNDANO",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "BERRIES",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "CHERRY",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "CHOCOLATE",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "MANGO",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "MENTA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "NATURAL",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "UVA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRAD",
+     "VAINILLA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "45",
+     "Gramos",
+     "2.490"
+    ],
+    [
+     "BRONX",
+     "CHERRY",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "CHOCOLATE",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "CHOCOMINT",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "GRAPE",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "MINT",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "NATURAL",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "RASPBERRY",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "BRONX",
+     "VAINILLA",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "CAPTAIN BLACK",
+     "BRIGHT VIRGINIA",
+     "Bolsa",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "8.000"
+    ],
+    [
+     "CAPTAIN BLACK",
+     "CHERRY",
+     "Bolsa",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "8.600"
+    ],
+    [
+     "CAPTAIN BLACK",
+     "GOLD",
+     "Bolsa",
+     "Tabaco picado",
+     "42,5",
+     "Gramos",
+     "14.650"
+    ],
+    [
+     "CAPTAIN BLACK",
+     "MENTHOL",
+     "Bolsa",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "8.600"
+    ],
+    [
+     "CAPTAIN BLACK",
+     "VANILLA",
+     "Bolsa",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "8.600"
+    ],
+    [
+     "CAPTAIN BLACK",
+     "VIRGINIA",
+     "Bolsa",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "8.000"
+    ],
+    [
+     "CERRITO",
+     "CAFÉ MOKA",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "CHOCOLATE MENTA",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "FRUTOS ROJOS",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "MANGO MARACUYÁ",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "NATURAL",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "ORIGINAL",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "SANDÍA TROPICAL",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "UVA MIX",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "CERRITO",
+     "VAINILLA CARAMEL",
+     "Sobre",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "DRUM",
+     "BRIGHT BLUE",
+     "Bolsa",
+     "Tabaco para liar",
+     "50",
+     "Gramos",
+     "13.700"
+    ],
+    [
+     "EASTENDERS",
+     "HALFWARE",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "EASTENDERS",
+     "VIRGINIA",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "EASTENDERS",
+     "YELLOW",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "ETERNAL SMOKE",
+     "BLUE LIT",
+     "Sobre",
+     "Tabaco Picado para pipa de agua",
+     "50",
+     "Gramos",
+     "2.500"
+    ],
+    [
+     "ETERNAL SMOKE",
+     "BLUE LIT",
+     "Frasco",
+     "Tabaco Picado para pipa de agua",
+     "250",
+     "Gramos",
+     "6.500"
+    ],
+    [
+     "ETERNAL SMOKE",
+     "CHILED WINE",
+     "Sobre",
+     "Tabaco Picado para pipa de agua",
+     "50",
+     "Gramos",
+     "2.500"
+    ],
+    [
+     "ETERNAL SMOKE",
+     "CHILED WINE",
+     "Frasco",
+     "Tabaco Picado para pipa de agua",
+     "250",
+     "Gramos",
+     "6.500"
+    ],
+    [
+     "ETERNAL SMOKE",
+     "WATERMELON LIT",
+     "Sobre",
+     "Tabaco Picado para pipa de agua",
+     "50",
+     "Gramos",
+     "2.500"
+    ],
+    [
+     "ETERNAL SMOKE",
+     "WATERMELON LIT",
+     "Frasco",
+     "Tabaco Picado para pipa de agua",
+     "250",
+     "Gramos",
+     "6.500"
+    ],
+    [
+     "FLANDRIA",
+     "ECO",
+     "Paquete",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.990"
+    ],
+    [
+     "FLANDRIA",
+     "SAUVAGE",
+     "Paquete",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.990"
+    ],
+    [
+     "FLANDRIA",
+     "SILVER",
+     "Paquete",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.990"
+    ],
+    [
+     "FLANDRIA",
+     "VANILLA",
+     "Paquete",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.990"
+    ],
+    [
+     "FLANDRIA",
+     "VIRGINIA ENGLISH",
+     "Paquete",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.990"
+    ],
+    [
+     "FLANDRIA",
+     "VIRGINIA YELLOW",
+     "Paquete",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.990"
+    ],
+    [
+     "FLANDRIA",
+     "ECO",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "5.000"
+    ],
+    [
+     "FLANDRIA",
+     "SAUVAGE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "5.000"
+    ],
+    [
+     "FLANDRIA",
+     "SILVER",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.700"
+    ],
+    [
+     "FLANDRIA",
+     "VANILLA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.700"
+    ],
+    [
+     "FLANDRIA",
+     "VIRGINIA ENGLISH",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "5.000"
+    ],
+    [
+     "FLANDRIA",
+     "VIRGINIA YELLOW",
+     "Sobre",
+     "Tabaco picado",
+     "50",
+     "Gramos",
+     "5.000"
+    ],
+    [
+     "GOLDEN VIRGINIA",
+     "GOLDEN VIRGINIA",
+     "Bolsa",
+     "Tabaco para liar",
+     "51",
+     "Gramos",
+     "8.000"
+    ],
+    [
+     "GOLDEN VIRGINIA",
+     "",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "10.850"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO CAFÉ A LA CREMA",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO CHERRY",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO CHOCOLATE",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO MANZANA",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO MENTA",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "LION ROLLING CIRCUS",
+     "VIRGINIA TOBACCO NATURAL",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "3.690"
+    ],
+    [
+     "MANITOU",
+     "ORGANIC",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "5.800"
+    ],
+    [
+     "MR. BRAD",
+     "ARÁNDANO",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "BERRIES",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "CARAMELO",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "CHERRY",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "CHOCO MENTA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "CHOCOLATE",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "MANGO",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "MANZANA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "MENTA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "NARANJA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "NATURAL",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "SANDÍA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "VAINILLA",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "MR. BRAD",
+     "VAINILLA CARAMELO",
+     "Bolsa",
+     "Tabaco hilado fino",
+     "20",
+     "Gramos",
+     "2.100"
+    ],
+    [
+     "PEPE",
+     "EASY GREEN",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.900"
+    ],
+    [
+     "PEPE",
+     "RICH GREEN",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.900"
+    ],
+    [
+     "RED FIELD",
+     "AMERICAN BLEND",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "APPLE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "BLACK CURRANT",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.150"
+    ],
+    [
+     "RED FIELD",
+     "CAFÉ",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "CHERRY",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.150"
+    ],
+    [
+     "RED FIELD",
+     "CHOCOLATE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.150"
+    ],
+    [
+     "RED FIELD",
+     "CHOCOMINT",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "DOUBLE VANILLA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "EARL GREY TEA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "FRAMBUESA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "GRAPE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.150"
+    ],
+    [
+     "RED FIELD",
+     "HAZELNUT",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "KRETEK",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "LEMON",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "LICORICE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "MANGO",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "MENTHOL",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.150"
+    ],
+    [
+     "RED FIELD",
+     "NATURAL",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "ORANGE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "PEACH",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "STRAWBERRY",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "RED FIELD",
+     "VANILLA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.150"
+    ],
+    [
+     "ROADHOUSE",
+     "AMERICAN BLEND",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "5.700"
+    ],
+    [
+     "ROADHOUSE",
+     "AMERICAN BLEND",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "6.400"
+    ],
+    [
+     "ROADHOUSE",
+     "CHOCOLATE",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "6.600"
+    ],
+    [
+     "ROADHOUSE",
+     "CHOCOLATE MENTA",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "7.000"
+    ],
+    [
+     "ROADHOUSE",
+     "CHOCOLATE MINT",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "5.900"
+    ],
+    [
+     "ROADHOUSE",
+     "GRAPE",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "5.900"
+    ],
+    [
+     "ROADHOUSE",
+     "GRAPE",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "7.000"
+    ],
+    [
+     "ROADHOUSE",
+     "NATURA SIN ADITIVOS",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "7.000"
+    ],
+    [
+     "ROADHOUSE",
+     "NATURAL",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "5.700"
+    ],
+    [
+     "ROADHOUSE",
+     "VANILLA CREMA",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "5.900"
+    ],
+    [
+     "ROADHOUSE",
+     "VANILLA CREMA",
+     "Envase",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "7.000"
+    ],
+    [
+     "ROADHOUSE",
+     "VIRGINIA",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "5.700"
+    ],
+    [
+     "ROADHOUSE",
+     "VIRGINIA",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "7.000"
+    ],
+    [
+     "ROSS",
+     "ARÁNDANO",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "CAPPUCCINO",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "CARAMELO",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "CEREZA",
+     "Bolsa",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "CHICLE",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "Ross",
+     "CHOCO BERRIES",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "CHOCOLATE",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "FRUTOS DEL BOSQUE",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "MANGOS",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "Ross",
+     "MANZANA ICE",
+     "Bolsa",
+     "Tabaco suelto",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "MARACUYÁ",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "MENTA",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "MENTA BERRIES",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "MENTA CHOCOLATE",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "NATURAL",
+     "Bolsa",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "SANDÍA",
+     "Bolsa",
+     "Tabaco Picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "UVA",
+     "Bolsa",
+     "Tabaco",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "ROSS",
+     "VAINILLA",
+     "Bolsa",
+     "Tabaco picado",
+     "45",
+     "Gramos",
+     "4.500"
+    ],
+    [
+     "SPRINGFIELD",
+     "ARÁNDANO",
+     "Bolsa",
+     "Tabaco picado para liar",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "CARAMELO",
+     "Bolsa",
+     "Tabaco picado para liar",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "CHERRY",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "CHOCOLATE",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "CIGARETTES CUT",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.100"
+    ],
+    [
+     "SPRINGFIELD",
+     "GRAPE",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "MANGO",
+     "Bolsa",
+     "Tabaco picado para liar",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "MINT",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.100"
+    ],
+    [
+     "SPRINGFIELD",
+     "NATURAL",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "VANILLA",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "VIRGINIA BLEND",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "VIRGINIA BLEND",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "3.300"
+    ],
+    [
+     "STANLEY",
+     "APPLE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.290"
+    ],
+    [
+     "STANLEY",
+     "BLACK CURRANT",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.291"
+    ],
+    [
+     "STANLEY",
+     "BLOND",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.292"
+    ],
+    [
+     "STANLEY",
+     "CHERRY",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.293"
+    ],
+    [
+     "STANLEY",
+     "CHOCOLATE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.294"
+    ],
+    [
+     "STANLEY",
+     "COFFEE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.295"
+    ],
+    [
+     "STANLEY",
+     "GRAPE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.296"
+    ],
+    [
+     "STANLEY",
+     "LICORICE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.297"
+    ],
+    [
+     "STANLEY",
+     "MANGO",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.298"
+    ],
+    [
+     "STANLEY",
+     "MINT",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.299"
+    ],
+    [
+     "STANLEY",
+     "NATURAL",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.300"
+    ],
+    [
+     "STANLEY",
+     "ORIGINAL",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.301"
+    ],
+    [
+     "STANLEY",
+     "PEACH",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.302"
+    ],
+    [
+     "STANLEY",
+     "RASPBERRY",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.303"
+    ],
+    [
+     "STANLEY",
+     "STRAWBERRY",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.308"
+    ],
+    [
+     "STANLEY",
+     "VANILLA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.304"
+    ],
+    [
+     "STANLEY",
+     "VANILLA CARAMEL",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.305"
+    ],
+    [
+     "STANLEY",
+     "VIRGINIA",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.307"
+    ],
+    [
+     "STANLEY",
+     "WATERMELON CANTELOUPE",
+     "Sobre",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "4.306"
+    ],
+    [
+     "STINGRAY TOBACCO",
+     "BUBBLE GUM GRAPE",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "1.154"
+    ],
+    [
+     "STINGRAY TOBACCO",
+     "CHOCOLATE",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "1.154"
+    ],
+    [
+     "STINGRAY TOBACCO",
+     "NATURAL",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "1.154"
+    ],
+    [
+     "STINGRAY TOBACCO",
+     "VANILLA",
+     "Sobre",
+     "Tabaco picado",
+     "30",
+     "Gramos",
+     "1.154"
+    ],
+    [
+     "TENNESIE",
+     "AMERICAN BLEND",
+     "Bolsa",
+     "Tabaco Picado",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "CARAMEL",
+     "Bolsa",
+     "Tabaco Picado",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "CHERRY",
+     "Bolsa",
+     "Tabaco Picado",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "CHOCOLATE",
+     "Bolsa",
+     "Tabaco Picado",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "GRAPE",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "MINT",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "NATURAL",
+     "Bolsa",
+     "Tabaco para liar",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "SAILOR'S ENGLISH DELIGHT",
+     "Bolsa",
+     "Tabaco para pipa",
+     "40",
+     "Gramos",
+     "6.250"
+    ],
+    [
+     "TENNESIE",
+     "SAILOR'S PRIDE BLOSSOM GOLD",
+     "Bolsa",
+     "Tabaco para pipa",
+     "40",
+     "Gramos",
+     "6.250"
+    ],
+    [
+     "TENNESIE",
+     "VANILLA",
+     "Caja",
+     "Tabaco Picado",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "TENNESIE",
+     "VIRGINIA",
+     "Bolsa",
+     "Tabaco Picado",
+     "40",
+     "Gramos",
+     "5.690"
+    ],
+    [
+     "VIRGINIA",
+     "SPRING",
+     "Bolsa",
+     "Tabaco para liar",
+     "30",
+     "Gramos",
+     "4.400"
+    ],
+    [
+     "VIRGINIA SPRING",
+     "VANILLA",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "Gramos",
+     "6.400"
+    ]
+   ]
+  }
+ ],
+ "documentos": []
+}
