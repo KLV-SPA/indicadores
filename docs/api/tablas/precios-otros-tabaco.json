@@ -2,7 +2,7 @@
  "slug": "precios-otros-tabaco",
  "nombre": "Base de precios de venta final de otros productos de tabaco",
  "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco.html",
- "actualizado": "2026-09-29T17:33:57-03:00",
+ "actualizado": "2026-10-06T15:23:18-03:00",
  "tablas": [
   {
    "titulo": "Base de Precios de Venta Final de Puros, puritos y tiparillos",
@@ -11,7 +11,7 @@
     [
      "Marca",
      "Variante",
-     "Unidad",
+     "Unidades",
      "Formato",
      "Cantidad",
      "Unidad",
@@ -2423,7 +2423,7 @@
     [
      "PARTAGAS",
      "SERIE E NO.2",
-     "Caja de Madera",
+     "Caja de Madera ",
      "Puros",
      "5",
      "Unidades",
@@ -3692,7 +3692,7 @@
      "Unidad",
      "Formato",
      "Cantidad",
-     "Unidad",
+     "Medida",
      "Precio Venta"
     ],
     [
@@ -3701,7 +3701,7 @@
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
-     "Gramos",
+     "gramos",
      "2.500"
     ],
     [
@@ -3710,43 +3710,43 @@
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
-     "Gramos",
+     "gramos",
      "6.500"
     ],
     [
      "ADALYA",
-     "LOVE 66",
+     "LOVE 66 ",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
-     "Gramos",
+     "gramos",
      "2.500"
     ],
     [
      "ADALYA",
-     "LOVE 66",
+     "LOVE 66 ",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
-     "Gramos",
+     "gramos",
      "6.500"
     ],
     [
      "ADALYA",
-     "TWO APPLES",
+     "TWO APPLES ",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
-     "Gramos",
+     "gramos",
      "2.500"
     ],
     [
      "ADALYA",
-     "TWO APPLES",
+     "TWO APPLES ",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
-     "Gramos",
+     "gramos",
      "6.500"
     ],
     [
@@ -3755,7 +3755,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -3764,7 +3764,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -3773,7 +3773,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3782,7 +3782,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3791,7 +3791,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3800,7 +3800,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3809,7 +3809,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3818,7 +3818,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3827,7 +3827,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3836,7 +3836,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3845,7 +3845,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "45",
-     "Gramos",
+     "gramos",
      "2.490"
     ],
     [
@@ -3854,7 +3854,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3863,7 +3863,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3872,7 +3872,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3881,7 +3881,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3890,7 +3890,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3899,7 +3899,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3908,7 +3908,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3917,7 +3917,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -3926,7 +3926,7 @@
      "Bolsa",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "8.000"
     ],
     [
@@ -3935,7 +3935,7 @@
      "Bolsa",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "8.600"
     ],
     [
@@ -3944,7 +3944,7 @@
      "Bolsa",
      "Tabaco picado",
      "42,5",
-     "Gramos",
+     "gramos",
      "14.650"
     ],
     [
@@ -3953,7 +3953,7 @@
      "Bolsa",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "8.600"
     ],
     [
@@ -3962,7 +3962,7 @@
      "Bolsa",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "8.600"
     ],
     [
@@ -3971,7 +3971,7 @@
      "Bolsa",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "8.000"
     ],
     [
@@ -3980,7 +3980,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -3989,7 +3989,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -3998,7 +3998,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4007,7 +4007,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4016,7 +4016,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4025,7 +4025,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4034,7 +4034,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4043,7 +4043,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4052,7 +4052,7 @@
      "Sobre",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.400"
     ],
     [
@@ -4061,7 +4061,7 @@
      "Bolsa",
      "Tabaco para liar",
      "50",
-     "Gramos",
+     "gramos",
      "13.700"
     ],
     [
@@ -4070,7 +4070,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4079,7 +4079,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4088,7 +4088,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4097,7 +4097,7 @@
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
-     "Gramos",
+     "gramos",
      "2.500"
     ],
     [
@@ -4106,7 +4106,7 @@
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
-     "Gramos",
+     "gramos",
      "6.500"
     ],
     [
@@ -4115,7 +4115,7 @@
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
-     "Gramos",
+     "gramos",
      "2.500"
     ],
     [
@@ -4124,25 +4124,25 @@
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
-     "Gramos",
+     "gramos",
      "6.500"
     ],
     [
      "ETERNAL SMOKE",
-     "WATERMELON LIT",
+     "WATERMELON LIT ",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
-     "Gramos",
+     "gramos",
      "2.500"
     ],
     [
      "ETERNAL SMOKE",
-     "WATERMELON LIT",
+     "WATERMELON LIT ",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
-     "Gramos",
+     "gramos",
      "6.500"
     ],
     [
@@ -4151,7 +4151,7 @@
      "Paquete",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.990"
     ],
     [
@@ -4160,7 +4160,7 @@
      "Paquete",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.990"
     ],
     [
@@ -4169,7 +4169,7 @@
      "Paquete",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.990"
     ],
     [
@@ -4178,7 +4178,7 @@
      "Paquete",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.990"
     ],
     [
@@ -4187,7 +4187,7 @@
      "Paquete",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.990"
     ],
     [
@@ -4196,7 +4196,7 @@
      "Paquete",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.990"
     ],
     [
@@ -4205,7 +4205,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.000"
     ],
     [
@@ -4214,7 +4214,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.000"
     ],
     [
@@ -4223,7 +4223,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.700"
     ],
     [
@@ -4232,7 +4232,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.700"
     ],
     [
@@ -4241,7 +4241,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "5.000"
     ],
     [
@@ -4250,7 +4250,7 @@
      "Sobre",
      "Tabaco picado",
      "50",
-     "Gramos",
+     "gramos",
      "5.000"
     ],
     [
@@ -4259,7 +4259,7 @@
      "Bolsa",
      "Tabaco para liar",
      "51",
-     "Gramos",
+     "gramos",
      "8.000"
     ],
     [
@@ -4268,8 +4268,53 @@
      "Bolsa",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "10.850"
+    ],
+    [
+     "HYO",
+     "BRIGHT ORANGE",
+     "Sobre",
+     "Tabaco para pipa",
+     "15",
+     "gramos",
+     "2.500"
+    ],
+    [
+     "HYO",
+     "CREAM YELLOW",
+     "Sobre",
+     "Tabaco para pipa",
+     "15",
+     "gramos",
+     "2.500"
+    ],
+    [
+     "HYO",
+     "GREEN",
+     "Sobre",
+     "Tabaco para pipa",
+     "15",
+     "gramos",
+     "2.500"
+    ],
+    [
+     "HYO",
+     "RUBY RED",
+     "Sobre",
+     "Tabaco para pipa",
+     "15",
+     "gramos",
+     "2.500"
+    ],
+    [
+     "HYO",
+     "VIRGINIA BLUE",
+     "Sobre",
+     "Tabaco para pipa",
+     "15",
+     "gramos",
+     "2.500"
     ],
     [
      "LION ROLLING CIRCUS",
@@ -4277,7 +4322,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4286,7 +4331,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4295,7 +4340,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4304,7 +4349,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4313,7 +4358,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4322,7 +4367,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4331,7 +4376,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "3.690"
     ],
     [
@@ -4340,7 +4385,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.800"
     ],
     [
@@ -4349,7 +4394,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4358,7 +4403,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4367,7 +4412,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4376,7 +4421,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4385,7 +4430,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4394,7 +4439,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4403,7 +4448,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4412,7 +4457,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4421,7 +4466,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4430,7 +4475,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4439,7 +4484,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4448,7 +4493,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4457,7 +4502,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4466,7 +4511,7 @@
      "Bolsa",
      "Tabaco hilado fino",
      "20",
-     "Gramos",
+     "gramos",
      "2.100"
     ],
     [
@@ -4475,7 +4520,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.900"
     ],
     [
@@ -4484,7 +4529,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.900"
     ],
     [
@@ -4493,7 +4538,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4502,7 +4547,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4511,7 +4556,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.150"
     ],
     [
@@ -4520,7 +4565,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4529,7 +4574,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.150"
     ],
     [
@@ -4538,7 +4583,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.150"
     ],
     [
@@ -4547,7 +4592,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4556,7 +4601,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4565,7 +4610,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4574,7 +4619,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4583,7 +4628,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.150"
     ],
     [
@@ -4592,7 +4637,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4601,7 +4646,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4610,7 +4655,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4619,7 +4664,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4628,7 +4673,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4637,7 +4682,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.150"
     ],
     [
@@ -4646,7 +4691,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4655,7 +4700,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4664,7 +4709,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4673,7 +4718,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -4682,7 +4727,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.150"
     ],
     [
@@ -4691,17 +4736,8 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "5.700"
-    ],
-    [
-     "ROADHOUSE",
-     "AMERICAN BLEND",
-     "Bolsa",
-     "Tabaco picado",
-     "40",
-     "Gramos",
-     "6.400"
     ],
     [
      "ROADHOUSE",
@@ -4709,7 +4745,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "6.600"
     ],
     [
@@ -4718,7 +4754,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "7.000"
     ],
     [
@@ -4727,7 +4763,7 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "5.900"
     ],
     [
@@ -4736,7 +4772,7 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "5.900"
     ],
     [
@@ -4745,7 +4781,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "7.000"
     ],
     [
@@ -4754,7 +4790,7 @@
      "Bolsa",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "7.000"
     ],
     [
@@ -4763,7 +4799,7 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "5.700"
     ],
     [
@@ -4772,7 +4808,7 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "5.900"
     ],
     [
@@ -4781,7 +4817,7 @@
      "Envase",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "7.000"
     ],
     [
@@ -4790,7 +4826,7 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "5.700"
     ],
     [
@@ -4799,7 +4835,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "7.000"
     ],
     [
@@ -4808,7 +4844,7 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4817,7 +4853,7 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4826,16 +4862,16 @@
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
      "ROSS",
-     "CEREZA",
+     "CEREZA ",
      "Bolsa",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4844,16 +4880,16 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
-     "Ross",
+     "ROSS",
      "CHOCO BERRIES",
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4862,7 +4898,7 @@
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4871,7 +4907,7 @@
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4880,16 +4916,16 @@
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
-     "Ross",
+     "ROSS",
      "MANZANA ICE",
      "Bolsa",
      "Tabaco suelto",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4898,7 +4934,7 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4907,7 +4943,7 @@
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4916,7 +4952,7 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4925,7 +4961,7 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4934,7 +4970,7 @@
      "Bolsa",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4943,7 +4979,7 @@
      "Bolsa",
      "Tabaco Picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4952,7 +4988,7 @@
      "Bolsa",
      "Tabaco",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
     ],
     [
@@ -4961,25 +4997,70 @@
      "Bolsa",
      "Tabaco picado",
      "45",
-     "Gramos",
+     "gramos",
      "4.500"
+    ],
+    [
+     "RYTUA",
+     "JATIM TERROIR",
+     "Sobre",
+     "Tabaco para pipa",
+     "30",
+     "gramos",
+     "2.700"
+    ],
+    [
+     "RYTUA",
+     "PIEDRA PINTADA TERROIR",
+     "Sobre",
+     "Tabaco para pipa",
+     "30",
+     "gramos",
+     "2.700"
+    ],
+    [
+     "RYTUA",
+     "RIO PARDO TERROIR",
+     "Sobre",
+     "Tabaco para pipa",
+     "30",
+     "gramos",
+     "2.700"
+    ],
+    [
+     "RYTUA",
+     "VALLE DEL LERMA TERROIR",
+     "Sobre",
+     "Tabaco para pipa",
+     "30",
+     "gramos",
+     "2.700"
+    ],
+    [
+     "RYTUA",
+     "ZAMBEZE TERROIR",
+     "Sobre",
+     "Tabaco para pipa",
+     "30",
+     "gramos",
+     "2.700"
     ],
     [
      "SPRINGFIELD",
      "ARÁNDANO",
      "Bolsa",
-     "Tabaco picado para liar",
+     "Tabaco fino para liar",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
      "SPRINGFIELD",
      "CARAMELO",
      "Bolsa",
-     "Tabaco picado para liar",
+     "Tabaco fino para liar",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -4988,7 +5069,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -4997,7 +5078,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -5006,7 +5087,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.100"
     ],
     [
@@ -5015,16 +5096,16 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
      "SPRINGFIELD",
      "MANGO",
      "Bolsa",
-     "Tabaco picado para liar",
+     "Tabaco fino para liar",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -5033,7 +5114,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.100"
     ],
     [
@@ -5042,7 +5123,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -5051,7 +5132,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -5060,7 +5141,7 @@
      "Paquete",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.200"
     ],
     [
@@ -5069,7 +5150,7 @@
      "Bolsa",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "3.300"
     ],
     [
@@ -5078,7 +5159,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.290"
     ],
     [
@@ -5087,7 +5168,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.291"
     ],
     [
@@ -5096,7 +5177,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.292"
     ],
     [
@@ -5105,7 +5186,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.293"
     ],
     [
@@ -5114,7 +5195,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.294"
     ],
     [
@@ -5123,7 +5204,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.295"
     ],
     [
@@ -5132,7 +5213,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.296"
     ],
     [
@@ -5141,7 +5222,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.297"
     ],
     [
@@ -5150,7 +5231,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.298"
     ],
     [
@@ -5159,7 +5240,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.299"
     ],
     [
@@ -5168,7 +5249,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.300"
     ],
     [
@@ -5177,7 +5258,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.301"
     ],
     [
@@ -5186,7 +5267,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.302"
     ],
     [
@@ -5195,7 +5276,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.303"
     ],
     [
@@ -5204,7 +5285,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.308"
     ],
     [
@@ -5213,7 +5294,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.304"
     ],
     [
@@ -5222,7 +5303,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.305"
     ],
     [
@@ -5231,7 +5312,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.307"
     ],
     [
@@ -5240,7 +5321,7 @@
      "Sobre",
      "Tabaco picado",
      "40",
-     "Gramos",
+     "gramos",
      "4.306"
     ],
     [
@@ -5249,7 +5330,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "1.154"
     ],
     [
@@ -5258,7 +5339,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "1.154"
     ],
     [
@@ -5267,7 +5348,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "1.154"
     ],
     [
@@ -5276,7 +5357,7 @@
      "Sobre",
      "Tabaco picado",
      "30",
-     "Gramos",
+     "gramos",
      "1.154"
     ],
     [
@@ -5285,7 +5366,7 @@
      "Bolsa",
      "Tabaco Picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5294,7 +5375,7 @@
      "Bolsa",
      "Tabaco Picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5303,7 +5384,7 @@
      "Bolsa",
      "Tabaco Picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5312,7 +5393,7 @@
      "Bolsa",
      "Tabaco Picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5321,7 +5402,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5330,7 +5411,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5339,7 +5420,7 @@
      "Bolsa",
      "Tabaco para liar",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5348,7 +5429,7 @@
      "Bolsa",
      "Tabaco para pipa",
      "40",
-     "Gramos",
+     "gramos",
      "6.250"
     ],
     [
@@ -5357,7 +5438,7 @@
      "Bolsa",
      "Tabaco para pipa",
      "40",
-     "Gramos",
+     "gramos",
      "6.250"
     ],
     [
@@ -5366,7 +5447,7 @@
      "Caja",
      "Tabaco Picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5375,7 +5456,7 @@
      "Bolsa",
      "Tabaco Picado",
      "40",
-     "Gramos",
+     "gramos",
      "5.690"
     ],
     [
@@ -5384,17 +5465,8 @@
      "Bolsa",
      "Tabaco para liar",
      "30",
-     "Gramos",
+     "gramos",
      "4.400"
-    ],
-    [
-     "VIRGINIA SPRING",
-     "VANILLA",
-     "Bolsa",
-     "Tabaco picado",
-     "40",
-     "Gramos",
-     "6.400"
     ]
    ]
   }
