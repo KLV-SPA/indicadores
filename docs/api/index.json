@@ -2,7 +2,7 @@
  "nombre": "Indicadores KLV",
  "descripcion": "Valores y fechas del SII como JSON, actualizados a diario.",
  "fuente": "https://www.sii.cl/valores_y_fechas/index_valores_y_fechas.html",
- "actualizado": "2026-10-01T15:25:55-03:00",
+ "actualizado": "2026-10-07T15:57:38-03:00",
  "endpoints": {
   "hoy": "hoy.json",
   "uf": "uf.json",
@@ -129,14 +129,14 @@
    "nombre": "Fondo de Estabilización de Precios del Petróleo",
    "url": "tablas/petroleo-fepp.json",
    "fuente": "https://www.sii.cl/valores_y_fechas/petroleo/petro2026.htm",
-   "tablas": 40
+   "tablas": 41
   },
   {
    "slug": "mepco",
    "nombre": "Impuesto al petróleo (componentes base y variable)",
    "url": "tablas/mepco.json",
    "fuente": "https://www.sii.cl/valores_y_fechas/mepco/mepco2026.htm",
-   "tablas": 40
+   "tablas": 41
   },
   {
    "slug": "limite-ingreso-iepd",
