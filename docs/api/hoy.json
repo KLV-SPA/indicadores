@@ -1,9 +1,9 @@
 {
- "fecha": "2026-10-07",
- "actualizado": "2026-10-07T15:57:38-03:00",
+ "fecha": "2026-10-08",
+ "actualizado": "2026-10-08T15:51:53-03:00",
  "uf": {
-  "fecha": "2026-10-07",
-  "valor": 41114.54
+  "fecha": "2026-10-08",
+  "valor": 41122.74
  },
  "dolar": {
   "fecha": "2026-10-01",
@@ -18,9 +18,9 @@
   "valor": 865812.0
  },
  "ipc": {
-  "mes": "2026-08",
-  "valor": 113.15,
-  "variacion_mensual": 0.6,
+  "mes": "2026-09",
+  "valor": 113.59,
+  "variacion_mensual": 0.4,
   "variacion_12_meses": 4.1
  },
  "fuente": "https://www.sii.cl/valores_y_fechas/index_valores_y_fechas.html"
