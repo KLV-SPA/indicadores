@@ -2,7 +2,7 @@
  "nombre": "Indicadores KLV",
  "descripcion": "Valores y fechas del SII como JSON, actualizados a diario.",
  "fuente": "https://www.sii.cl/valores_y_fechas/index_valores_y_fechas.html",
- "actualizado": "2026-10-07T15:57:38-03:00",
+ "actualizado": "2026-10-10T14:21:05-03:00",
  "endpoints": {
   "hoy": "hoy.json",
   "uf": "uf.json",
@@ -73,14 +73,14 @@
    "nombre": "Impuesto Único de Segunda Categoría (Art. 43 N° 1 LIR)",
    "url": "tablas/impuesto-segunda-categoria.json",
    "fuente": "https://www.sii.cl/valores_y_fechas/impuesto_2da_categoria/impuesto2026.htm",
-   "tablas": 10
+   "tablas": 11
   },
   {
    "slug": "impuesto-segunda-categoria-art52",
    "nombre": "Impuesto Único de Segunda Categoría (Art. 52 bis letra a) LIR)",
    "url": "tablas/impuesto-segunda-categoria-art52.json",
    "fuente": "https://www.sii.cl/valores_y_fechas/impuesto_2da_categoria/impuesto2026_art52.htm",
-   "tablas": 10
+   "tablas": 11
   },
   {
    "slug": "reajuste-declaracion-renta",
