@@ -2,7 +2,7 @@
  "slug": "precios-otros-tabaco",
  "nombre": "Base de precios de venta final de otros productos de tabaco",
  "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco.html",
- "actualizado": "2026-10-06T15:23:18-03:00",
+ "actualizado": "2026-10-16T13:40:35-03:00",
  "tablas": [
   {
    "titulo": "Base de Precios de Venta Final de Puros, puritos y tiparillos",
@@ -4270,6 +4270,15 @@
      "40",
      "gramos",
      "10.850"
+    ],
+    [
+     "HYO",
+     "AMERICAN BLEND",
+     "Sobre",
+     "Tabaco para pipa",
+     "15",
+     "gramos",
+     "2.500"
     ],
     [
      "HYO",
