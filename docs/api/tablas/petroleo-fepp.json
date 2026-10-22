@@ -2,8 +2,23 @@
  "slug": "petroleo-fepp",
  "nombre": "Fondo de Estabilización de Precios del Petróleo",
  "fuente": "https://www.sii.cl/valores_y_fechas/petroleo/petro2026.htm",
- "actualizado": "2026-10-15T14:02:36-03:00",
+ "actualizado": "2026-10-22T14:11:53-03:00",
  "tablas": [
+  {
+   "titulo": "Octubre",
+   "filas": [
+    [
+     "Vigencia desde: 22/Octubre/2026",
+     "US$/m3 Impuesto",
+     "US$/m3 Crédito Fiscal"
+    ],
+    [
+     "Kerosene Doméstico",
+     "0",
+     "399,19"
+    ]
+   ]
+  },
   {
    "titulo": "Octubre",
    "filas": [
