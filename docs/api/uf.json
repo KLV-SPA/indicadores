@@ -2,8 +2,12 @@
  "codigo": "uf",
  "nombre": "Unidad de fomento (UF)",
  "unidad_medida": "Pesos",
- "actualizado": "2026-10-24T12:58:23-03:00",
+ "actualizado": "2026-10-25T13:22:21-03:00",
  "serie": [
+  {
+   "fecha": "2026-10-25",
+   "valor": 41215.77
+  },
   {
    "fecha": "2026-10-24",
    "valor": 41210.47
@@ -123,10 +127,6 @@
   {
    "fecha": "2026-09-25",
    "valor": 41016.28
-  },
-  {
-   "fecha": "2026-09-24",
-   "valor": 41008.1
   }
  ]
 }
