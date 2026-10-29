@@ -2,8 +2,93 @@
  "slug": "mepco",
  "nombre": "Impuesto al petróleo (componentes base y variable)",
  "fuente": "https://www.sii.cl/valores_y_fechas/mepco/mepco2026.htm",
- "actualizado": "2026-10-22T14:11:53-03:00",
+ "actualizado": "2026-10-29T15:29:11-03:00",
  "tablas": [
+  {
+   "titulo": "Octubre",
+   "filas": [
+    [
+     "Vigencia desde: Jueves 29-10-2026",
+     "Vigencia desde: Jueves 29-10-2026",
+     "Componente Base",
+     "Componente Variable",
+     "Impuesto Específico Resultante",
+     ""
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Impuesto",
+     "6,00",
+     "-2,2164",
+     "3,7836",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 93 (*)",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "3,7836",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Impuesto",
+     "6,00",
+     "-3,6508",
+     "2,3492",
+     "UTM/m3"
+    ],
+    [
+     "Gasolina Automotriz 97 (*)",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "2,3492",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Impuesto",
+     "1,50",
+     "-3,8550",
+     "-2,3550",
+     "UTM/m3"
+    ],
+    [
+     "Petróleo Diesel",
+     "Crédito Fiscal",
+     "-",
+     "-",
+     "-2,3550",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Impuesto",
+     "1,40",
+     "0,0003",
+     "1,4003",
+     "UTM/m3"
+    ],
+    [
+     "Gas Licuado de Petróleo de Consumo Vehicular",
+     "Crédito Fiscal",
+     "-",
+     "",
+     "1,4003",
+     "UTM/m3"
+    ],
+    [
+     "Gas Natural Comprimido de Consumo Vehicular",
+     "Impuesto",
+     "1,93",
+     "0,0005",
+     "1,9305",
+     "UTM/1000m3"
+    ]
+   ]
+  },
   {
    "titulo": "Octubre",
    "filas": [
