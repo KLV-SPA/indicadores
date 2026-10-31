@@ -2,7 +2,7 @@
  "slug": "precio-libra-cobre",
  "nombre": "Precio promedio libra de cobre (Art. 7 Ley 21.591)",
  "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/precio_libra_cobre.html",
- "actualizado": "2026-09-29T17:33:57-03:00",
+ "actualizado": "2026-10-31T14:15:17-03:00",
  "tablas": [
   {
    "titulo": "Precio Promedio Libra de Cobre, Art. 7 Ley 21.591",
@@ -72,6 +72,12 @@
      "Abril - Junio",
      "604,6150",
      "-3,78%"
+    ],
+    [
+     "2026",
+     "Julio - Septiembre",
+     "639,7619",
+     "-5,81%"
     ]
    ]
   }
