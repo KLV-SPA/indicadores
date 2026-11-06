@@ -4,8 +4,17 @@
  "unidad_medida": "Pesos (UTM, UTA), puntos y porcentaje (IPC)",
  "anio": 2026,
  "fuente": "https://www.sii.cl/valores_y_fechas/utm/utm2026.htm",
- "actualizado": "2026-10-08T15:51:53-03:00",
+ "actualizado": "2026-11-06T16:25:24-03:00",
  "serie": [
+  {
+   "mes": 12,
+   "utm": 72802.0,
+   "uta": 873624.0,
+   "ipc": null,
+   "ipc_variacion_mensual": null,
+   "ipc_variacion_acumulada": null,
+   "ipc_variacion_12_meses": null
+  },
   {
    "mes": 11,
    "utm": 72440.0,
@@ -19,10 +28,10 @@
    "mes": 10,
    "utm": 72151.0,
    "uta": 865812.0,
-   "ipc": null,
-   "ipc_variacion_mensual": null,
-   "ipc_variacion_acumulada": null,
-   "ipc_variacion_12_meses": null
+   "ipc": 114.13,
+   "ipc_variacion_mensual": 0.5,
+   "ipc_variacion_acumulada": 4.5,
+   "ipc_variacion_12_meses": 4.5
   },
   {
    "mes": 9,
