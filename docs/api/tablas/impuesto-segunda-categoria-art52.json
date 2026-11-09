@@ -2,8 +2,100 @@
  "slug": "impuesto-segunda-categoria-art52",
  "nombre": "Impuesto Único de Segunda Categoría (Art. 52 bis letra a) LIR)",
  "fuente": "https://www.sii.cl/valores_y_fechas/impuesto_2da_categoria/impuesto2026_art52.htm",
- "actualizado": "2026-10-10T14:21:05-03:00",
+ "actualizado": "2026-11-09T19:23:12-03:00",
  "tablas": [
+  {
+   "titulo": "Diciembre 2026",
+   "filas": [
+    [
+     "Monto de Cálculo del Impuesto Único de Segunda Categoría",
+     "Monto de Cálculo del Impuesto Único de Segunda Categoría",
+     "Monto de Cálculo del Impuesto Único de Segunda Categoría",
+     "Monto de Cálculo del Impuesto Único de Segunda Categoría",
+     "Monto de Cálculo del Impuesto Único de Segunda Categoría",
+     "Monto de Cálculo del Impuesto Único de Segunda Categoría"
+    ],
+    [
+     "Período",
+     "Monto de la renta líquida imponible",
+     "Monto de la renta líquida imponible",
+     "Factor",
+     "Cantidad a rebajar Tasa de Impuesto Efectiva, máxima por cada tramo de Renta"
+    ],
+    [
+     "",
+     "Desde",
+     "Hasta",
+     "",
+     "",
+     ""
+    ],
+    [
+     "MENSUAL",
+     "-.-",
+     "$ 982.827,00",
+     "Exento",
+     "-.-",
+     "Exento"
+    ],
+    [
+     "",
+     "$ 982.827,01",
+     "$ 2.184.060,00",
+     "0,04",
+     "$ 39.313,08",
+     "2,20%"
+    ],
+    [
+     "",
+     "$ 2.184.060,01",
+     "$ 3.640.100,00",
+     "0,08",
+     "$ 126.675,48",
+     "4,52%"
+    ],
+    [
+     "",
+     "$ 3.640.100,01",
+     "$ 5.096.140,00",
+     "0,135",
+     "$ 326.880,98",
+     "7,09%"
+    ],
+    [
+     "",
+     "$ 5.096.140,01",
+     "$ 6.552.180,00",
+     "0,23",
+     "$ 811.014,28",
+     "10,62%"
+    ],
+    [
+     "",
+     "$ 6.552.180,01",
+     "$ 8.736.240,00",
+     "0,304",
+     "$ 1.295.875,60",
+     "15,57%"
+    ],
+    [
+     "",
+     "$ 8.736.240,01",
+     "$ 10.920.300,00",
+     "0,35",
+     "$ 1.697.742,64",
+     "19,45%"
+    ],
+    [
+     "",
+     "$ 10.920.300,01",
+     "Y MÁS",
+     "0,4",
+     "$ 2.243.757,64",
+     "MÁS DE 19,45%"
+    ]
+   ]
+  },
   {
    "titulo": "Noviembre 2026",
    "filas": [
