@@ -2,7 +2,7 @@
  "slug": "precios-otros-tabaco",
  "nombre": "Base de precios de venta final de otros productos de tabaco",
  "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco.html",
- "actualizado": "2026-11-04T16:46:46-03:00",
+ "actualizado": "2026-11-10T16:44:59-03:00",
  "tablas": [
   {
    "titulo": "Base de Precios de Venta Final de Puros, puritos y tiparillos",
@@ -1933,7 +1933,7 @@
     ],
     [
      "ADALYA",
-     "LADY KILLER",
+     "Lady Killer",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
@@ -1942,16 +1942,7 @@
     ],
     [
      "ADALYA",
-     "LADY KILLER",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
-     "50",
-     "gramos",
-     "2.500"
-    ],
-    [
-     "ADALYA",
-     "LADY KILLER",
+     "Lady Killer",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
@@ -1960,7 +1951,7 @@
     ],
     [
      "ADALYA",
-     "LOVE 66 ",
+     "Love 66 ",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
@@ -1969,7 +1960,7 @@
     ],
     [
      "ADALYA",
-     "LOVE 66 ",
+     "Love 66 ",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
@@ -1978,7 +1969,7 @@
     ],
     [
      "ADALYA",
-     "TWO APPLES ",
+     "Two Apples ",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
@@ -1987,7 +1978,7 @@
     ],
     [
      "ADALYA",
-     "TWO APPLES ",
+     "Two Apples ",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
@@ -1996,7 +1987,7 @@
     ],
     [
      "BLACK DEVIL",
-     "SMOOTH FLAVOUR",
+     "Smooth Flavour",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2005,7 +1996,7 @@
     ],
     [
      "BLACK DEVIL",
-     "SPECIAL FLAVOUR",
+     "Special Flavour",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2014,7 +2005,7 @@
     ],
     [
      "BRAD",
-     "ARÁNDANO",
+     "Arándano",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2023,7 +2014,7 @@
     ],
     [
      "BRAD",
-     "BERRIES",
+     "Berries",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2032,7 +2023,7 @@
     ],
     [
      "BRAD",
-     "CHERRY",
+     "Cherry",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2041,7 +2032,7 @@
     ],
     [
      "BRAD",
-     "CHOCOLATE",
+     "Chocolate",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2050,7 +2041,7 @@
     ],
     [
      "BRAD",
-     "MANGO",
+     "Mango",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2059,7 +2050,7 @@
     ],
     [
      "BRAD",
-     "MENTA",
+     "Menta",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2068,7 +2059,7 @@
     ],
     [
      "BRAD",
-     "NATURAL",
+     "Natural",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2077,7 +2068,7 @@
     ],
     [
      "BRAD",
-     "UVA",
+     "Uva",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2086,7 +2077,7 @@
     ],
     [
      "BRAD",
-     "VAINILLA",
+     "Vainilla",
      "Bolsa",
      "Tabaco hilado fino",
      "45",
@@ -2095,7 +2086,7 @@
     ],
     [
      "BRONX",
-     " CHERRY",
+     " Cherry",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2104,7 +2095,7 @@
     ],
     [
      "BRONX",
-     " CHOCOLATE",
+     " Chocolate",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2113,7 +2104,7 @@
     ],
     [
      "BRONX",
-     " CHOCOMINT",
+     " Chocomint",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2122,7 +2113,7 @@
     ],
     [
      "BRONX",
-     " GRAPE",
+     " Grape",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2131,7 +2122,7 @@
     ],
     [
      "BRONX",
-     " MINT",
+     " Mint",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2140,7 +2131,7 @@
     ],
     [
      "BRONX",
-     " NATURAL",
+     " Natural",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2149,7 +2140,7 @@
     ],
     [
      "BRONX",
-     " RASPBERRY",
+     " Raspberry",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2158,7 +2149,7 @@
     ],
     [
      "BRONX",
-     " VAINILLA",
+     " Vainilla",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2167,61 +2158,61 @@
     ],
     [
      "CAPTAIN BLACK",
-     "BRIGHT VIRGINIA",
+     "Bright Virginia",
      "Bolsa",
      "Tabaco picado",
      "50",
      "gramos",
-     "8.000"
+     "8.150"
     ],
     [
      "CAPTAIN BLACK",
-     "CHERRY",
+     "Cherry",
      "Bolsa",
      "Tabaco picado",
      "50",
      "gramos",
-     "8.600"
+     "8.750"
     ],
     [
      "CAPTAIN BLACK",
-     "GOLD",
+     "Gold",
      "Bolsa",
      "Tabaco picado",
      "42,5",
      "gramos",
-     "14.650"
+     "14.950"
     ],
     [
      "CAPTAIN BLACK",
-     "MENTHOL",
+     "Menthol",
      "Bolsa",
      "Tabaco picado",
      "50",
      "gramos",
-     "8.600"
+     "8.750"
     ],
     [
      "CAPTAIN BLACK",
-     "VANILLA",
+     "Vanilla",
      "Bolsa",
      "Tabaco picado",
      "50",
      "gramos",
-     "8.600"
+     "8.750"
     ],
     [
      "CAPTAIN BLACK",
-     "VIRGINIA",
+     "Virginia",
      "Bolsa",
      "Tabaco picado",
      "50",
      "gramos",
-     "8.000"
+     "8.150"
     ],
     [
      "CERRITO",
-     "CAFÉ MOKA",
+     "Café Moka",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2230,7 +2221,7 @@
     ],
     [
      "CERRITO",
-     "CHOCOLATE MENTA",
+     "Chocolate Menta",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2239,7 +2230,7 @@
     ],
     [
      "CERRITO",
-     "FRUTOS ROJOS",
+     "Frutos Rojos",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2248,7 +2239,7 @@
     ],
     [
      "CERRITO",
-     "MANGO MARACUYÁ",
+     "Mango Maracuyá",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2257,7 +2248,7 @@
     ],
     [
      "CERRITO",
-     "NATURAL",
+     "Natural",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2266,7 +2257,7 @@
     ],
     [
      "CERRITO",
-     "ORIGINAL",
+     "Original",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2275,7 +2266,7 @@
     ],
     [
      "CERRITO",
-     "SANDÍA TROPICAL",
+     "Sandía Tropical",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2284,7 +2275,7 @@
     ],
     [
      "CERRITO",
-     "UVA MIX",
+     "Uva Mix",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2293,7 +2284,7 @@
     ],
     [
      "CERRITO",
-     "VAINILLA CARAMEL",
+     "Vainilla Caramel",
      "Sobre",
      "Tabaco picado",
      "45",
@@ -2302,16 +2293,16 @@
     ],
     [
      "DRUM",
-     "BRIGHT BLUE",
+     "Bright Blue",
      "Bolsa",
      "Tabaco para liar",
      "50",
      "gramos",
-     "13.700"
+     "15.300"
     ],
     [
      "EASTENDERS",
-     "HALFWARE",
+     "Halfware",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2320,7 +2311,7 @@
     ],
     [
      "EASTENDERS",
-     "VIRGINIA",
+     "Virginia",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2329,7 +2320,7 @@
     ],
     [
      "EASTENDERS",
-     "YELLOW",
+     "Yellow",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2338,7 +2329,7 @@
     ],
     [
      "ETERNAL SMOKE",
-     "BLUE LIT",
+     "Blue Lit",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
@@ -2347,7 +2338,7 @@
     ],
     [
      "ETERNAL SMOKE",
-     "BLUE LIT",
+     "Blue Lit",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
@@ -2356,7 +2347,7 @@
     ],
     [
      "ETERNAL SMOKE",
-     "CHILED WINE",
+     "Chiled Wine",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
@@ -2365,7 +2356,7 @@
     ],
     [
      "ETERNAL SMOKE",
-     "CHILED WINE",
+     "Chiled Wine",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
@@ -2374,7 +2365,7 @@
     ],
     [
      "ETERNAL SMOKE",
-     "WATERMELON LIT ",
+     "Watermelon Lit ",
      "Sobre",
      "Tabaco Picado para pipa de agua",
      "50",
@@ -2383,7 +2374,7 @@
     ],
     [
      "ETERNAL SMOKE",
-     "WATERMELON LIT ",
+     "Watermelon Lit ",
      "Frasco",
      "Tabaco Picado para pipa de agua",
      "250",
@@ -2392,7 +2383,7 @@
     ],
     [
      "FLANDRIA",
-     " ECO",
+     " Eco",
      "Paquete",
      "Tabaco picado",
      "30",
@@ -2401,7 +2392,7 @@
     ],
     [
      "FLANDRIA",
-     " SAUVAGE",
+     " Sauvage",
      "Paquete",
      "Tabaco picado",
      "30",
@@ -2410,7 +2401,7 @@
     ],
     [
      "FLANDRIA",
-     " SILVER",
+     " Silver",
      "Paquete",
      "Tabaco picado",
      "30",
@@ -2419,7 +2410,7 @@
     ],
     [
      "FLANDRIA",
-     " VANILLA",
+     " Vanilla",
      "Paquete",
      "Tabaco picado",
      "30",
@@ -2428,7 +2419,7 @@
     ],
     [
      "FLANDRIA",
-     " VIRGINIA ENGLISH",
+     " Virginia English",
      "Paquete",
      "Tabaco picado",
      "30",
@@ -2437,7 +2428,7 @@
     ],
     [
      "FLANDRIA",
-     " VIRGINIA YELLOW",
+     " Virginia Yellow",
      "Paquete",
      "Tabaco picado",
      "30",
@@ -2446,7 +2437,7 @@
     ],
     [
      "FLANDRIA",
-     "ECO",
+     "Eco",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2455,7 +2446,7 @@
     ],
     [
      "FLANDRIA",
-     "SAUVAGE",
+     "Sauvage",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2464,7 +2455,7 @@
     ],
     [
      "FLANDRIA",
-     "SILVER",
+     "Silver",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2473,7 +2464,7 @@
     ],
     [
      "FLANDRIA",
-     "VANILLA",
+     "Vanilla",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2482,7 +2473,7 @@
     ],
     [
      "FLANDRIA",
-     "VIRGINIA ENGLISH",
+     "Virginia English",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2491,7 +2482,7 @@
     ],
     [
      "FLANDRIA",
-     "VIRGINIA YELLOW",
+     "Virginia Yellow",
      "Sobre",
      "Tabaco picado",
      "50",
@@ -2500,7 +2491,7 @@
     ],
     [
      "GOLDEN VIRGINIA",
-     "GOLDEN VIRGINIA",
+     "Golden Virginia",
      "Bolsa",
      "Tabaco para liar",
      "51",
@@ -2514,11 +2505,11 @@
      "Tabaco picado",
      "40",
      "gramos",
-     "10.850"
+     "11.400"
     ],
     [
      "HYO",
-     "AMERICAN BLEND",
+     "American Blend",
      "Sobre",
      "Tabaco para pipa",
      "15",
@@ -2527,7 +2518,7 @@
     ],
     [
      "HYO",
-     "BRIGHT ORANGE",
+     "Bright Orange",
      "Sobre",
      "Tabaco para pipa",
      "15",
@@ -2536,7 +2527,7 @@
     ],
     [
      "HYO",
-     "CREAM YELLOW",
+     "Cream Yellow",
      "Sobre",
      "Tabaco para pipa",
      "15",
@@ -2545,7 +2536,7 @@
     ],
     [
      "HYO",
-     "GREEN",
+     "Green",
      "Sobre",
      "Tabaco para pipa",
      "15",
@@ -2554,7 +2545,7 @@
     ],
     [
      "HYO",
-     "RUBY RED",
+     "Ruby Red",
      "Sobre",
      "Tabaco para pipa",
      "15",
@@ -2563,7 +2554,7 @@
     ],
     [
      "HYO",
-     "VIRGINIA BLUE",
+     "Virginia Blue",
      "Sobre",
      "Tabaco para pipa",
      "15",
@@ -2572,7 +2563,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO",
+     " Virginia Tobacco",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2581,7 +2572,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO CAFÉ A LA CREMA",
+     " Virginia Tobacco Café a la Crema",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2590,7 +2581,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO CHERRY",
+     " Virginia Tobacco Cherry",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2599,7 +2590,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO CHOCOLATE",
+     " Virginia Tobacco Chocolate",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2608,7 +2599,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO MANZANA",
+     " Virginia Tobacco Manzana",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2617,7 +2608,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO MENTA",
+     " Virginia Tobacco Menta",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2626,7 +2617,7 @@
     ],
     [
      "LION ROLLING CIRCUS",
-     " VIRGINIA TOBACCO NATURAL",
+     " Virginia Tobacco Natural",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -2635,7 +2626,7 @@
     ],
     [
      "MANITOU",
-     "ORGANIC",
+     "Organic",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2644,7 +2635,7 @@
     ],
     [
      "MR. BRAD",
-     "ARÁNDANO",
+     "Arándano",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2653,7 +2644,7 @@
     ],
     [
      "MR. BRAD",
-     "BERRIES",
+     "Berries",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2662,7 +2653,7 @@
     ],
     [
      "MR. BRAD",
-     "CARAMELO",
+     "Caramelo",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2671,7 +2662,7 @@
     ],
     [
      "MR. BRAD",
-     "CHERRY",
+     "Cherry",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2680,7 +2671,7 @@
     ],
     [
      "MR. BRAD",
-     "CHOCO MENTA",
+     "Choco Menta",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2689,7 +2680,7 @@
     ],
     [
      "MR. BRAD",
-     "CHOCOLATE",
+     "Chocolate",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2698,7 +2689,7 @@
     ],
     [
      "MR. BRAD",
-     "MANGO",
+     "Mango",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2707,7 +2698,7 @@
     ],
     [
      "MR. BRAD",
-     "MANZANA",
+     "Manzana",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2716,7 +2707,7 @@
     ],
     [
      "MR. BRAD",
-     "MENTA",
+     "Menta",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2725,7 +2716,7 @@
     ],
     [
      "MR. BRAD",
-     "NARANJA",
+     "Naranja",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2734,7 +2725,7 @@
     ],
     [
      "MR. BRAD",
-     "NATURAL",
+     "Natural",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2743,7 +2734,7 @@
     ],
     [
      "MR. BRAD",
-     "SANDÍA",
+     "Sandía",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2752,7 +2743,7 @@
     ],
     [
      "MR. BRAD",
-     "VAINILLA",
+     "Vainilla",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2761,7 +2752,7 @@
     ],
     [
      "MR. BRAD",
-     "VAINILLA CARAMELO",
+     "Vainilla Caramelo",
      "Bolsa",
      "Tabaco hilado fino",
      "20",
@@ -2770,7 +2761,7 @@
     ],
     [
      "PEPE",
-     "EASY GREEN",
+     "Easy Green",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2779,7 +2770,7 @@
     ],
     [
      "PEPE",
-     "RICH GREEN",
+     "Rich Green",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2788,7 +2779,7 @@
     ],
     [
      "RED FIELD",
-     "AMERICAN BLEND",
+     "American Blend",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2797,7 +2788,7 @@
     ],
     [
      "RED FIELD",
-     "APPLE",
+     "Apple",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2806,7 +2797,7 @@
     ],
     [
      "RED FIELD",
-     "BLACK CURRANT",
+     "Black Currant",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2815,7 +2806,7 @@
     ],
     [
      "RED FIELD",
-     "CAFÉ",
+     "Café",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2824,7 +2815,7 @@
     ],
     [
      "RED FIELD",
-     "CHERRY",
+     "Cherry",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2833,7 +2824,7 @@
     ],
     [
      "RED FIELD",
-     "CHOCOLATE",
+     "Chocolate",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2842,7 +2833,7 @@
     ],
     [
      "RED FIELD",
-     "CHOCOMINT",
+     "Chocomint",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2851,7 +2842,7 @@
     ],
     [
      "RED FIELD",
-     "DOUBLE VANILLA",
+     "Double Vanilla",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2860,7 +2851,7 @@
     ],
     [
      "RED FIELD",
-     "EARL GREY TEA",
+     "Earl Grey Tea",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2869,7 +2860,7 @@
     ],
     [
      "RED FIELD",
-     "FRAMBUESA",
+     "Frambuesa",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2878,7 +2869,7 @@
     ],
     [
      "RED FIELD",
-     "GRAPE",
+     "Grape",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2887,7 +2878,7 @@
     ],
     [
      "RED FIELD",
-     "HAZELNUT",
+     "Hazelnut",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2896,7 +2887,7 @@
     ],
     [
      "RED FIELD",
-     "KRETEK",
+     "Kretek",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2905,7 +2896,7 @@
     ],
     [
      "RED FIELD",
-     "LEMON",
+     "Lemon",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2914,7 +2905,7 @@
     ],
     [
      "RED FIELD",
-     "LICORICE",
+     "Licorice",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2923,7 +2914,7 @@
     ],
     [
      "RED FIELD",
-     "MANGO",
+     "Mango",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2932,7 +2923,7 @@
     ],
     [
      "RED FIELD",
-     "MENTHOL",
+     "Menthol",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2941,7 +2932,7 @@
     ],
     [
      "RED FIELD",
-     "NATURAL",
+     "Natural",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2950,7 +2941,7 @@
     ],
     [
      "RED FIELD",
-     "ORANGE",
+     "Orange",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2959,7 +2950,7 @@
     ],
     [
      "RED FIELD",
-     "PEACH",
+     "Peach",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2968,7 +2959,7 @@
     ],
     [
      "RED FIELD",
-     "STRAWBERRY",
+     "Strawberry",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2977,7 +2968,7 @@
     ],
     [
      "RED FIELD",
-     "VANILLA",
+     "Vanilla",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -2986,7 +2977,7 @@
     ],
     [
      "ROADHOUSE",
-     "AMERICAN BLEND",
+     "American Blend",
      "Bolsa",
      "Tabaco para liar",
      "30",
@@ -2995,25 +2986,25 @@
     ],
     [
      "ROADHOUSE",
-     "CHOCOLATE",
+     "Chocolate",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "6.600"
+     "7.350"
     ],
     [
      "ROADHOUSE",
-     "CHOCOLATE MENTA",
+     "Chocolate Menta",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "7.000"
+     "7.350"
     ],
     [
      "ROADHOUSE",
-     "CHOCOLATE MINT",
+     "Chocolate Mint",
      "Bolsa",
      "Tabaco para liar",
      "30",
@@ -3022,7 +3013,7 @@
     ],
     [
      "ROADHOUSE",
-     "GRAPE",
+     "Grape",
      "Bolsa",
      "Tabaco para liar",
      "30",
@@ -3031,16 +3022,25 @@
     ],
     [
      "ROADHOUSE",
-     "GRAPE",
+     "Grape",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "7.000"
+     "7.350"
     ],
     [
      "ROADHOUSE",
-     "NATURAL",
+     "Natural Sin Aditivos",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "gramos",
+     "7.350"
+    ],
+    [
+     "ROADHOUSE",
+     "Natural",
      "Bolsa",
      "Tabaco para liar",
      "30",
@@ -3049,7 +3049,7 @@
     ],
     [
      "ROADHOUSE",
-     "VANILLA CREMA",
+     "Vanilla Crema",
      "Bolsa",
      "Tabaco para liar",
      "30",
@@ -3058,16 +3058,16 @@
     ],
     [
      "ROADHOUSE",
-     "VANILLA CREMA",
+     "Vanilla Crema",
      "Envase",
      "Tabaco picado",
      "40",
      "gramos",
-     "7.000"
+     "7.350"
     ],
     [
      "ROADHOUSE",
-     "VIRGINIA",
+     "Virginia",
      "Bolsa",
      "Tabaco para liar",
      "30",
@@ -3076,16 +3076,16 @@
     ],
     [
      "ROADHOUSE",
-     "VIRGINIA",
+     "Virginia",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "7.000"
+     "7.350"
     ],
     [
      "ROSS",
-     "ARÁNDANO",
+     "Arándano",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3094,7 +3094,7 @@
     ],
     [
      "ROSS",
-     "CAPPUCCINO",
+     "Cappuccino",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3103,7 +3103,7 @@
     ],
     [
      "ROSS",
-     "CARAMELO",
+     "Caramelo",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3112,7 +3112,7 @@
     ],
     [
      "ROSS",
-     "CEREZA ",
+     "Cereza ",
      "Bolsa",
      "Tabaco picado",
      "45",
@@ -3121,7 +3121,7 @@
     ],
     [
      "ROSS",
-     "CHICLE",
+     "Chicle",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3130,7 +3130,7 @@
     ],
     [
      "ROSS",
-     "CHOCO BERRIES",
+     "Choco Berries",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3139,7 +3139,7 @@
     ],
     [
      "ROSS",
-     "CHOCOLATE",
+     "Chocolate",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3148,7 +3148,7 @@
     ],
     [
      "ROSS",
-     "FRUTOS DEL BOSQUE",
+     "Frutos del Bosque",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3157,7 +3157,7 @@
     ],
     [
      "ROSS",
-     "MANGOS",
+     "Mangos",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3166,7 +3166,7 @@
     ],
     [
      "ROSS",
-     "MANZANA ICE",
+     "Manzana Ice",
      "Bolsa",
      "Tabaco suelto",
      "45",
@@ -3175,7 +3175,7 @@
     ],
     [
      "ROSS",
-     "MARACUYÁ",
+     "Maracuyá",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3184,7 +3184,7 @@
     ],
     [
      "ROSS",
-     "MENTA",
+     "Menta",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3193,7 +3193,7 @@
     ],
     [
      "ROSS",
-     "MENTA BERRIES",
+     "Menta Berries",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3202,7 +3202,7 @@
     ],
     [
      "ROSS",
-     "MENTA CHOCOLATE",
+     "Menta Chocolate",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3211,7 +3211,7 @@
     ],
     [
      "ROSS",
-     "NATURAL",
+     "Natural",
      "Bolsa",
      "Tabaco picado",
      "45",
@@ -3220,7 +3220,7 @@
     ],
     [
      "ROSS",
-     "SANDÍA",
+     "Sandía",
      "Bolsa",
      "Tabaco Picado",
      "45",
@@ -3229,7 +3229,7 @@
     ],
     [
      "ROSS",
-     "UVA",
+     "Uva",
      "Bolsa",
      "Tabaco",
      "45",
@@ -3238,7 +3238,7 @@
     ],
     [
      "ROSS",
-     "VAINILLA",
+     "Vainilla",
      "Bolsa",
      "Tabaco picado",
      "45",
@@ -3247,7 +3247,7 @@
     ],
     [
      "RYTUA",
-     "JATIM TERROIR",
+     "Jatim Terroir",
      "Sobre",
      "Tabaco para pipa",
      "30",
@@ -3255,8 +3255,8 @@
      "2.700"
     ],
     [
-     "RYTUA",
-     "PIEDRA PINTADA TERROIR",
+     "Rytua",
+     "Piedra Pintada Terroir",
      "Sobre",
      "Tabaco para pipa",
      "30",
@@ -3264,8 +3264,8 @@
      "2.700"
     ],
     [
-     "RYTUA",
-     "RIO PARDO TERROIR",
+     "Rytua",
+     "Rio Pardo Terroir",
      "Sobre",
      "Tabaco para pipa",
      "30",
@@ -3273,8 +3273,8 @@
      "2.700"
     ],
     [
-     "RYTUA",
-     "VALLE DEL LERMA TERROIR",
+     "Rytua",
+     "Valle del Lerma Terroir",
      "Sobre",
      "Tabaco para pipa",
      "30",
@@ -3282,8 +3282,8 @@
      "2.700"
     ],
     [
-     "RYTUA",
-     "ZAMBEZE TERROIR",
+     "Rytua",
+     "Zambeze Terroir",
      "Sobre",
      "Tabaco para pipa",
      "30",
@@ -3292,7 +3292,7 @@
     ],
     [
      "SPRINGFIELD",
-     "ARÁNDANO",
+     "Arándano",
      "Bolsa",
      "Tabaco fino para liar",
      "40",
@@ -3301,7 +3301,7 @@
     ],
     [
      "SPRINGFIELD",
-     "CARAMELO",
+     "Caramelo",
      "Bolsa",
      "Tabaco fino para liar",
      "40",
@@ -3310,7 +3310,7 @@
     ],
     [
      "SPRINGFIELD",
-     "CHERRY",
+     "Cherry",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3319,7 +3319,7 @@
     ],
     [
      "SPRINGFIELD",
-     "CHOCOLATE",
+     "Chocolate",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3328,7 +3328,7 @@
     ],
     [
      "SPRINGFIELD",
-     "CIGARETTES CUT",
+     "Cigarettes Cut",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3337,7 +3337,7 @@
     ],
     [
      "SPRINGFIELD",
-     "GRAPE",
+     "Grape",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3346,7 +3346,7 @@
     ],
     [
      "SPRINGFIELD",
-     "MANGO",
+     "Mango",
      "Bolsa",
      "Tabaco fino para liar",
      "40",
@@ -3355,16 +3355,7 @@
     ],
     [
      "SPRINGFIELD",
-     "MINT",
-     "Paquete",
-     "Tabaco picado",
-     "40",
-     "gramos",
-     "4.100"
-    ],
-    [
-     "SPRINGFIELD",
-     "NATURAL",
+     "Mint",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3373,7 +3364,7 @@
     ],
     [
      "SPRINGFIELD",
-     "VANILLA",
+     "Natural",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3382,7 +3373,7 @@
     ],
     [
      "SPRINGFIELD",
-     "VIRGINIA BLEND",
+     "Vanilla",
      "Paquete",
      "Tabaco picado",
      "40",
@@ -3391,7 +3382,16 @@
     ],
     [
      "SPRINGFIELD",
-     "VIRGINIA BLEND",
+     "Virginia Blend",
+     "Paquete",
+     "Tabaco picado",
+     "40",
+     "gramos",
+     "4.200"
+    ],
+    [
+     "SPRINGFIELD",
+     "Virginia Blend",
      "Bolsa",
      "Tabaco picado",
      "40",
@@ -3400,7 +3400,7 @@
     ],
     [
      "STANLEY",
-     "APPLE",
+     "Apple",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3409,7 +3409,7 @@
     ],
     [
      "STANLEY",
-     "BLACK CURRANT",
+     "Black Currant",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3418,7 +3418,7 @@
     ],
     [
      "STANLEY",
-     "BLOND",
+     "Blond",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3427,7 +3427,7 @@
     ],
     [
      "STANLEY",
-     "CHERRY",
+     "Cherry",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3436,7 +3436,7 @@
     ],
     [
      "STANLEY",
-     "CHOCOLATE",
+     "Chocolate",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3445,7 +3445,7 @@
     ],
     [
      "STANLEY",
-     "COFFEE",
+     "Coffee",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3454,7 +3454,7 @@
     ],
     [
      "STANLEY",
-     "GRAPE",
+     "Grape",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3463,7 +3463,7 @@
     ],
     [
      "STANLEY",
-     "LICORICE",
+     "Licorice",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3472,7 +3472,7 @@
     ],
     [
      "STANLEY",
-     "MANGO",
+     "Mango",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3481,7 +3481,7 @@
     ],
     [
      "STANLEY",
-     "MINT",
+     "Mint",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3490,7 +3490,7 @@
     ],
     [
      "STANLEY",
-     "NATURAL",
+     "Natural",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3499,7 +3499,7 @@
     ],
     [
      "STANLEY",
-     "ORIGINAL",
+     "Original",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3508,7 +3508,7 @@
     ],
     [
      "STANLEY",
-     "PEACH",
+     "Peach",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3517,7 +3517,7 @@
     ],
     [
      "STANLEY",
-     "RASPBERRY",
+     "Raspberry",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3526,7 +3526,7 @@
     ],
     [
      "STANLEY",
-     "STRAWBERRY",
+     "Strawberry",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3535,7 +3535,7 @@
     ],
     [
      "STANLEY",
-     "VANILLA",
+     "Vanilla",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3544,7 +3544,7 @@
     ],
     [
      "STANLEY",
-     "VANILLA CARAMEL",
+     "Vanilla Caramel",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3553,7 +3553,7 @@
     ],
     [
      "STANLEY",
-     "VIRGINIA",
+     "Virginia",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3562,7 +3562,7 @@
     ],
     [
      "STANLEY",
-     "WATERMELON CANTELOUPE",
+     "Watermelon Canteloupe",
      "Sobre",
      "Tabaco picado",
      "40",
@@ -3571,7 +3571,7 @@
     ],
     [
      "STINGRAY TOBACCO",
-     "BUBBLE GUM GRAPE",
+     "Bubble Gum Grape",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -3580,7 +3580,7 @@
     ],
     [
      "STINGRAY TOBACCO",
-     "CHOCOLATE",
+     "Chocolate",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -3589,7 +3589,7 @@
     ],
     [
      "STINGRAY TOBACCO",
-     "NATURAL",
+     "Natural",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -3598,7 +3598,7 @@
     ],
     [
      "STINGRAY TOBACCO",
-     "VANILLA",
+     "Vanilla",
      "Sobre",
      "Tabaco picado",
      "30",
@@ -3607,111 +3607,120 @@
     ],
     [
      "TENNESIE",
-     "AMERICAN BLEND",
+     "American Blend",
      "Bolsa",
      "Tabaco Picado",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "CARAMEL",
+     "Caramel",
      "Bolsa",
      "Tabaco Picado",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "CHERRY",
+     "Cherry",
      "Bolsa",
      "Tabaco Picado",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "CHOCOLATE",
+     "Chocolate",
      "Bolsa",
      "Tabaco Picado",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "GRAPE",
+     "Grape",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "MINT",
+     "Mint",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "NATURAL",
+     "Natural",
      "Bolsa",
      "Tabaco para liar",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
     ],
     [
      "TENNESIE",
-     "SAILOR'S ENGLISH DELIGHT",
+     "Sailor's English Delight",
      "Bolsa",
      "Tabaco para pipa",
      "40",
      "gramos",
-     "6.250"
+     "6.400"
     ],
     [
      "TENNESIE",
-     "SAILOR'S PRIDE BLOSSOM GOLD",
+     "Sailor's Pride Blossom Gold",
      "Bolsa",
      "Tabaco para pipa",
      "40",
      "gramos",
-     "6.250"
+     "6.400"
     ],
     [
      "TENNESIE",
-     "VANILLA",
-     "Caja",
-     "Tabaco Picado",
-     "40",
-     "gramos",
-     "5.690"
-    ],
-    [
-     "TENNESIE",
-     "VIRGINIA",
+     "Vanilla",
      "Bolsa",
      "Tabaco Picado",
      "40",
      "gramos",
-     "5.690"
+     "5.800"
+    ],
+    [
+     "TENNESIE",
+     "Virginia",
+     "Bolsa",
+     "Tabaco Picado",
+     "40",
+     "gramos",
+     "5.800"
     ],
     [
      "VIRGINIA",
-     "SPRING",
+     "Spring",
      "Bolsa",
      "Tabaco para liar",
      "30",
      "gramos",
      "4.400"
+    ],
+    [
+     "VIRGINIA SPRING",
+     "Vanilla",
+     "Bolsa",
+     "Tabaco picado",
+     "40",
+     "gramos",
+     "6.700"
     ]
    ]
   }
