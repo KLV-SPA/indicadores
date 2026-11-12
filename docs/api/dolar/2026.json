@@ -4,8 +4,16 @@
  "unidad_medida": "Pesos",
  "anio": 2026,
  "fuente": "https://www.sii.cl/valores_y_fechas/dolar/dolar2026.htm",
- "actualizado": "2026-11-10T16:44:59-03:00",
+ "actualizado": "2026-11-12T16:55:30-03:00",
  "serie": [
+  {
+   "fecha": "2026-11-12",
+   "valor": 984.49
+  },
+  {
+   "fecha": "2026-11-11",
+   "valor": 977.05
+  },
   {
    "fecha": "2026-11-10",
    "valor": 969.8
