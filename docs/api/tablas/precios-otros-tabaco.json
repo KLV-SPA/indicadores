@@ -2,7 +2,7 @@
  "slug": "precios-otros-tabaco",
  "nombre": "Base de precios de venta final de otros productos de tabaco",
  "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco.html",
- "actualizado": "2026-11-10T16:44:59-03:00",
+ "actualizado": "2026-11-13T16:43:21-03:00",
  "tablas": [
   {
    "titulo": "Base de Precios de Venta Final de Puros, puritos y tiparillos",
@@ -11,7 +11,7 @@
     [
      "MARCA",
      "VARIANTE",
-     "UNIDADES",
+     "UNIDAD",
      "FORMATO",
      "CANTIDAD",
      "UNIDAD",
@@ -23,7 +23,7 @@
      "CAJA",
      "PUROS",
      "21",
-     "UNIDAD",
+     "UNIDADES",
      "15.000"
     ],
     [
@@ -32,7 +32,7 @@
      "CAJA",
      "PACK DE HABANOS",
      "28",
-     "UNIDAD",
+     "UNIDADES",
      "15.000"
     ],
     [
@@ -41,7 +41,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "16.000"
     ],
     [
@@ -50,7 +50,7 @@
      "CAJA",
      "PUROS",
      "15",
-     "UNIDAD",
+     "UNIDADES",
      "16.000"
     ],
     [
@@ -59,7 +59,7 @@
      "CAJETILLA DURA",
      "MINI PURITOS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "1.000"
     ],
     [
@@ -68,7 +68,7 @@
      "CAJAS PLÁSTICAS",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "53.750"
     ],
     [
@@ -77,7 +77,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "137.500"
     ],
     [
@@ -86,7 +86,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "12.000"
     ],
     [
@@ -95,7 +95,7 @@
      "CAJA",
      "PUROS",
      "115",
-     "UNIDAD",
+     "UNIDADES",
      "5.900"
     ],
     [
@@ -104,7 +104,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "13.200"
     ],
     [
@@ -113,7 +113,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "5.600"
     ],
     [
@@ -122,7 +122,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "13.500"
     ],
     [
@@ -131,7 +131,7 @@
      "CAJA",
      "PUROS",
      "30",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -140,7 +140,7 @@
      "BOLSA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "77.500"
     ],
     [
@@ -149,7 +149,7 @@
      "CAJA DE CARTÓN",
      "PURITOS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "6.950"
     ],
     [
@@ -158,7 +158,7 @@
      "CAJA METÁLICA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "12.800"
     ],
     [
@@ -167,7 +167,7 @@
      "CAJA METÁLICA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "12.800"
     ],
     [
@@ -176,7 +176,7 @@
      "CAJA METÁLICA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "12.800"
     ],
     [
@@ -185,7 +185,7 @@
      "CAJA DE CARTÓN",
      "PURITOS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "6.950"
     ],
     [
@@ -194,8 +194,44 @@
      "CAJA DE CARTÓN",
      "PURITOS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "6.950"
+    ],
+    [
+     "CASA MAGNA",
+     "COLORADO",
+     "PAQUETE",
+     "PUROS",
+     "20",
+     "UNIDADES",
+     "5.994"
+    ],
+    [
+     "CASA MAGNA",
+     "LIGA F",
+     "PAQUETE",
+     "PUROS",
+     "20",
+     "UNIDADES",
+     "6.911"
+    ],
+    [
+     "CASA MAGNA",
+     "MADURO",
+     "PAQUETE",
+     "PUROS",
+     "20",
+     "UNIDADES",
+     "6.021"
+    ],
+    [
+     "CASA MAGNA",
+     "OKTOBERFEST",
+     "PAQUETE",
+     "PUROS",
+     "20",
+     "UNIDADES",
+     "7.020"
     ],
     [
      "COHIBA",
@@ -203,7 +239,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "80.000"
     ],
     [
@@ -212,7 +248,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -221,7 +257,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "32.200"
     ],
     [
@@ -230,7 +266,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "650"
     ],
     [
@@ -239,7 +275,7 @@
      "PACK",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "650"
     ],
     [
@@ -248,7 +284,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "650"
     ],
     [
@@ -257,7 +293,7 @@
      "CAJA",
      "PUROS",
      "15",
-     "UNIDAD",
+     "UNIDADES",
      "118.000"
     ],
     [
@@ -266,7 +302,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -275,7 +311,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "20.000"
     ],
     [
@@ -284,7 +320,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "16.800"
     ],
     [
@@ -293,7 +329,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "16.800"
     ],
     [
@@ -302,7 +338,7 @@
      "PACK",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "550"
     ],
     [
@@ -311,7 +347,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "550"
     ],
     [
@@ -320,7 +356,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "8.900"
     ],
     [
@@ -329,7 +365,7 @@
      "PETACA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "850"
     ],
     [
@@ -338,7 +374,7 @@
      "CAJA",
      "PUROS",
      "18",
-     "UNIDAD",
+     "UNIDADES",
      "40.500"
     ],
     [
@@ -347,7 +383,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "8.900"
     ],
     [
@@ -356,7 +392,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "10.300"
     ],
     [
@@ -365,7 +401,7 @@
      "CAJA",
      "PUROS",
      "40",
-     "UNIDAD",
+     "UNIDADES",
      "17.000"
     ],
     [
@@ -374,7 +410,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "62.000"
     ],
     [
@@ -383,7 +419,7 @@
      "CAJA",
      "PUROS",
      "6",
-     "UNIDAD",
+     "UNIDADES",
      "1.700"
     ],
     [
@@ -392,7 +428,7 @@
      "CAJA",
      "PACK DE HABANOS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "6.100"
     ],
     [
@@ -401,17 +437,8 @@
      "CELOFÁN",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "83.500"
-    ],
-    [
-     "DOBLE TRES",
-     "BREVAS DOBLE TRES M/50",
-     "CELOFÁN",
-     "PUROS",
-     "50",
-     "UNIDAD",
-     "81.000"
     ],
     [
      "DON DIO",
@@ -419,7 +446,7 @@
      "PAQUETE",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "2.275"
     ],
     [
@@ -428,7 +455,7 @@
      "PAQUETE",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "2.275"
     ],
     [
@@ -437,7 +464,7 @@
      "PAQUETE",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "4.200"
     ],
     [
@@ -446,7 +473,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "17.500"
     ],
     [
@@ -455,7 +482,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "3.900"
     ],
     [
@@ -464,7 +491,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "2.900"
     ],
     [
@@ -473,7 +500,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "2.500"
     ],
     [
@@ -482,7 +509,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "3.900"
     ],
     [
@@ -491,7 +518,7 @@
      "CAJA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "1.000"
     ],
     [
@@ -500,7 +527,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "11.000"
     ],
     [
@@ -509,7 +536,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "8.500"
     ],
     [
@@ -518,7 +545,7 @@
      "CAJA",
      "PUROS",
      "18",
-     "UNIDAD",
+     "UNIDADES",
      "7.200"
     ],
     [
@@ -527,7 +554,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "9.500"
     ],
     [
@@ -536,7 +563,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "9.500"
     ],
     [
@@ -545,7 +572,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "19.400"
     ],
     [
@@ -554,7 +581,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "6.500"
     ],
     [
@@ -563,7 +590,7 @@
      "PACK",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "3.900"
     ],
     [
@@ -572,7 +599,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "6.900"
     ],
     [
@@ -581,7 +608,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "8.900"
     ],
     [
@@ -590,7 +617,7 @@
      "CAJA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "20.000"
     ],
     [
@@ -599,7 +626,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "8.000"
     ],
     [
@@ -608,7 +635,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "9.200"
     ],
     [
@@ -617,7 +644,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "9.800"
     ],
     [
@@ -626,7 +653,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "9.800"
     ],
     [
@@ -635,7 +662,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "7.500"
     ],
     [
@@ -644,7 +671,7 @@
      "CAJA",
      "PUROS",
      "15",
-     "UNIDAD",
+     "UNIDADES",
      "9.000"
     ],
     [
@@ -653,7 +680,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "10.800"
     ],
     [
@@ -662,7 +689,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "10.800"
     ],
     [
@@ -671,7 +698,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "10.800"
     ],
     [
@@ -680,7 +707,7 @@
      "CAJA",
      "HABANOS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "12.500"
     ],
     [
@@ -689,7 +716,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "19.300"
     ],
     [
@@ -698,7 +725,7 @@
      "CAJA",
      "PUROS",
      "18",
-     "UNIDAD",
+     "UNIDADES",
      "21.000"
     ],
     [
@@ -707,7 +734,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "10.700"
     ],
     [
@@ -716,7 +743,7 @@
      "PACK",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "1.600"
     ],
     [
@@ -725,7 +752,7 @@
      "PACK",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "1.700"
     ],
     [
@@ -734,7 +761,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "1.750"
     ],
     [
@@ -743,7 +770,7 @@
      "PACK",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "1.200"
     ],
     [
@@ -752,7 +779,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "8.500"
     ],
     [
@@ -761,7 +788,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "9.900"
     ],
     [
@@ -770,7 +797,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -779,7 +806,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "7.400"
     ],
     [
@@ -788,7 +815,7 @@
      "CAJA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "11.100"
     ],
     [
@@ -797,7 +824,7 @@
      "CAJA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "10.700"
     ],
     [
@@ -806,7 +833,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "16.900"
     ],
     [
@@ -815,7 +842,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "20.800"
     ],
     [
@@ -824,7 +851,7 @@
      "CAJA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "6.500"
     ],
     [
@@ -833,7 +860,7 @@
      "CAJA",
      "PUROS",
      "18",
-     "UNIDAD",
+     "UNIDADES",
      "34.500"
     ],
     [
@@ -842,7 +869,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "550"
     ],
     [
@@ -851,7 +878,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "10.800"
     ],
     [
@@ -860,7 +887,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "10.800"
     ],
     [
@@ -869,7 +896,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "51.000"
     ],
     [
@@ -878,7 +905,7 @@
      "CAJA",
      "HABANOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "39.000"
     ],
     [
@@ -887,7 +914,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "6.800"
     ],
     [
@@ -896,7 +923,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "10.400"
     ],
     [
@@ -905,7 +932,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "450"
     ],
     [
@@ -914,7 +941,7 @@
      "PETACA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "700"
     ],
     [
@@ -923,7 +950,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "10.900"
     ],
     [
@@ -932,7 +959,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "6.800"
     ],
     [
@@ -941,7 +968,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "6.800"
     ],
     [
@@ -950,7 +977,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "12.000"
     ],
     [
@@ -959,7 +986,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "6.900"
     ],
     [
@@ -968,7 +995,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "8.400"
     ],
     [
@@ -977,7 +1004,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -986,7 +1013,7 @@
      "PAQUETE",
      "MINI PURITOS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "1.800"
     ],
     [
@@ -995,7 +1022,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -1004,7 +1031,7 @@
      "CAJA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "11.100"
     ],
     [
@@ -1013,7 +1040,7 @@
      "CAJA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "12.700"
     ],
     [
@@ -1022,7 +1049,7 @@
      "CAJA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "13.400"
     ],
     [
@@ -1031,7 +1058,7 @@
      "CAJA",
      "PURITOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "10.300"
     ],
     [
@@ -1040,7 +1067,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "18.000"
     ],
     [
@@ -1049,7 +1076,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "3.700"
     ],
     [
@@ -1058,7 +1085,7 @@
      "PETACA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "5.300"
     ],
     [
@@ -1067,7 +1094,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1076,7 +1103,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -1085,7 +1112,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "72.000"
     ],
     [
@@ -1094,7 +1121,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "27.800"
     ],
     [
@@ -1103,7 +1130,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "14.000"
     ],
     [
@@ -1112,7 +1139,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "14.000"
     ],
     [
@@ -1121,7 +1148,7 @@
      "PACK",
      "",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "14.000"
     ],
     [
@@ -1130,7 +1157,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1139,7 +1166,7 @@
      "PACK",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "4.000"
     ],
     [
@@ -1148,7 +1175,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "4.500"
     ],
     [
@@ -1157,7 +1184,7 @@
      "CAJA",
      "PACK DE HABANOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "24.000"
     ],
     [
@@ -1166,7 +1193,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "9.300"
     ],
     [
@@ -1175,7 +1202,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "8.300"
     ],
     [
@@ -1184,7 +1211,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "6.800"
     ],
     [
@@ -1193,7 +1220,7 @@
      "CAJA",
      "PUROS",
      "15",
-     "UNIDAD",
+     "UNIDADES",
      "49.000"
     ],
     [
@@ -1202,7 +1229,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "11.600"
     ],
     [
@@ -1211,7 +1238,7 @@
      "CAJA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "89.000"
     ],
     [
@@ -1220,7 +1247,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "5.400"
     ],
     [
@@ -1229,7 +1256,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "5.800"
     ],
     [
@@ -1238,7 +1265,7 @@
      "CAJA DE CARTÓN",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "6.900"
     ],
     [
@@ -1247,7 +1274,7 @@
      "CAJA DE CARTÓN",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "8.450"
     ],
     [
@@ -1256,7 +1283,7 @@
      "CAJA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "8.750"
     ],
     [
@@ -1265,7 +1292,7 @@
      "CAJA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "11.000"
     ],
     [
@@ -1274,7 +1301,7 @@
      "CAJA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "11.000"
     ],
     [
@@ -1283,7 +1310,7 @@
      "CAJA DE CARTÓN",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "11.000"
     ],
     [
@@ -1292,7 +1319,7 @@
      "CAJA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "10.250"
     ],
     [
@@ -1301,7 +1328,7 @@
      "CAJA DE CARTÓN",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "11.000"
     ],
     [
@@ -1310,7 +1337,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "5.700"
     ],
     [
@@ -1319,7 +1346,7 @@
      "CAJA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "4.200"
     ],
     [
@@ -1328,7 +1355,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "6.300"
     ],
     [
@@ -1337,7 +1364,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "7.500"
     ],
     [
@@ -1346,7 +1373,7 @@
      "CAJA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1355,7 +1382,7 @@
      "PAQUETE",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "940"
     ],
     [
@@ -1364,7 +1391,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "5.900"
     ],
     [
@@ -1373,7 +1400,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "3.700"
     ],
     [
@@ -1382,7 +1409,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "3.700"
     ],
     [
@@ -1391,7 +1418,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -1400,7 +1427,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "3.900"
     ],
     [
@@ -1409,7 +1436,7 @@
      "CAJA DE HABANOS",
      "PACK DE HABANOS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "22.200"
     ],
     [
@@ -1418,7 +1445,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "21.800"
     ],
     [
@@ -1427,7 +1454,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "5.900"
     ],
     [
@@ -1436,7 +1463,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "7.800"
     ],
     [
@@ -1445,7 +1472,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1454,7 +1481,7 @@
      "PACK",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "2.300"
     ],
     [
@@ -1463,7 +1490,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "1.500"
     ],
     [
@@ -1472,7 +1499,7 @@
      "PETACA",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "1.900"
     ],
     [
@@ -1481,7 +1508,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "3.700"
     ],
     [
@@ -1490,7 +1517,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "19.700"
     ],
     [
@@ -1499,7 +1526,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "4.500"
     ],
     [
@@ -1508,7 +1535,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "8.400"
     ],
     [
@@ -1517,7 +1544,7 @@
      "CAJA",
      "PUROS",
      "50",
-     "UNIDAD",
+     "UNIDADES",
      "6.000"
     ],
     [
@@ -1526,7 +1553,7 @@
      "CAJA",
      "HABANO",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "32.400"
     ],
     [
@@ -1535,7 +1562,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "8.200"
     ],
     [
@@ -1544,7 +1571,7 @@
      "PETACA",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "10.100"
     ],
     [
@@ -1553,7 +1580,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "500"
     ],
     [
@@ -1562,7 +1589,7 @@
      "PACK",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "2.900"
     ],
     [
@@ -1571,7 +1598,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "18.800"
     ],
     [
@@ -1580,7 +1607,7 @@
      "PACK",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "450"
     ],
     [
@@ -1589,7 +1616,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "22.500"
     ],
     [
@@ -1598,7 +1625,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "6.160"
     ],
     [
@@ -1607,7 +1634,7 @@
      "CAJA",
      "PUROS",
      "",
-     "UNIDAD",
+     "UNIDADES",
      "3.900"
     ],
     [
@@ -1616,7 +1643,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "19.700"
     ],
     [
@@ -1625,7 +1652,7 @@
      "PACK",
      "PUROS",
      "3",
-     "UNIDAD",
+     "UNIDADES",
      "39.600"
     ],
     [
@@ -1634,7 +1661,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "39.600"
     ],
     [
@@ -1643,7 +1670,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "2.900"
     ],
     [
@@ -1652,7 +1679,7 @@
      "CAJA",
      "PUROS",
      "100",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1661,7 +1688,7 @@
      "CAJA",
      "PUROS",
      "20",
-     "UNIDAD",
+     "UNIDADES",
      "5.900"
     ],
     [
@@ -1670,7 +1697,7 @@
      "CAJA",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "4.500"
     ],
     [
@@ -1679,7 +1706,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "6.400"
     ],
     [
@@ -1688,7 +1715,7 @@
      "PAQUETE",
      "PUROS",
      "25",
-     "UNIDAD",
+     "UNIDADES",
      "32.250"
     ],
     [
@@ -1697,7 +1724,7 @@
      "CAJA",
      "PUROS",
      "5",
-     "UNIDAD",
+     "UNIDADES",
      "4.500"
     ],
     [
@@ -1706,7 +1733,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "36.500"
     ],
     [
@@ -1715,7 +1742,7 @@
      "CAJA",
      "PUROS",
      "24",
-     "UNIDAD",
+     "UNIDADES",
      "5.300"
     ],
     [
@@ -1724,7 +1751,7 @@
      "CAJA",
      "HABANO",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "39.500"
     ],
     [
@@ -1733,7 +1760,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "9.500"
     ],
     [
@@ -1742,7 +1769,7 @@
      "CAJA",
      "PUROS",
      "24",
-     "UNIDAD",
+     "UNIDADES",
      "9.000"
     ],
     [
@@ -1751,7 +1778,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "20.000"
     ],
     [
@@ -1760,7 +1787,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "16.300"
     ],
     [
@@ -1769,7 +1796,7 @@
      "CAJA",
      "PUROS",
      "14",
-     "UNIDAD",
+     "UNIDADES",
      "22.700"
     ],
     [
@@ -1778,7 +1805,7 @@
      "PETACA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "800"
     ],
     [
@@ -1787,7 +1814,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "15.000"
     ],
     [
@@ -1796,7 +1823,7 @@
      "CAJA",
      "PUROS",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "11.600"
     ],
     [
@@ -1805,7 +1832,7 @@
      "CAJA",
      "HABANO",
      "12",
-     "UNIDAD",
+     "UNIDADES",
      "31.200"
     ],
     [
@@ -1814,7 +1841,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "3.750"
     ],
     [
@@ -1823,7 +1850,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "3.750"
     ],
     [
@@ -1832,7 +1859,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "3.750"
     ],
     [
@@ -1841,7 +1868,7 @@
      "PAQUETE",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "3.750"
     ],
     [
@@ -1850,7 +1877,7 @@
      "CAJA",
      "PUROS",
      "10",
-     "UNIDAD",
+     "UNIDADES",
      "5.200"
     ],
     [
@@ -1859,7 +1886,7 @@
      "CAJA",
      "PUROS",
      "16",
-     "UNIDAD",
+     "UNIDADES",
      "4.000"
     ],
     [
@@ -1868,7 +1895,7 @@
      "PACK",
      "PUROS",
      "4",
-     "UNIDAD",
+     "UNIDADES",
      "5.200"
     ],
     [
@@ -1877,7 +1904,7 @@
      "CAJA",
      "PUROS",
      "16",
-     "UNIDAD",
+     "UNIDADES",
      "5.200"
     ],
     [
@@ -1886,7 +1913,7 @@
      "PACK",
      "PUROS",
      "4",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1895,7 +1922,7 @@
      "PACK",
      "PUROS",
      "16",
-     "UNIDAD",
+     "UNIDADES",
      "4.900"
     ],
     [
@@ -1904,7 +1931,7 @@
      "PACK",
      "PUROS",
      "4",
-     "UNIDAD",
+     "UNIDADES",
      "3.100"
     ],
     [
@@ -1913,7 +1940,7 @@
      "PACK",
      "PUROS",
      "16",
-     "UNIDAD",
+     "UNIDADES",
      "3.100"
     ]
    ]
@@ -1923,1803 +1950,1803 @@
    "fuente": "https://www.sii.cl/valores_y_fechas/otros_valores/otros_productos_tabaco_t2.csv",
    "filas": [
     [
-     "Marca",
-     "Variante",
-     "Unidad",
-     "Formato",
-     "Cantidad",
-     "Medida",
-     "Precio Venta"
+     "MARCA",
+     "VARIANTE",
+     "UNIDAD",
+     "FORMATO",
+     "CANTIDAD",
+     "MEDIDA",
+     "PRECIO VENTA"
     ],
     [
      "ADALYA",
-     "Lady Killer",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
+     "LADY KILLER",
+     "SOBRE",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "50",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "ADALYA",
-     "Lady Killer",
-     "Frasco",
-     "Tabaco Picado para pipa de agua",
+     "LADY KILLER",
+     "FRASCO",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "250",
-     "gramos",
+     "GRAMOS",
      "6.500"
     ],
     [
      "ADALYA",
-     "Love 66 ",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
+     "LOVE 66 ",
+     "SOBRE",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "50",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "ADALYA",
-     "Love 66 ",
-     "Frasco",
-     "Tabaco Picado para pipa de agua",
+     "LOVE 66 ",
+     "FRASCO",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "250",
-     "gramos",
+     "GRAMOS",
      "6.500"
     ],
     [
      "ADALYA",
-     "Two Apples ",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
+     "TWO APPLES ",
+     "SOBRE",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "50",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "ADALYA",
-     "Two Apples ",
-     "Frasco",
-     "Tabaco Picado para pipa de agua",
+     "TWO APPLES ",
+     "FRASCO",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "250",
-     "gramos",
+     "GRAMOS",
      "6.500"
     ],
     [
      "BLACK DEVIL",
-     "Smooth Flavour",
-     "Sobre",
-     "Tabaco picado",
+     "SMOOTH FLAVOUR",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "BLACK DEVIL",
-     "Special Flavour",
-     "Sobre",
-     "Tabaco picado",
+     "SPECIAL FLAVOUR",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "BRAD",
-     "Arándano",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "ARÁNDANO",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Berries",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "BERRIES",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Cherry",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "CHERRY",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Chocolate",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "CHOCOLATE",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Mango",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "MANGO",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Menta",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "MENTA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Natural",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "NATURAL",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Uva",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "UVA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRAD",
-     "Vainilla",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "VAINILLA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "45",
-     "gramos",
+     "GRAMOS",
      "2.490"
     ],
     [
      "BRONX",
-     " Cherry",
-     "Sobre",
-     "Tabaco picado",
+     " CHERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Chocolate",
-     "Sobre",
-     "Tabaco picado",
+     " CHOCOLATE",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Chocomint",
-     "Sobre",
-     "Tabaco picado",
+     " CHOCOMINT",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Grape",
-     "Sobre",
-     "Tabaco picado",
+     " GRAPE",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Mint",
-     "Sobre",
-     "Tabaco picado",
+     " MINT",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Natural",
-     "Sobre",
-     "Tabaco picado",
+     " NATURAL",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Raspberry",
-     "Sobre",
-     "Tabaco picado",
+     " RASPBERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "BRONX",
-     " Vainilla",
-     "Sobre",
-     "Tabaco picado",
+     " VAINILLA",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "CAPTAIN BLACK",
-     "Bright Virginia",
-     "Bolsa",
-     "Tabaco picado",
+     "BRIGHT VIRGINIA",
+     "BOLSA",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "8.150"
     ],
     [
      "CAPTAIN BLACK",
-     "Cherry",
-     "Bolsa",
-     "Tabaco picado",
+     "CHERRY",
+     "BOLSA",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "8.750"
     ],
     [
      "CAPTAIN BLACK",
-     "Gold",
-     "Bolsa",
-     "Tabaco picado",
+     "GOLD",
+     "BOLSA",
+     "TABACO PICADO",
      "42,5",
-     "gramos",
+     "GRAMOS",
      "14.950"
     ],
     [
      "CAPTAIN BLACK",
-     "Menthol",
-     "Bolsa",
-     "Tabaco picado",
+     "MENTHOL",
+     "BOLSA",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "8.750"
     ],
     [
      "CAPTAIN BLACK",
-     "Vanilla",
-     "Bolsa",
-     "Tabaco picado",
+     "VANILLA",
+     "BOLSA",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "8.750"
     ],
     [
      "CAPTAIN BLACK",
-     "Virginia",
-     "Bolsa",
-     "Tabaco picado",
+     "VIRGINIA",
+     "BOLSA",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "8.150"
     ],
     [
      "CERRITO",
-     "Café Moka",
-     "Sobre",
-     "Tabaco picado",
+     "CAFÉ MOKA",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Chocolate Menta",
-     "Sobre",
-     "Tabaco picado",
+     "CHOCOLATE MENTA",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Frutos Rojos",
-     "Sobre",
-     "Tabaco picado",
+     "FRUTOS ROJOS",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Mango Maracuyá",
-     "Sobre",
-     "Tabaco picado",
+     "MANGO MARACUYÁ",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Natural",
-     "Sobre",
-     "Tabaco picado",
+     "NATURAL",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Original",
-     "Sobre",
-     "Tabaco picado",
+     "ORIGINAL",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Sandía Tropical",
-     "Sobre",
-     "Tabaco picado",
+     "SANDÍA TROPICAL",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Uva Mix",
-     "Sobre",
-     "Tabaco picado",
+     "UVA MIX",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "CERRITO",
-     "Vainilla Caramel",
-     "Sobre",
-     "Tabaco picado",
+     "VAINILLA CARAMEL",
+     "SOBRE",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "DRUM",
-     "Bright Blue",
-     "Bolsa",
-     "Tabaco para liar",
+     "BRIGHT BLUE",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "50",
-     "gramos",
+     "GRAMOS",
      "15.300"
     ],
     [
      "EASTENDERS",
-     "Halfware",
-     "Sobre",
-     "Tabaco picado",
+     "HALFWARE",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "EASTENDERS",
-     "Virginia",
-     "Sobre",
-     "Tabaco picado",
+     "VIRGINIA",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "EASTENDERS",
-     "Yellow",
-     "Sobre",
-     "Tabaco picado",
+     "YELLOW",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "ETERNAL SMOKE",
-     "Blue Lit",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
+     "BLUE LIT",
+     "SOBRE",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "50",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "ETERNAL SMOKE",
-     "Blue Lit",
-     "Frasco",
-     "Tabaco Picado para pipa de agua",
+     "BLUE LIT",
+     "FRASCO",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "250",
-     "gramos",
+     "GRAMOS",
      "6.500"
     ],
     [
      "ETERNAL SMOKE",
-     "Chiled Wine",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
+     "CHILED WINE",
+     "SOBRE",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "50",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "ETERNAL SMOKE",
-     "Chiled Wine",
-     "Frasco",
-     "Tabaco Picado para pipa de agua",
+     "CHILED WINE",
+     "FRASCO",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "250",
-     "gramos",
+     "GRAMOS",
      "6.500"
     ],
     [
      "ETERNAL SMOKE",
-     "Watermelon Lit ",
-     "Sobre",
-     "Tabaco Picado para pipa de agua",
+     "WATERMELON LIT ",
+     "SOBRE",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "50",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "ETERNAL SMOKE",
-     "Watermelon Lit ",
-     "Frasco",
-     "Tabaco Picado para pipa de agua",
+     "WATERMELON LIT ",
+     "FRASCO",
+     "TABACO PICADO PARA PIPA DE AGUA",
      "250",
-     "gramos",
+     "GRAMOS",
      "6.500"
     ],
     [
      "FLANDRIA",
-     " Eco",
-     "Paquete",
-     "Tabaco picado",
+     " ECO",
+     "PAQUETE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.990"
     ],
     [
      "FLANDRIA",
-     " Sauvage",
-     "Paquete",
-     "Tabaco picado",
+     " SAUVAGE",
+     "PAQUETE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.990"
     ],
     [
      "FLANDRIA",
-     " Silver",
-     "Paquete",
-     "Tabaco picado",
+     " SILVER",
+     "PAQUETE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.990"
     ],
     [
      "FLANDRIA",
-     " Vanilla",
-     "Paquete",
-     "Tabaco picado",
+     " VANILLA",
+     "PAQUETE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.990"
     ],
     [
      "FLANDRIA",
-     " Virginia English",
-     "Paquete",
-     "Tabaco picado",
+     " VIRGINIA ENGLISH",
+     "PAQUETE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.990"
     ],
     [
      "FLANDRIA",
-     " Virginia Yellow",
-     "Paquete",
-     "Tabaco picado",
+     " VIRGINIA YELLOW",
+     "PAQUETE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.990"
     ],
     [
      "FLANDRIA",
-     "Eco",
-     "Sobre",
-     "Tabaco picado",
+     "ECO",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.000"
     ],
     [
      "FLANDRIA",
-     "Sauvage",
-     "Sobre",
-     "Tabaco picado",
+     "SAUVAGE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.000"
     ],
     [
      "FLANDRIA",
-     "Silver",
-     "Sobre",
-     "Tabaco picado",
+     "SILVER",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.700"
     ],
     [
      "FLANDRIA",
-     "Vanilla",
-     "Sobre",
-     "Tabaco picado",
+     "VANILLA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.700"
     ],
     [
      "FLANDRIA",
-     "Virginia English",
-     "Sobre",
-     "Tabaco picado",
+     "VIRGINIA ENGLISH",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "5.000"
     ],
     [
      "FLANDRIA",
-     "Virginia Yellow",
-     "Sobre",
-     "Tabaco picado",
+     "VIRGINIA YELLOW",
+     "SOBRE",
+     "TABACO PICADO",
      "50",
-     "gramos",
+     "GRAMOS",
      "5.000"
     ],
     [
      "GOLDEN VIRGINIA",
-     "Golden Virginia",
-     "Bolsa",
-     "Tabaco para liar",
+     "GOLDEN VIRGINIA",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "51",
-     "gramos",
+     "GRAMOS",
      "8.000"
     ],
     [
      "GOLDEN VIRGINIA",
      "",
-     "Bolsa",
-     "Tabaco picado",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "11.400"
     ],
     [
      "HYO",
-     "American Blend",
-     "Sobre",
-     "Tabaco para pipa",
+     "AMERICAN BLEND",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "15",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "HYO",
-     "Bright Orange",
-     "Sobre",
-     "Tabaco para pipa",
+     "BRIGHT ORANGE",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "15",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "HYO",
-     "Cream Yellow",
-     "Sobre",
-     "Tabaco para pipa",
+     "CREAM YELLOW",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "15",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "HYO",
-     "Green",
-     "Sobre",
-     "Tabaco para pipa",
+     "GREEN",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "15",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "HYO",
-     "Ruby Red",
-     "Sobre",
-     "Tabaco para pipa",
+     "RUBY RED",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "15",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "HYO",
-     "Virginia Blue",
-     "Sobre",
-     "Tabaco para pipa",
+     "VIRGINIA BLUE",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "15",
-     "gramos",
+     "GRAMOS",
      "2.500"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco Café a la Crema",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO CAFÉ A LA CREMA",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco Cherry",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO CHERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco Chocolate",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO CHOCOLATE",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco Manzana",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO MANZANA",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco Menta",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO MENTA",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "LION ROLLING CIRCUS",
-     " Virginia Tobacco Natural",
-     "Sobre",
-     "Tabaco picado",
+     " VIRGINIA TOBACCO NATURAL",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "3.690"
     ],
     [
      "MANITOU",
-     "Organic",
-     "Sobre",
-     "Tabaco picado",
+     "ORGANIC",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "MR. BRAD",
-     "Arándano",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "ARÁNDANO",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Berries",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "BERRIES",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Caramelo",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "CARAMELO",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Cherry",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "CHERRY",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Choco Menta",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "CHOCO MENTA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Chocolate",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "CHOCOLATE",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Mango",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "MANGO",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Manzana",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "MANZANA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Menta",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "MENTA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Naranja",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "NARANJA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Natural",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "NATURAL",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Sandía",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "SANDÍA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Vainilla",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "VAINILLA",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "MR. BRAD",
-     "Vainilla Caramelo",
-     "Bolsa",
-     "Tabaco hilado fino",
+     "VAINILLA CARAMELO",
+     "BOLSA",
+     "TABACO HILADO FINO",
      "20",
-     "gramos",
+     "GRAMOS",
      "2.100"
     ],
     [
      "PEPE",
-     "Easy Green",
-     "Sobre",
-     "Tabaco picado",
+     "EASY GREEN",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.900"
     ],
     [
      "PEPE",
-     "Rich Green",
-     "Sobre",
-     "Tabaco picado",
+     "RICH GREEN",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.900"
     ],
     [
      "RED FIELD",
-     "American Blend",
-     "Sobre",
-     "Tabaco picado",
+     "AMERICAN BLEND",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Apple",
-     "Sobre",
-     "Tabaco picado",
+     "APPLE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Black Currant",
-     "Sobre",
-     "Tabaco picado",
+     "BLACK CURRANT",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.150"
     ],
     [
      "RED FIELD",
-     "Café",
-     "Sobre",
-     "Tabaco picado",
+     "CAFÉ",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Cherry",
-     "Sobre",
-     "Tabaco picado",
+     "CHERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.150"
     ],
     [
      "RED FIELD",
-     "Chocolate",
-     "Sobre",
-     "Tabaco picado",
+     "CHOCOLATE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.150"
     ],
     [
      "RED FIELD",
-     "Chocomint",
-     "Sobre",
-     "Tabaco picado",
+     "CHOCOMINT",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Double Vanilla",
-     "Sobre",
-     "Tabaco picado",
+     "DOUBLE VANILLA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Earl Grey Tea",
-     "Sobre",
-     "Tabaco picado",
+     "EARL GREY TEA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Frambuesa",
-     "Sobre",
-     "Tabaco picado",
+     "FRAMBUESA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Grape",
-     "Sobre",
-     "Tabaco picado",
+     "GRAPE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.150"
     ],
     [
      "RED FIELD",
-     "Hazelnut",
-     "Sobre",
-     "Tabaco picado",
+     "HAZELNUT",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Kretek",
-     "Sobre",
-     "Tabaco picado",
+     "KRETEK",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Lemon",
-     "Sobre",
-     "Tabaco picado",
+     "LEMON",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Licorice",
-     "Sobre",
-     "Tabaco picado",
+     "LICORICE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Mango",
-     "Sobre",
-     "Tabaco picado",
+     "MANGO",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Menthol",
-     "Sobre",
-     "Tabaco picado",
+     "MENTHOL",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.150"
     ],
     [
      "RED FIELD",
-     "Natural",
-     "Sobre",
-     "Tabaco picado",
+     "NATURAL",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Orange",
-     "Sobre",
-     "Tabaco picado",
+     "ORANGE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Peach",
-     "Sobre",
-     "Tabaco picado",
+     "PEACH",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Strawberry",
-     "Sobre",
-     "Tabaco picado",
+     "STRAWBERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "RED FIELD",
-     "Vanilla",
-     "Sobre",
-     "Tabaco picado",
+     "VANILLA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.150"
     ],
     [
      "ROADHOUSE",
-     "American Blend",
-     "Bolsa",
-     "Tabaco para liar",
+     "AMERICAN BLEND",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "5.700"
     ],
     [
      "ROADHOUSE",
-     "Chocolate",
-     "Bolsa",
-     "Tabaco para liar",
+     "CHOCOLATE",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "7.350"
     ],
     [
      "ROADHOUSE",
-     "Chocolate Menta",
-     "Bolsa",
-     "Tabaco para liar",
+     "CHOCOLATE MENTA",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "7.350"
     ],
     [
      "ROADHOUSE",
-     "Chocolate Mint",
-     "Bolsa",
-     "Tabaco para liar",
+     "CHOCOLATE MINT",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "5.900"
     ],
     [
      "ROADHOUSE",
-     "Grape",
-     "Bolsa",
-     "Tabaco para liar",
+     "GRAPE",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "5.900"
     ],
     [
      "ROADHOUSE",
-     "Grape",
-     "Bolsa",
-     "Tabaco para liar",
+     "GRAPE",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "7.350"
     ],
     [
      "ROADHOUSE",
-     "Natural Sin Aditivos",
-     "Bolsa",
-     "Tabaco picado",
+     "NATURAL SIN ADITIVOS",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "7.350"
     ],
     [
      "ROADHOUSE",
-     "Natural",
-     "Bolsa",
-     "Tabaco para liar",
+     "NATURAL",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "5.700"
     ],
     [
      "ROADHOUSE",
-     "Vanilla Crema",
-     "Bolsa",
-     "Tabaco para liar",
+     "VANILLA CREMA",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "5.900"
     ],
     [
      "ROADHOUSE",
-     "Vanilla Crema",
-     "Envase",
-     "Tabaco picado",
+     "VANILLA CREMA",
+     "ENVASE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "7.350"
     ],
     [
      "ROADHOUSE",
-     "Virginia",
-     "Bolsa",
-     "Tabaco para liar",
+     "VIRGINIA",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "5.700"
     ],
     [
      "ROADHOUSE",
-     "Virginia",
-     "Bolsa",
-     "Tabaco para liar",
+     "VIRGINIA",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "7.350"
     ],
     [
      "ROSS",
-     "Arándano",
-     "Bolsa",
-     "Tabaco Picado",
+     "ARÁNDANO",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Cappuccino",
-     "Bolsa",
-     "Tabaco Picado",
+     "CAPPUCCINO",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Caramelo",
-     "Bolsa",
-     "Tabaco",
+     "CARAMELO",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Cereza ",
-     "Bolsa",
-     "Tabaco picado",
+     "CEREZA ",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Chicle",
-     "Bolsa",
-     "Tabaco Picado",
+     "CHICLE",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Choco Berries",
-     "Bolsa",
-     "Tabaco",
+     "CHOCO BERRIES",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Chocolate",
-     "Bolsa",
-     "Tabaco",
+     "CHOCOLATE",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Frutos del Bosque",
-     "Bolsa",
-     "Tabaco",
+     "FRUTOS DEL BOSQUE",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Mangos",
-     "Bolsa",
-     "Tabaco",
+     "MANGOS",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Manzana Ice",
-     "Bolsa",
-     "Tabaco suelto",
+     "MANZANA ICE",
+     "BOLSA",
+     "TABACO SUELTO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Maracuyá",
-     "Bolsa",
-     "Tabaco Picado",
+     "MARACUYÁ",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Menta",
-     "Bolsa",
-     "Tabaco",
+     "MENTA",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Menta Berries",
-     "Bolsa",
-     "Tabaco Picado",
+     "MENTA BERRIES",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Menta Chocolate",
-     "Bolsa",
-     "Tabaco Picado",
+     "MENTA CHOCOLATE",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Natural",
-     "Bolsa",
-     "Tabaco picado",
+     "NATURAL",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Sandía",
-     "Bolsa",
-     "Tabaco Picado",
+     "SANDÍA",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Uva",
-     "Bolsa",
-     "Tabaco",
+     "UVA",
+     "BOLSA",
+     "TABACO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "ROSS",
-     "Vainilla",
-     "Bolsa",
-     "Tabaco picado",
+     "VAINILLA",
+     "BOLSA",
+     "TABACO PICADO",
      "45",
-     "gramos",
+     "GRAMOS",
      "4.500"
     ],
     [
      "RYTUA",
-     "Jatim Terroir",
-     "Sobre",
-     "Tabaco para pipa",
+     "JATIM TERROIR",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "30",
-     "gramos",
+     "GRAMOS",
      "2.700"
     ],
     [
-     "Rytua",
-     "Piedra Pintada Terroir",
-     "Sobre",
-     "Tabaco para pipa",
+     "RYTUA",
+     "PIEDRA PINTADA TERROIR",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "30",
-     "gramos",
+     "GRAMOS",
      "2.700"
     ],
     [
-     "Rytua",
-     "Rio Pardo Terroir",
-     "Sobre",
-     "Tabaco para pipa",
+     "RYTUA",
+     "RIO PARDO TERROIR",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "30",
-     "gramos",
+     "GRAMOS",
      "2.700"
     ],
     [
-     "Rytua",
-     "Valle del Lerma Terroir",
-     "Sobre",
-     "Tabaco para pipa",
+     "RYTUA",
+     "VALLE DEL LERMA TERROIR",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "30",
-     "gramos",
+     "GRAMOS",
      "2.700"
     ],
     [
-     "Rytua",
-     "Zambeze Terroir",
-     "Sobre",
-     "Tabaco para pipa",
+     "RYTUA",
+     "ZAMBEZE TERROIR",
+     "SOBRE",
+     "TABACO PARA PIPA",
      "30",
-     "gramos",
+     "GRAMOS",
      "2.700"
     ],
     [
      "SPRINGFIELD",
-     "Arándano",
-     "Bolsa",
-     "Tabaco fino para liar",
+     "ARÁNDANO",
+     "BOLSA",
+     "TABACO FINO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Caramelo",
-     "Bolsa",
-     "Tabaco fino para liar",
+     "CARAMELO",
+     "BOLSA",
+     "TABACO FINO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Cherry",
-     "Paquete",
-     "Tabaco picado",
+     "CHERRY",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Chocolate",
-     "Paquete",
-     "Tabaco picado",
+     "CHOCOLATE",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Cigarettes Cut",
-     "Paquete",
-     "Tabaco picado",
+     "CIGARETTES CUT",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.100"
     ],
     [
      "SPRINGFIELD",
-     "Grape",
-     "Paquete",
-     "Tabaco picado",
+     "GRAPE",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Mango",
-     "Bolsa",
-     "Tabaco fino para liar",
+     "MANGO",
+     "BOLSA",
+     "TABACO FINO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Mint",
-     "Paquete",
-     "Tabaco picado",
+     "MINT",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Natural",
-     "Paquete",
-     "Tabaco picado",
+     "NATURAL",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Vanilla",
-     "Paquete",
-     "Tabaco picado",
+     "VANILLA",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Virginia Blend",
-     "Paquete",
-     "Tabaco picado",
+     "VIRGINIA BLEND",
+     "PAQUETE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.200"
     ],
     [
      "SPRINGFIELD",
-     "Virginia Blend",
-     "Bolsa",
-     "Tabaco picado",
+     "VIRGINIA BLEND",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "3.300"
     ],
     [
      "STANLEY",
-     "Apple",
-     "Sobre",
-     "Tabaco picado",
+     "APPLE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.290"
     ],
     [
      "STANLEY",
-     "Black Currant",
-     "Sobre",
-     "Tabaco picado",
+     "BLACK CURRANT",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.291"
     ],
     [
      "STANLEY",
-     "Blond",
-     "Sobre",
-     "Tabaco picado",
+     "BLOND",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.292"
     ],
     [
      "STANLEY",
-     "Cherry",
-     "Sobre",
-     "Tabaco picado",
+     "CHERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.293"
     ],
     [
      "STANLEY",
-     "Chocolate",
-     "Sobre",
-     "Tabaco picado",
+     "CHOCOLATE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.294"
     ],
     [
      "STANLEY",
-     "Coffee",
-     "Sobre",
-     "Tabaco picado",
+     "COFFEE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.295"
     ],
     [
      "STANLEY",
-     "Grape",
-     "Sobre",
-     "Tabaco picado",
+     "GRAPE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.296"
     ],
     [
      "STANLEY",
-     "Licorice",
-     "Sobre",
-     "Tabaco picado",
+     "LICORICE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.297"
     ],
     [
      "STANLEY",
-     "Mango",
-     "Sobre",
-     "Tabaco picado",
+     "MANGO",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.298"
     ],
     [
      "STANLEY",
-     "Mint",
-     "Sobre",
-     "Tabaco picado",
+     "MINT",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.299"
     ],
     [
      "STANLEY",
-     "Natural",
-     "Sobre",
-     "Tabaco picado",
+     "NATURAL",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.300"
     ],
     [
      "STANLEY",
-     "Original",
-     "Sobre",
-     "Tabaco picado",
+     "ORIGINAL",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.301"
     ],
     [
      "STANLEY",
-     "Peach",
-     "Sobre",
-     "Tabaco picado",
+     "PEACH",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.302"
     ],
     [
      "STANLEY",
-     "Raspberry",
-     "Sobre",
-     "Tabaco picado",
+     "RASPBERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.303"
     ],
     [
      "STANLEY",
-     "Strawberry",
-     "Sobre",
-     "Tabaco picado",
+     "STRAWBERRY",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.308"
     ],
     [
      "STANLEY",
-     "Vanilla",
-     "Sobre",
-     "Tabaco picado",
+     "VANILLA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.304"
     ],
     [
      "STANLEY",
-     "Vanilla Caramel",
-     "Sobre",
-     "Tabaco picado",
+     "VANILLA CARAMEL",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.305"
     ],
     [
      "STANLEY",
-     "Virginia",
-     "Sobre",
-     "Tabaco picado",
+     "VIRGINIA",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.307"
     ],
     [
      "STANLEY",
-     "Watermelon Canteloupe",
-     "Sobre",
-     "Tabaco picado",
+     "WATERMELON CANTELOUPE",
+     "SOBRE",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "4.306"
     ],
     [
      "STINGRAY TOBACCO",
-     "Bubble Gum Grape",
-     "Sobre",
-     "Tabaco picado",
+     "BUBBLE GUM GRAPE",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "1.154"
     ],
     [
      "STINGRAY TOBACCO",
-     "Chocolate",
-     "Sobre",
-     "Tabaco picado",
+     "CHOCOLATE",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "1.154"
     ],
     [
      "STINGRAY TOBACCO",
-     "Natural",
-     "Sobre",
-     "Tabaco picado",
+     "NATURAL",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "1.154"
     ],
     [
      "STINGRAY TOBACCO",
-     "Vanilla",
-     "Sobre",
-     "Tabaco picado",
+     "VANILLA",
+     "SOBRE",
+     "TABACO PICADO",
      "30",
-     "gramos",
+     "GRAMOS",
      "1.154"
     ],
     [
      "TENNESIE",
-     "American Blend",
-     "Bolsa",
-     "Tabaco Picado",
+     "AMERICAN BLEND",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Caramel",
-     "Bolsa",
-     "Tabaco Picado",
+     "CARAMEL",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Cherry",
-     "Bolsa",
-     "Tabaco Picado",
+     "CHERRY",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Chocolate",
-     "Bolsa",
-     "Tabaco Picado",
+     "CHOCOLATE",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Grape",
-     "Bolsa",
-     "Tabaco para liar",
+     "GRAPE",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Mint",
-     "Bolsa",
-     "Tabaco para liar",
+     "MINT",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Natural",
-     "Bolsa",
-     "Tabaco para liar",
+     "NATURAL",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Sailor's English Delight",
-     "Bolsa",
-     "Tabaco para pipa",
+     "SAILOR'S ENGLISH DELIGHT",
+     "BOLSA",
+     "TABACO PARA PIPA",
      "40",
-     "gramos",
+     "GRAMOS",
      "6.400"
     ],
     [
      "TENNESIE",
-     "Sailor's Pride Blossom Gold",
-     "Bolsa",
-     "Tabaco para pipa",
+     "SAILOR'S PRIDE BLOSSOM GOLD",
+     "BOLSA",
+     "TABACO PARA PIPA",
      "40",
-     "gramos",
+     "GRAMOS",
      "6.400"
     ],
     [
      "TENNESIE",
-     "Vanilla",
-     "Bolsa",
-     "Tabaco Picado",
+     "VANILLA",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "TENNESIE",
-     "Virginia",
-     "Bolsa",
-     "Tabaco Picado",
+     "VIRGINIA",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "5.800"
     ],
     [
      "VIRGINIA",
-     "Spring",
-     "Bolsa",
-     "Tabaco para liar",
+     "SPRING",
+     "BOLSA",
+     "TABACO PARA LIAR",
      "30",
-     "gramos",
+     "GRAMOS",
      "4.400"
     ],
     [
      "VIRGINIA SPRING",
-     "Vanilla",
-     "Bolsa",
-     "Tabaco picado",
+     "VANILLA",
+     "BOLSA",
+     "TABACO PICADO",
      "40",
-     "gramos",
+     "GRAMOS",
      "6.700"
     ]
    ]
